@@ -6,9 +6,12 @@
 
 | 路徑 | 說明 |
 |---|---|
-| `index.html` | 最終網頁。所有圖片以 base64 內嵌，單檔即可運行，無外部資源依賴。 |
-| `src/template.html` | 版型原始檔。圖片位置以 `__IMG_xxx__` 代號標示。 |
-| `src/build.py` | 建置腳本：把 `src/opt/` 的圖片轉成 base64 填入模板，輸出 `index.html`。 |
+| `index.html` | **A 版**（日系版型／企業綠）。圖片以 base64 內嵌，單檔即可運行。 |
+| `v2/index.html` | **B 版**（Battor 黃 × Yushiro 綠雙品牌／合作線條）。 |
+| `src/template.html` | A 版版型原始檔，圖片位置以 `__IMG_xxx__` 代號標示。 |
+| `src/template-v2.html` | B 版版型原始檔。 |
+| `src/build.py` | A 版建置腳本，輸出 `index.html`。 |
+| `src/build-v2.py` | B 版建置腳本，輸出 `v2.html`（需另存至 `v2/index.html`）。 |
 | `src/opt/` | 壓縮後的圖片素材。 |
 | `src/logo.png` | 圓華油品 logo 原檔。 |
 
@@ -20,7 +23,16 @@ cd src && python3 build.py
 
 腳本會讀取 `template.html` 與 `opt/` 內的圖片，輸出單一檔案。
 
-## 頁面區塊
+## 兩版設計
+
+| | A 版 | B 版 |
+|---|---|---|
+| 網址 | `/` | `/v2/` |
+| 主色 | 企業綠 `#0E663B`、金黃 `#F4AB01` | Battor 黃 `#F3C640`、Yushiro 深綠 `#003705`、中綠 `#16713C` |
+| 字體 | 明體標題（日系沉穩） | 黑體標題（現代明亮） |
+| 概念 | 日系企業網站版型，直式留白與細線分隔 | 黃綠雙線交會表達「合作」，圓角卡片與交扣圓環 |
+
+## 頁面區塊（A 版）
 
 1. 首圖 — 從油品開始，實踐更好的製造環境
 2. 關於圓華 — 不只提供油品，更從實際問題出發
