@@ -79,10 +79,10 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--yellow);outline-off
   display:grid;grid-template-columns:1fr auto 1fr;align-items:center;column-gap:clamp(14px,2.4vw,38px);
   max-width:var(--max);margin-inline:auto;padding:14px 28px;position:relative;
 }
-.brand{display:flex;flex-direction:column;align-items:center;gap:6px;text-decoration:none;justify-self:center}
+.brand{display:flex;flex-direction:column;align-items:center;gap:6px;text-decoration:none;justify-self:center;text-align:center}
 .brand img{width:46px;height:46px;background:#fff;border-radius:12px;padding:3px}
-.brand b{font-size:16px;letter-spacing:.16em;color:#fff;line-height:1}
-.brand small{display:block;font-family:var(--mono);font-size:8px;letter-spacing:.24em;color:rgba(255,255,255,.6);text-align:center;margin-top:3px}
+.brand b{display:block;font-size:16px;letter-spacing:.16em;color:#fff;line-height:1;text-align:center;text-indent:.16em}
+.brand small{display:block;font-family:var(--mono);font-size:8px;letter-spacing:.24em;color:rgba(255,255,255,.6);text-align:center;text-indent:.24em;margin-top:3px}
 
 .nav{display:flex;align-items:flex-start;gap:clamp(6px,1.5vw,22px);margin:0;padding:0}
 .nav-l{justify-content:flex-end}
@@ -124,7 +124,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--yellow);outline-off
   .hdr{background:rgba(0,55,5,.97)}
   .hdr-in{grid-template-columns:1fr;justify-items:start;padding:12px 28px}
   .brand{flex-direction:row;align-items:center;gap:10px;justify-self:start}
-  .brand small{text-align:left;margin-top:2px}
+  .brand b,.brand small{text-align:left;text-indent:0}
   .nav-l,.nav-r{display:none}
   .mnav{display:block}
 }
@@ -213,7 +213,14 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--yellow);outline-off
   border-radius:24px;background:var(--green-deep);color:#fff;
   padding:clamp(44px,6vw,72px) clamp(28px,6vw,80px);text-align:center;
 }
-.statement .curves{position:absolute;top:-8%;left:-24%;width:148%;height:116%;z-index:0;opacity:.7}
+.statement::after{
+  content:"";position:absolute;inset:0;z-index:0;pointer-events:none;
+  background:radial-gradient(58% 62% at 50% 46%,rgba(0,40,6,.62) 0%,rgba(0,40,6,.28) 55%,rgba(0,40,6,0) 100%);
+}
+.statement .curves{
+  position:absolute;top:-14%;left:-26%;width:152%;height:128%;z-index:0;
+  opacity:.26;filter:blur(13px);
+}
 .statement>*{position:relative;z-index:1}
 .statement .mark{
   display:block;font-family:var(--mono);font-size:11px;letter-spacing:.28em;
@@ -293,13 +300,16 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
 
 /* ===== animated curves ===== */
 .curves{pointer-events:none}
-.cv{animation:drift 26s ease-in-out infinite alternate}
-.cv2{animation-duration:34s;animation-delay:-6s}
-.cv3{animation-duration:44s;animation-delay:-14s}
-@keyframes drift{
-  0%{transform:translate3d(-46px,10px,0) scaleY(1)}
-  50%{transform:translate3d(22px,-16px,0) scaleY(1.09)}
-  100%{transform:translate3d(48px,8px,0) scaleY(.93)}
+.rb{transform-box:fill-box;transform-origin:center;animation:swell 18s ease-in-out infinite alternate}
+.rb2{animation-duration:23s;animation-delay:-7s}
+.rb3{animation-duration:15s;animation-delay:-4s}
+.rb4{animation-duration:27s;animation-delay:-11s}
+.rb5{animation-duration:20s;animation-delay:-15s}
+@keyframes swell{
+  0%{transform:translate3d(-9%,4%,0) scale(1.02,.88) rotate(-1.2deg)}
+  35%{transform:translate3d(-2%,-3%,0) scale(1.06,1.16) rotate(.6deg)}
+  70%{transform:translate3d(5%,3%,0) scale(1.03,.94) rotate(1.4deg)}
+  100%{transform:translate3d(10%,-4%,0) scale(1.07,1.12) rotate(-.5deg)}
 }
 
 .wavefield{
@@ -333,7 +343,7 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
 }
 
 @media(prefers-reduced-motion:reduce){
-  .cv,.wavefield path,.orbits .pair,.orbits .r1,.orbits .r2,.blobs span{animation:none}
+  .rb,.wavefield path,.orbits .pair,.orbits .r1,.orbits .r2,.blobs span{animation:none}
 }
 
 .reveal{opacity:0;transform:translateY(18px);transition:opacity .7s ease,transform .7s ease}
@@ -549,20 +559,31 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
       <article><h3>環境<em>ENVIRONMENT</em></h3><p>從植物性油品、廢水處理到後續清運，讓環境考量真正進入製造流程。</p></article>
     </div>
     <div class="statement reveal">
-      <svg class="curves" viewBox="0 0 1200 420" preserveAspectRatio="none" aria-hidden="true" fill="none">
-        <path class="cv cv1" d="M-320 78 C 40 0, 280 150, 620 78 S 1180 0, 1520 78" stroke="#FFFFFF" stroke-width="0.8" opacity="0.12"/>
-        <path class="cv cv2" d="M-320 104 C 40 26, 280 176, 620 104 S 1180 26, 1520 104" stroke="#F3C640" stroke-width="1.0" opacity="0.24"/>
-        <path class="cv cv3" d="M-320 128 C 40 50, 280 200, 620 128 S 1180 50, 1520 128" stroke="#5FCB8B" stroke-width="1.0" opacity="0.22"/>
-        <path class="cv cv1" d="M-320 162 C 40 84, 280 234, 620 162 S 1180 84, 1520 162" stroke="#F3C640" stroke-width="1.5" opacity="0.42"/>
-        <path class="cv cv2" d="M-320 186 C 40 108, 280 258, 620 186 S 1180 108, 1520 186" stroke="#F3C640" stroke-width="1.1" opacity="0.3"/>
-        <path class="cv cv3" d="M-320 216 C 40 138, 280 288, 620 216 S 1180 138, 1520 216" stroke="#FFFFFF" stroke-width="1.0" opacity="0.16"/>
-        <path class="cv cv1" d="M-320 244 C 40 166, 280 316, 620 244 S 1180 166, 1520 244" stroke="#5FCB8B" stroke-width="1.5" opacity="0.44"/>
-        <path class="cv cv2" d="M-320 268 C 40 190, 280 340, 620 268 S 1180 190, 1520 268" stroke="#5FCB8B" stroke-width="1.1" opacity="0.3"/>
-        <path class="cv cv3" d="M-320 300 C 40 222, 280 372, 620 300 S 1180 222, 1520 300" stroke="#F3C640" stroke-width="1.6" opacity="0.55"/>
-        <path class="cv cv1" d="M-320 322 C 40 244, 280 394, 620 322 S 1180 244, 1520 322" stroke="#F3C640" stroke-width="1.2" opacity="0.36"/>
-        <path class="cv cv2" d="M-320 350 C 40 272, 280 422, 620 350 S 1180 272, 1520 350" stroke="#5FCB8B" stroke-width="1.5" opacity="0.46"/>
-        <path class="cv cv3" d="M-320 372 C 40 294, 280 444, 620 372 S 1180 294, 1520 372" stroke="#5FCB8B" stroke-width="1.0" opacity="0.28"/>
-        <path class="cv cv1" d="M-320 396 C 40 318, 280 468, 620 396 S 1180 318, 1520 396" stroke="#FFFFFF" stroke-width="0.8" opacity="0.14"/>
+      <svg class="curves" viewBox="0 0 1200 420" preserveAspectRatio="none" aria-hidden="true">
+        <defs>
+          <linearGradient id="rbY" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0%" stop-color="#F3C640" stop-opacity="0"/>
+            <stop offset="45%" stop-color="#F3C640" stop-opacity=".85"/>
+            <stop offset="100%" stop-color="#F3C640" stop-opacity="0"/>
+          </linearGradient>
+          <linearGradient id="rbG" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0%" stop-color="#5FCB8B" stop-opacity="0"/>
+            <stop offset="52%" stop-color="#5FCB8B" stop-opacity=".8"/>
+            <stop offset="100%" stop-color="#5FCB8B" stop-opacity="0"/>
+          </linearGradient>
+          <linearGradient id="rbW" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+            <stop offset="50%" stop-color="#FFFFFF" stop-opacity=".7"/>
+            <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+          </linearGradient>
+        </defs>
+        <g class="ribbons">
+          <path class="rb rb1" fill="url(#rbY)" d="M-360 210 C 40 90, 320 300, 640 190 S 1180 60, 1560 170 L1560 232 C 1180 122, 640 252, 640 252 S 40 152, -360 272 Z"/>
+          <path class="rb rb2" fill="url(#rbG)" d="M-360 300 C 60 190, 340 400, 660 280 S 1200 150, 1560 260 L1560 340 C 1200 230, 660 360, 660 360 S 60 270, -360 380 Z"/>
+          <path class="rb rb3" fill="url(#rbW)" d="M-360 150 C 100 40, 380 250, 700 130 S 1220 10, 1560 110 L1560 150 C 1220 50, 700 170, 700 170 S 100 80, -360 190 Z"/>
+          <path class="rb rb4" fill="url(#rbY)" d="M-360 370 C 120 280, 400 450, 720 350 S 1240 240, 1560 340 L1560 386 C 1240 286, 720 396, 720 396 S 120 326, -360 416 Z"/>
+          <path class="rb rb5" fill="url(#rbG)" d="M-360 90 C 140 -10, 420 190, 760 70 S 1260 -30, 1560 60 L1560 92 C 1260 2, 760 102, 760 102 S 140 22, -360 122 Z"/>
+        </g>
       </svg>
       <span class="mark">OUR COMMITMENT</span>
       <q>圓華重視的，是提供<b>適合的產品</b>、說明<b>真實的使用條件</b>，並在客戶需要時，把該做的服務做好。</q>
