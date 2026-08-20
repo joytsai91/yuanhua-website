@@ -247,22 +247,34 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--yellow);outline-off
 .ind>.wrap{position:relative;z-index:2}
 .linefield{
   position:absolute;left:-12%;width:124%;top:16%;height:84%;z-index:1;pointer-events:none;
-  opacity:.95;
+  opacity:.78;
   -webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 24%,#000 84%,transparent 100%);
   mask-image:linear-gradient(to bottom,transparent 0%,#000 24%,#000 84%,transparent 100%);
 }
 .linefield .ln{
   transform-box:fill-box;transform-origin:center;
-  animation:sheet 9s ease-in-out infinite alternate;
-  animation-delay:calc(var(--i) * -0.16s);
+  animation:sheet 11s ease-in-out infinite alternate;
+  animation-delay:calc(var(--i) * -0.13s);
 }
+.linefield .ln:nth-child(3n){animation-duration:14s;animation-name:sheet2}
+.linefield .ln:nth-child(5n){animation-duration:8.5s;animation-name:sheet3}
 @keyframes sheet{
-  0%{transform:translate3d(-2%,-10px,0) scaleY(.86)}
-  50%{transform:translate3d(1%,4px,0) scaleY(1.14)}
-  100%{transform:translate3d(3%,12px,0) scaleY(.92)}
+  0%{transform:translate3d(-3%,-14px,0) scaleY(.78) rotate(-.5deg)}
+  50%{transform:translate3d(1%,6px,0) scaleY(1.2) rotate(.3deg)}
+  100%{transform:translate3d(4%,16px,0) scaleY(.88) rotate(.7deg)}
 }
-:root[data-theme="dark"] .linefield{opacity:.42}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .linefield{opacity:.42}}
+@keyframes sheet2{
+  0%{transform:translate3d(2%,10px,0) scaleY(1.14) rotate(.4deg)}
+  50%{transform:translate3d(-2%,-8px,0) scaleY(.82) rotate(-.6deg)}
+  100%{transform:translate3d(-4%,-16px,0) scaleY(1.08) rotate(.2deg)}
+}
+@keyframes sheet3{
+  0%{transform:translate3d(0,4px,0) scaleY(.94) scaleX(1.02)}
+  50%{transform:translate3d(3%,-12px,0) scaleY(1.26) scaleX(.99)}
+  100%{transform:translate3d(-1%,8px,0) scaleY(.9) scaleX(1.03)}
+}
+:root[data-theme="dark"] .linefield{opacity:.34}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .linefield{opacity:.34}}
 .ind-grid{display:grid;grid-template-columns:repeat(6,1fr);gap:16px;margin-top:clamp(34px,4vw,48px)}
 @media(max-width:900px){.ind-grid{grid-template-columns:repeat(3,1fr)}}
 @media(max-width:520px){.ind-grid{grid-template-columns:repeat(2,1fr)}}
@@ -624,36 +636,52 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
 <section class="ind" id="ind">
   <div class="ind-bg"><img src="__IMG_cnc__" alt="" /></div>
   <svg class="linefield" viewBox="0 0 1200 420" preserveAspectRatio="none" aria-hidden="true" fill="none">
-      <path class="ln" style="--i:0" d="M-120 102 C 180 6, 340 176, 620 102 S 1000 44, 1320 68" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.60"/>
-      <path class="ln" style="--i:1" d="M-120 109 C 180 14, 340 182, 620 109 S 1000 52, 1320 76" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.62"/>
-      <path class="ln" style="--i:2" d="M-120 116 C 180 23, 340 189, 620 116 S 1000 60, 1320 83" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.63"/>
-      <path class="ln" style="--i:3" d="M-120 124 C 180 31, 340 195, 620 124 S 1000 68, 1320 91" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.65"/>
-      <path class="ln" style="--i:4" d="M-120 131 C 180 39, 340 201, 620 131 S 1000 76, 1320 98" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.67"/>
-      <path class="ln" style="--i:5" d="M-120 138 C 180 48, 340 208, 620 138 S 1000 83, 1320 106" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.68"/>
-      <path class="ln" style="--i:6" d="M-120 145 C 180 56, 340 214, 620 145 S 1000 91, 1320 114" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.70"/>
-      <path class="ln" style="--i:7" d="M-120 152 C 180 64, 340 220, 620 152 S 1000 99, 1320 121" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.72"/>
-      <path class="ln" style="--i:8" d="M-120 160 C 180 73, 340 226, 620 160 S 1000 107, 1320 129" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.73"/>
-      <path class="ln" style="--i:9" d="M-120 167 C 180 81, 340 233, 620 167 S 1000 115, 1320 136" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.75"/>
-      <path class="ln" style="--i:10" d="M-120 174 C 180 90, 340 239, 620 174 S 1000 123, 1320 144" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.77"/>
-      <path class="ln" style="--i:11" d="M-120 181 C 180 98, 340 245, 620 181 S 1000 131, 1320 152" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.78"/>
-      <path class="ln" style="--i:12" d="M-120 188 C 180 106, 340 252, 620 188 S 1000 139, 1320 159" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.78"/>
-      <path class="ln" style="--i:13" d="M-120 196 C 180 115, 340 258, 620 196 S 1000 147, 1320 167" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.78"/>
-      <path class="ln" style="--i:14" d="M-120 203 C 180 123, 340 264, 620 203 S 1000 155, 1320 175" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.78"/>
-      <path class="ln" style="--i:15" d="M-120 210 C 180 131, 340 271, 620 210 S 1000 162, 1320 182" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.78"/>
-      <path class="ln" style="--i:16" d="M-120 217 C 180 140, 340 277, 620 217 S 1000 170, 1320 190" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.78"/>
-      <path class="ln" style="--i:17" d="M-120 224 C 180 148, 340 283, 620 224 S 1000 178, 1320 197" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.78"/>
-      <path class="ln" style="--i:18" d="M-120 232 C 180 156, 340 290, 620 232 S 1000 186, 1320 205" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.78"/>
-      <path class="ln" style="--i:19" d="M-120 239 C 180 165, 340 296, 620 239 S 1000 194, 1320 213" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.78"/>
-      <path class="ln" style="--i:20" d="M-120 246 C 180 173, 340 302, 620 246 S 1000 202, 1320 220" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.77"/>
-      <path class="ln" style="--i:21" d="M-120 253 C 180 181, 340 309, 620 253 S 1000 210, 1320 228" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.75"/>
-      <path class="ln" style="--i:22" d="M-120 260 C 180 190, 340 315, 620 260 S 1000 218, 1320 235" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.73"/>
-      <path class="ln" style="--i:23" d="M-120 268 C 180 198, 340 321, 620 268 S 1000 226, 1320 243" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.72"/>
-      <path class="ln" style="--i:24" d="M-120 275 C 180 206, 340 327, 620 275 S 1000 234, 1320 251" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.70"/>
-      <path class="ln" style="--i:25" d="M-120 282 C 180 215, 340 334, 620 282 S 1000 241, 1320 258" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.68"/>
-      <path class="ln" style="--i:26" d="M-120 289 C 180 223, 340 340, 620 289 S 1000 249, 1320 266" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.67"/>
-      <path class="ln" style="--i:27" d="M-120 296 C 180 232, 340 346, 620 296 S 1000 257, 1320 273" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.65"/>
-      <path class="ln" style="--i:28" d="M-120 304 C 180 240, 340 353, 620 304 S 1000 265, 1320 281" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.63"/>
-      <path class="ln" style="--i:29" d="M-120 311 C 180 248, 340 359, 620 311 S 1000 273, 1320 289" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.62"/>
+      <path class="ln" style="--i:0" d="M-140 120 C 150 42, 350 184, 600 126 S 980 65, 1340 94" stroke="url(#ygrad)" stroke-width="0.96" opacity="0.176"/>
+      <path class="ln" style="--i:1" d="M-140 126 C 151 49, 351 187, 600 131 S 979 71, 1340 100" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.186"/>
+      <path class="ln" style="--i:2" d="M-140 131 C 152 55, 351 190, 600 135 S 979 77, 1340 105" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.196"/>
+      <path class="ln" style="--i:3" d="M-140 137 C 153 61, 352 193, 600 140 S 978 83, 1340 111" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.207"/>
+      <path class="ln" style="--i:4" d="M-140 142 C 154 68, 352 196, 600 144 S 978 89, 1340 116" stroke="url(#ygrad)" stroke-width="0.84" opacity="0.216"/>
+      <path class="ln" style="--i:5" d="M-140 148 C 155 74, 353 199, 600 148 S 977 95, 1340 122" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.227"/>
+      <path class="ln" style="--i:6" d="M-140 153 C 156 81, 354 202, 600 153 S 977 101, 1340 127" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.236"/>
+      <path class="ln" style="--i:7" d="M-140 159 C 157 87, 354 206, 600 157 S 976 107, 1340 133" stroke="url(#ygrad)" stroke-width="0.74" opacity="0.247"/>
+      <path class="ln" style="--i:8" d="M-140 164 C 158 93, 355 209, 600 161 S 976 112, 1340 138" stroke="url(#ygrad)" stroke-width="0.84" opacity="0.257"/>
+      <path class="ln" style="--i:9" d="M-140 170 C 159 99, 356 212, 600 165 S 975 118, 1340 144" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.267"/>
+      <path class="ln" style="--i:10" d="M-140 175 C 160 106, 356 216, 600 170 S 975 124, 1340 149" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.278"/>
+      <path class="ln" style="--i:11" d="M-140 180 C 161 112, 357 219, 600 174 S 974 129, 1340 155" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.288"/>
+      <path class="ln" style="--i:12" d="M-140 185 C 162 117, 357 223, 600 178 S 974 135, 1340 160" stroke="url(#ygrad)" stroke-width="0.84" opacity="0.298"/>
+      <path class="ln" style="--i:13" d="M-140 191 C 163 123, 358 226, 600 182 S 973 140, 1340 165" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.308"/>
+      <path class="ln" style="--i:14" d="M-140 196 C 164 129, 359 230, 600 186 S 973 146, 1340 171" stroke="url(#ygrad)" stroke-width="0.74" opacity="0.319"/>
+      <path class="ln" style="--i:15" d="M-140 201 C 165 135, 359 234, 600 190 S 972 151, 1340 176" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.328"/>
+      <path class="ln" style="--i:16" d="M-140 206 C 166 140, 360 237, 600 194 S 972 156, 1340 181" stroke="url(#ygrad)" stroke-width="0.84" opacity="0.339"/>
+      <path class="ln" style="--i:17" d="M-140 211 C 167 146, 360 241, 600 198 S 971 161, 1340 186" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.348"/>
+      <path class="ln" style="--i:18" d="M-140 216 C 168 151, 361 245, 600 202 S 971 166, 1340 192" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.359"/>
+      <path class="ln" style="--i:19" d="M-140 221 C 169 156, 362 250, 600 206 S 970 171, 1340 197" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.370"/>
+      <path class="ln" style="--i:20" d="M-140 226 C 170 161, 362 254, 600 210 S 970 176, 1340 202" stroke="url(#ygrad)" stroke-width="0.84" opacity="0.379"/>
+      <path class="ln" style="--i:21" d="M-140 230 C 171 166, 363 258, 600 214 S 969 181, 1340 207" stroke="url(#ygrad)" stroke-width="0.74" opacity="0.390"/>
+      <path class="ln" style="--i:22" d="M-140 235 C 172 170, 363 263, 600 218 S 969 186, 1340 212" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.400"/>
+      <path class="ln" style="--i:23" d="M-140 240 C 174 175, 364 267, 600 223 S 968 190, 1340 217" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.400"/>
+      <path class="ln" style="--i:24" d="M-140 244 C 175 180, 365 272, 600 227 S 968 195, 1340 222" stroke="url(#ygrad)" stroke-width="0.84" opacity="0.390"/>
+      <path class="ln" style="--i:25" d="M-140 249 C 176 184, 365 277, 600 231 S 967 199, 1340 226" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.379"/>
+      <path class="ln" style="--i:26" d="M-140 253 C 177 188, 366 282, 600 235 S 967 204, 1340 231" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.370"/>
+      <path class="ln" style="--i:27" d="M-140 258 C 178 192, 367 287, 600 239 S 966 208, 1340 236" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.359"/>
+      <path class="ln" style="--i:28" d="M-140 262 C 179 196, 367 292, 600 244 S 966 212, 1340 241" stroke="url(#ygrad)" stroke-width="0.96" opacity="0.348"/>
+      <path class="ln" style="--i:29" d="M-140 266 C 180 200, 368 297, 600 248 S 965 216, 1340 245" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.339"/>
+      <path class="ln" style="--i:30" d="M-140 270 C 181 204, 368 303, 600 252 S 965 220, 1340 250" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.328"/>
+      <path class="ln" style="--i:31" d="M-140 274 C 182 207, 369 308, 600 257 S 964 224, 1340 255" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.319"/>
+      <path class="ln" style="--i:32" d="M-140 278 C 183 211, 370 314, 600 261 S 964 228, 1340 259" stroke="url(#ygrad)" stroke-width="0.84" opacity="0.308"/>
+      <path class="ln" style="--i:33" d="M-140 282 C 184 214, 370 319, 600 266 S 963 231, 1340 263" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.298"/>
+      <path class="ln" style="--i:34" d="M-140 286 C 185 217, 371 325, 600 270 S 963 235, 1340 268" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.288"/>
+      <path class="ln" style="--i:35" d="M-140 290 C 186 221, 371 331, 600 275 S 962 239, 1340 272" stroke="url(#ygrad)" stroke-width="0.74" opacity="0.278"/>
+      <path class="ln" style="--i:36" d="M-140 294 C 187 224, 372 336, 600 280 S 962 242, 1340 277" stroke="url(#ygrad)" stroke-width="0.84" opacity="0.267"/>
+      <path class="ln" style="--i:37" d="M-140 298 C 188 227, 373 342, 600 284 S 961 246, 1340 281" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.257"/>
+      <path class="ln" style="--i:38" d="M-140 302 C 189 230, 373 348, 600 289 S 961 249, 1340 285" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.247"/>
+      <path class="ln" style="--i:39" d="M-140 306 C 190 233, 374 354, 600 294 S 960 253, 1340 289" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.236"/>
+      <path class="ln" style="--i:40" d="M-140 309 C 191 235, 375 360, 600 299 S 960 256, 1340 293" stroke="url(#ygrad)" stroke-width="0.84" opacity="0.227"/>
+      <path class="ln" style="--i:41" d="M-140 313 C 192 238, 375 366, 600 304 S 959 259, 1340 297" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.216"/>
+      <path class="ln" style="--i:42" d="M-140 317 C 193 241, 376 373, 600 309 S 959 263, 1340 301" stroke="url(#ygrad)" stroke-width="0.74" opacity="0.207"/>
+      <path class="ln" style="--i:43" d="M-140 320 C 194 244, 376 379, 600 314 S 958 266, 1340 305" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.196"/>
+      <path class="ln" style="--i:44" d="M-140 324 C 195 246, 377 385, 600 319 S 958 269, 1340 309" stroke="url(#ygrad)" stroke-width="0.84" opacity="0.186"/>
+      <path class="ln" style="--i:45" d="M-140 328 C 196 249, 378 391, 600 324 S 957 272, 1340 313" stroke="url(#ygrad)" stroke-width="0.62" opacity="0.176"/>
   </svg>
   <div class="wrap">
     <div class="sec-head reveal">
