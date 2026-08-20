@@ -84,14 +84,15 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--yellow);outline-off
 .brand b{font-size:16px;letter-spacing:.16em;color:#fff;line-height:1}
 .brand small{display:block;font-family:var(--mono);font-size:8px;letter-spacing:.24em;color:rgba(255,255,255,.6);text-align:center;margin-top:3px}
 
-.nav{display:flex;align-items:center;gap:clamp(6px,1.5vw,22px);margin:0;padding:0}
+.nav{display:flex;align-items:flex-start;gap:clamp(6px,1.5vw,22px);margin:0;padding:0}
 .nav-l{justify-content:flex-end}
 .nav-r{justify-content:flex-start}
 .nav>li{list-style:none;position:relative}
-.nav>li>a{display:block;text-decoration:none;color:#fff;font-size:13.5px;font-weight:500;letter-spacing:.04em;padding:9px 2px 7px;line-height:1.35;white-space:nowrap;border-bottom:2px solid transparent}
+.nav>li>a{position:relative;display:block;text-decoration:none;color:#fff;font-size:13.5px;font-weight:500;letter-spacing:.04em;padding:9px 2px 7px;line-height:1.35;white-space:nowrap;border-bottom:2px solid transparent;text-align:center}
 .nav>li>a small{display:block;font-family:var(--mono);font-size:8.5px;line-height:1.2;letter-spacing:.14em;color:rgba(255,255,255,.55);text-align:center;margin-top:4px}
 .nav>li:hover>a,.nav>li:focus-within>a{border-bottom-color:var(--yellow)}
-.nav>li.has>a::after{content:"▾";font-size:9px;margin-left:5px;color:rgba(255,255,255,.6)}
+.nav>li.has>a{padding-right:14px}
+.nav>li.has>a::after{content:"▾";position:absolute;top:9px;right:0;font-size:9px;line-height:1.35;color:rgba(255,255,255,.6)}
 .sub{position:absolute;top:100%;left:50%;transform:translate(-50%,8px);min-width:236px;padding:8px 0;margin:0;list-style:none;background:rgba(0,45,6,.98);border-radius:10px;box-shadow:0 26px 50px -26px rgba(0,0,0,.75);opacity:0;visibility:hidden;transition:opacity .22s ease,transform .22s ease,visibility .22s;z-index:3}
 .nav>li:hover .sub,.nav>li:focus-within .sub{opacity:1;visibility:visible;transform:translate(-50%,0)}
 .sub a{display:block;padding:9px 20px;text-decoration:none;color:var(--on-dark);font-size:13px;line-height:1.5;white-space:nowrap;border-left:3px solid transparent}
@@ -212,7 +213,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--yellow);outline-off
   border-radius:24px;background:var(--green-deep);color:#fff;
   padding:clamp(44px,6vw,72px) clamp(28px,6vw,80px);text-align:center;
 }
-.statement .curves{position:absolute;inset:0;z-index:0;opacity:.5}
+.statement .curves{position:absolute;top:-8%;left:-24%;width:148%;height:116%;z-index:0;opacity:.7}
 .statement>*{position:relative;z-index:1}
 .statement .mark{
   display:block;font-family:var(--mono);font-size:11px;letter-spacing:.28em;
@@ -296,9 +297,9 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
 .cv2{animation-duration:34s;animation-delay:-6s}
 .cv3{animation-duration:44s;animation-delay:-14s}
 @keyframes drift{
-  0%{transform:translate3d(-28px,10px,0) scaleY(1)}
-  50%{transform:translate3d(14px,-14px,0) scaleY(1.08)}
-  100%{transform:translate3d(30px,8px,0) scaleY(.94)}
+  0%{transform:translate3d(-46px,10px,0) scaleY(1)}
+  50%{transform:translate3d(22px,-16px,0) scaleY(1.09)}
+  100%{transform:translate3d(48px,8px,0) scaleY(.93)}
 }
 
 .wavefield{
@@ -312,9 +313,11 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
 @keyframes flow{from{stroke-dashoffset:0}to{stroke-dashoffset:-1200}}
 
 .orbits{position:absolute;inset:0;z-index:0;overflow:hidden}
-.orbits .o{transform-origin:center;animation:spin 60s linear infinite}
-.orbits .o2{animation-duration:88s;animation-direction:reverse}
+.orbits .pair{transform-origin:204px 130px;animation:spin 46s linear infinite}
+.orbits .r1{transform-origin:160px 130px;animation:breathe 11s ease-in-out infinite}
+.orbits .r2{transform-origin:248px 130px;animation:breathe 11s ease-in-out infinite;animation-delay:-5.5s}
 @keyframes spin{to{transform:rotate(360deg)}}
+@keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.07)}}
 
 .blobs{position:absolute;inset:0;z-index:0;overflow:hidden;pointer-events:none}
 .blobs span{
@@ -330,7 +333,7 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
 }
 
 @media(prefers-reduced-motion:reduce){
-  .cv,.wavefield path,.orbits .o,.blobs span{animation:none}
+  .cv,.wavefield path,.orbits .pair,.orbits .r1,.orbits .r2,.blobs span{animation:none}
 }
 
 .reveal{opacity:0;transform:translateY(18px);transition:opacity .7s ease,transform .7s ease}
@@ -403,8 +406,10 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
   <div class="hero-media"><img src="__IMG_hero__" alt="Battor 與 Yushiro 油桶" /></div>
   <div class="orbits" aria-hidden="true">
     <svg class="hero-link" viewBox="0 0 400 260" fill="none">
-      <g class="o"><circle cx="160" cy="130" r="86" stroke="#F3C640" stroke-width="10" stroke-dasharray="360 180"/></g>
-      <g class="o o2"><circle cx="248" cy="130" r="86" stroke="#5FCB8B" stroke-width="10" stroke-dasharray="320 220"/></g>
+      <g class="pair">
+        <circle class="r1" cx="160" cy="130" r="86" stroke="#F3C640" stroke-width="10"/>
+        <circle class="r2" cx="248" cy="130" r="86" stroke="#5FCB8B" stroke-width="10"/>
+      </g>
     </svg>
   </div>
   <div class="hero-in">
@@ -545,9 +550,19 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
     </div>
     <div class="statement reveal">
       <svg class="curves" viewBox="0 0 1200 420" preserveAspectRatio="none" aria-hidden="true" fill="none">
-        <path class="cv cv1" d="M-200 300 C 100 200, 300 380, 600 280 S 1100 180, 1400 260" stroke="#F3C640" stroke-width="2" opacity=".55"/>
-        <path class="cv cv2" d="M-200 340 C 120 250, 340 420, 640 320 S 1120 220, 1400 300" stroke="#5FCB8B" stroke-width="2" opacity=".5"/>
-        <path class="cv cv3" d="M-200 250 C 160 160, 380 330, 660 240 S 1140 150, 1400 220" stroke="#FFFFFF" stroke-width="1" opacity=".18"/>
+        <path class="cv cv1" d="M-320 78 C 40 0, 280 150, 620 78 S 1180 0, 1520 78" stroke="#FFFFFF" stroke-width="0.8" opacity="0.12"/>
+        <path class="cv cv2" d="M-320 104 C 40 26, 280 176, 620 104 S 1180 26, 1520 104" stroke="#F3C640" stroke-width="1.0" opacity="0.24"/>
+        <path class="cv cv3" d="M-320 128 C 40 50, 280 200, 620 128 S 1180 50, 1520 128" stroke="#5FCB8B" stroke-width="1.0" opacity="0.22"/>
+        <path class="cv cv1" d="M-320 162 C 40 84, 280 234, 620 162 S 1180 84, 1520 162" stroke="#F3C640" stroke-width="1.5" opacity="0.42"/>
+        <path class="cv cv2" d="M-320 186 C 40 108, 280 258, 620 186 S 1180 108, 1520 186" stroke="#F3C640" stroke-width="1.1" opacity="0.3"/>
+        <path class="cv cv3" d="M-320 216 C 40 138, 280 288, 620 216 S 1180 138, 1520 216" stroke="#FFFFFF" stroke-width="1.0" opacity="0.16"/>
+        <path class="cv cv1" d="M-320 244 C 40 166, 280 316, 620 244 S 1180 166, 1520 244" stroke="#5FCB8B" stroke-width="1.5" opacity="0.44"/>
+        <path class="cv cv2" d="M-320 268 C 40 190, 280 340, 620 268 S 1180 190, 1520 268" stroke="#5FCB8B" stroke-width="1.1" opacity="0.3"/>
+        <path class="cv cv3" d="M-320 300 C 40 222, 280 372, 620 300 S 1180 222, 1520 300" stroke="#F3C640" stroke-width="1.6" opacity="0.55"/>
+        <path class="cv cv1" d="M-320 322 C 40 244, 280 394, 620 322 S 1180 244, 1520 322" stroke="#F3C640" stroke-width="1.2" opacity="0.36"/>
+        <path class="cv cv2" d="M-320 350 C 40 272, 280 422, 620 350 S 1180 272, 1520 350" stroke="#5FCB8B" stroke-width="1.5" opacity="0.46"/>
+        <path class="cv cv3" d="M-320 372 C 40 294, 280 444, 620 372 S 1180 294, 1520 372" stroke="#5FCB8B" stroke-width="1.0" opacity="0.28"/>
+        <path class="cv cv1" d="M-320 396 C 40 318, 280 468, 620 396 S 1180 318, 1520 396" stroke="#FFFFFF" stroke-width="0.8" opacity="0.14"/>
       </svg>
       <span class="mark">OUR COMMITMENT</span>
       <q>圓華重視的，是提供<b>適合的產品</b>、說明<b>真實的使用條件</b>，並在客戶需要時，把該做的服務做好。</q>
@@ -633,8 +648,10 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
 <section class="cta" id="contact">
   <div class="orbits" aria-hidden="true">
     <svg class="cta-link" viewBox="0 0 400 260" fill="none">
-      <g class="o"><circle cx="160" cy="130" r="86" stroke="#F3C640" stroke-width="10" stroke-dasharray="330 210"/></g>
-      <g class="o o2"><circle cx="248" cy="130" r="86" stroke="#5FCB8B" stroke-width="10" stroke-dasharray="300 240"/></g>
+      <g class="pair">
+        <circle class="r1" cx="160" cy="130" r="86" stroke="#F3C640" stroke-width="10"/>
+        <circle class="r2" cx="248" cy="130" r="86" stroke="#5FCB8B" stroke-width="10"/>
+      </g>
     </svg>
   </div>
   <div class="wrap">
