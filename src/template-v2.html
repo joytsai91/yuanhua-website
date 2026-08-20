@@ -244,11 +244,29 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--yellow);outline-off
 .ind-bg::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,var(--paper-2) 0%,rgba(243,238,226,.72) 40%,var(--paper-2) 100%)}
 :root[data-theme="dark"] .ind-bg::after{background:linear-gradient(180deg,var(--paper-2) 0%,rgba(19,29,22,.78) 40%,var(--paper-2) 100%)}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .ind-bg::after{background:linear-gradient(180deg,var(--paper-2) 0%,rgba(19,29,22,.78) 40%,var(--paper-2) 100%)}}
-.ind>.wrap{position:relative;z-index:1}
+.ind>.wrap{position:relative;z-index:2}
+.linefield{
+  position:absolute;left:-12%;width:124%;top:16%;height:84%;z-index:1;pointer-events:none;
+  opacity:.95;
+  -webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 24%,#000 84%,transparent 100%);
+  mask-image:linear-gradient(to bottom,transparent 0%,#000 24%,#000 84%,transparent 100%);
+}
+.linefield .ln{
+  transform-box:fill-box;transform-origin:center;
+  animation:sheet 9s ease-in-out infinite alternate;
+  animation-delay:calc(var(--i) * -0.16s);
+}
+@keyframes sheet{
+  0%{transform:translate3d(-2%,-10px,0) scaleY(.86)}
+  50%{transform:translate3d(1%,4px,0) scaleY(1.14)}
+  100%{transform:translate3d(3%,12px,0) scaleY(.92)}
+}
+:root[data-theme="dark"] .linefield{opacity:.42}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .linefield{opacity:.42}}
 .ind-grid{display:grid;grid-template-columns:repeat(6,1fr);gap:16px;margin-top:clamp(34px,4vw,48px)}
 @media(max-width:900px){.ind-grid{grid-template-columns:repeat(3,1fr)}}
 @media(max-width:520px){.ind-grid{grid-template-columns:repeat(2,1fr)}}
-.ind-grid div{background:var(--card);border-radius:14px;padding:26px 14px;display:flex;flex-direction:column;align-items:center;gap:13px;text-align:center;box-shadow:var(--shadow);transition:transform .3s ease}
+.ind-grid div{position:relative;z-index:2;background:var(--card);border-radius:14px;padding:26px 14px;display:flex;flex-direction:column;align-items:center;gap:13px;text-align:center;box-shadow:var(--shadow);transition:transform .3s ease}
 .ind-grid div:hover{transform:translateY(-4px)}
 .ind-grid svg{width:38px;height:38px;stroke:url(#ygrad);fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
 .ind-grid b{font-size:13.5px;font-weight:600}
@@ -343,7 +361,7 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
 }
 
 @media(prefers-reduced-motion:reduce){
-  .rb,.wavefield path,.orbits .pair,.orbits .r1,.orbits .r2,.blobs span{animation:none}
+  .rb,.wavefield path,.orbits .pair,.orbits .r1,.orbits .r2,.blobs span,.linefield .ln{animation:none}
 }
 
 .reveal{opacity:0;transform:translateY(18px);transition:opacity .7s ease,transform .7s ease}
@@ -605,6 +623,38 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
 
 <section class="ind" id="ind">
   <div class="ind-bg"><img src="__IMG_cnc__" alt="" /></div>
+  <svg class="linefield" viewBox="0 0 1200 420" preserveAspectRatio="none" aria-hidden="true" fill="none">
+      <path class="ln" style="--i:0" d="M-120 102 C 180 6, 340 176, 620 102 S 1000 44, 1320 68" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.60"/>
+      <path class="ln" style="--i:1" d="M-120 109 C 180 14, 340 182, 620 109 S 1000 52, 1320 76" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.62"/>
+      <path class="ln" style="--i:2" d="M-120 116 C 180 23, 340 189, 620 116 S 1000 60, 1320 83" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.63"/>
+      <path class="ln" style="--i:3" d="M-120 124 C 180 31, 340 195, 620 124 S 1000 68, 1320 91" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.65"/>
+      <path class="ln" style="--i:4" d="M-120 131 C 180 39, 340 201, 620 131 S 1000 76, 1320 98" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.67"/>
+      <path class="ln" style="--i:5" d="M-120 138 C 180 48, 340 208, 620 138 S 1000 83, 1320 106" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.68"/>
+      <path class="ln" style="--i:6" d="M-120 145 C 180 56, 340 214, 620 145 S 1000 91, 1320 114" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.70"/>
+      <path class="ln" style="--i:7" d="M-120 152 C 180 64, 340 220, 620 152 S 1000 99, 1320 121" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.72"/>
+      <path class="ln" style="--i:8" d="M-120 160 C 180 73, 340 226, 620 160 S 1000 107, 1320 129" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.73"/>
+      <path class="ln" style="--i:9" d="M-120 167 C 180 81, 340 233, 620 167 S 1000 115, 1320 136" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.75"/>
+      <path class="ln" style="--i:10" d="M-120 174 C 180 90, 340 239, 620 174 S 1000 123, 1320 144" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.77"/>
+      <path class="ln" style="--i:11" d="M-120 181 C 180 98, 340 245, 620 181 S 1000 131, 1320 152" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.78"/>
+      <path class="ln" style="--i:12" d="M-120 188 C 180 106, 340 252, 620 188 S 1000 139, 1320 159" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.78"/>
+      <path class="ln" style="--i:13" d="M-120 196 C 180 115, 340 258, 620 196 S 1000 147, 1320 167" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.78"/>
+      <path class="ln" style="--i:14" d="M-120 203 C 180 123, 340 264, 620 203 S 1000 155, 1320 175" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.78"/>
+      <path class="ln" style="--i:15" d="M-120 210 C 180 131, 340 271, 620 210 S 1000 162, 1320 182" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.78"/>
+      <path class="ln" style="--i:16" d="M-120 217 C 180 140, 340 277, 620 217 S 1000 170, 1320 190" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.78"/>
+      <path class="ln" style="--i:17" d="M-120 224 C 180 148, 340 283, 620 224 S 1000 178, 1320 197" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.78"/>
+      <path class="ln" style="--i:18" d="M-120 232 C 180 156, 340 290, 620 232 S 1000 186, 1320 205" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.78"/>
+      <path class="ln" style="--i:19" d="M-120 239 C 180 165, 340 296, 620 239 S 1000 194, 1320 213" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.78"/>
+      <path class="ln" style="--i:20" d="M-120 246 C 180 173, 340 302, 620 246 S 1000 202, 1320 220" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.77"/>
+      <path class="ln" style="--i:21" d="M-120 253 C 180 181, 340 309, 620 253 S 1000 210, 1320 228" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.75"/>
+      <path class="ln" style="--i:22" d="M-120 260 C 180 190, 340 315, 620 260 S 1000 218, 1320 235" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.73"/>
+      <path class="ln" style="--i:23" d="M-120 268 C 180 198, 340 321, 620 268 S 1000 226, 1320 243" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.72"/>
+      <path class="ln" style="--i:24" d="M-120 275 C 180 206, 340 327, 620 275 S 1000 234, 1320 251" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.70"/>
+      <path class="ln" style="--i:25" d="M-120 282 C 180 215, 340 334, 620 282 S 1000 241, 1320 258" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.68"/>
+      <path class="ln" style="--i:26" d="M-120 289 C 180 223, 340 340, 620 289 S 1000 249, 1320 266" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.67"/>
+      <path class="ln" style="--i:27" d="M-120 296 C 180 232, 340 346, 620 296 S 1000 257, 1320 273" stroke="url(#ygrad)" stroke-width="1.35" opacity="0.65"/>
+      <path class="ln" style="--i:28" d="M-120 304 C 180 240, 340 353, 620 304 S 1000 265, 1320 281" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.63"/>
+      <path class="ln" style="--i:29" d="M-120 311 C 180 248, 340 359, 620 311 S 1000 273, 1320 289" stroke="url(#ygrad)" stroke-width="1.10" opacity="0.62"/>
+  </svg>
   <div class="wrap">
     <div class="sec-head reveal">
       <p class="eyebrow"><span class="seam"></span><b>06</b> Industries ／ 服務產業</p>
