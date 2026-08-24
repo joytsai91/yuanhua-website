@@ -320,6 +320,11 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--amber);outline-offs
 .triad p{color:var(--ink-soft);font-size:15px}
 @media(max-width:560px){.triad div{grid-template-columns:1fr;gap:8px}}
 .values-note{margin-top:30px;color:var(--ink-soft);max-width:62ch}
+.val-photo{margin:clamp(20px,2.4vw,32px) 0 0;position:relative}
+.val-photo img{width:100%;height:clamp(330px,38vw,500px);object-fit:cover;object-position:54% 12%;display:block}
+.val-photo::before{content:"";position:absolute;top:0;left:0;width:46px;height:3px;background:linear-gradient(90deg,var(--green),var(--amber));z-index:1}
+.val-photo figcaption{margin-top:12px;font-family:var(--mono);font-size:10px;letter-spacing:.16em;color:var(--ink-soft)}
+@media(max-width:880px){.val-photo img{height:clamp(240px,52vw,360px)}}
 
 /* ---------- industries ---------- */
 .ind{padding:clamp(64px,8vw,110px) 0;position:relative;overflow:hidden;background:var(--paper);color:var(--ink);border-top:1px solid var(--rule)}
@@ -538,6 +543,10 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.16em;margi
     <div class="sec-head reveal">
       <p class="eyebrow">Policy ／ 品質．安全．環境</p>
       <h2 class="sec-title">對品質、安全與環境的<br />徹底堅持</h2>
+      <figure class="val-photo">
+        <img src="__IMG_policy__" alt="現場人員清點油品並記錄" />
+        <figcaption>ON-SITE CHECK ／ 現場清點與記錄</figcaption>
+      </figure>
     </div>
     <div class="reveal">
       <div class="triad">
