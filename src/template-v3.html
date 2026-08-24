@@ -309,7 +309,9 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--amber);outline-offs
 
 /* ---------- values ---------- */
 .values{background:var(--paper-2);color:var(--ink);padding:clamp(64px,8vw,116px) 0;position:relative;overflow:hidden}
-.values .wrap{position:relative;z-index:2;display:grid;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:clamp(30px,6vw,74px)}
+.values .wrap{position:relative;z-index:2;display:grid;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:clamp(30px,6vw,74px);align-items:stretch}
+.values .sec-head{height:100%}
+.values .wrap>div:last-child{display:flex;flex-direction:column}
 @media(max-width:880px){.values .wrap{grid-template-columns:1fr}}
 .values h2{color:var(--ink)}
 .values .eyebrow{color:var(--green)}
@@ -320,11 +322,11 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--amber);outline-offs
 .triad p{color:var(--ink-soft);font-size:15px}
 @media(max-width:560px){.triad div{grid-template-columns:1fr;gap:8px}}
 .values-note{margin-top:30px;color:var(--ink-soft);max-width:62ch}
-.val-photo{margin:clamp(20px,2.4vw,32px) 0 0;position:relative}
-.val-photo img{width:100%;height:clamp(330px,38vw,500px);object-fit:cover;object-position:54% 12%;display:block}
+.val-photo{margin:clamp(20px,2.4vw,32px) 0 0;position:relative;flex:1;display:flex;flex-direction:column;min-height:200px}
+.val-photo img{width:100%;flex:1;min-height:0;height:auto;object-fit:cover;object-position:42% 50%;display:block}
 .val-photo::before{content:"";position:absolute;top:0;left:0;width:46px;height:3px;background:linear-gradient(90deg,var(--green),var(--amber));z-index:1}
 .val-photo figcaption{margin-top:12px;font-family:var(--mono);font-size:10px;letter-spacing:.16em;color:var(--ink-soft)}
-@media(max-width:880px){.val-photo img{height:clamp(240px,52vw,360px)}}
+@media(max-width:880px){.val-photo{min-height:0}.val-photo img{flex:none;height:clamp(240px,52vw,360px)}}
 
 /* ---------- industries ---------- */
 .ind{padding:clamp(64px,8vw,110px) 0;position:relative;overflow:hidden;background:var(--paper);color:var(--ink);border-top:1px solid var(--rule)}
