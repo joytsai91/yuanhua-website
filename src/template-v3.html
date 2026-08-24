@@ -172,24 +172,27 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--amber);outline-offs
   .hero-kicker{font-size:10px;letter-spacing:.24em}
   .vhead{font-size:27px;letter-spacing:.1em;padding-inline-start:18px}
   .hero-side{max-width:100%}
-  .hero-inner{padding:120px 28px 60px}
+  .hero-inner{position:static;inset:auto;padding:34px 28px 26px}
+  .hero-media{margin-top:64px}
   .hero-foot{position:static;background:var(--green-deep);border-top-color:rgba(255,255,255,.16)}
   .hero-foot .wrap{padding-block:26px}
   .btn{min-width:0;flex:1 1 auto}
 }
 
 /* ---------- hero ---------- */
-.hero{position:relative;min-height:min(88vh,760px);background:var(--green-deep);overflow:hidden;isolation:isolate}
-.hero-media{position:absolute;inset:0;overflow:hidden}
-.hero-media img{width:100%;height:100%;object-fit:cover;object-position:58% 36%}
-.hero canvas{position:absolute;inset:0;width:100%;height:100%;opacity:.22;mix-blend-mode:screen}
-.hero::after{
+.hero{position:relative;background:var(--green-deep);overflow:hidden;isolation:isolate}
+.hero-media{position:relative;overflow:hidden;line-height:0}
+.hero-media img{width:100%;height:auto;display:block}
+.hero-media::after{
   content:"";position:absolute;inset:0;
-  background:linear-gradient(100deg,rgba(8,64,38,.96) 0%,rgba(10,74,44,.90) 34%,rgba(14,102,59,.52) 62%,rgba(14,102,59,.26) 100%);
+  background:linear-gradient(100deg,rgba(8,64,38,.94) 0%,rgba(10,74,44,.86) 30%,rgba(14,102,59,.48) 56%,rgba(14,102,59,.20) 78%,rgba(14,102,59,.10) 100%);
 }
+.hero canvas{position:absolute;inset:0;width:100%;height:100%;opacity:.22;mix-blend-mode:screen}
+
 .hero-inner{
-  position:relative;z-index:2;max-width:var(--max);margin-inline:auto;padding:150px 28px 80px;
-  min-height:min(88vh,760px);display:flex;align-items:center;
+  position:absolute;inset:0;z-index:2;display:flex;align-items:center;
+  padding-block:120px 96px;
+  padding-inline:max(28px,calc((100% - var(--max))/2 + 28px));
 }
 .hero-side{display:flex;flex-direction:column;align-items:flex-start;gap:26px;max-width:min(760px,86%)}
 .hero-kicker{
