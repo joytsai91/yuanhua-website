@@ -1,8 +1,7 @@
 import base64, pathlib, re
 src = pathlib.Path('v3.src.html').read_text()
 M = {'logo':'opt3/logo.png','teamwide':'opt3/team-wide.jpg','team':'opt3/team.jpg','booth':'opt3/booth.jpg',
-     'display':'opt3/display.jpg','posters':'opt3/posters.jpg','lab':'opt3/lab.jpg',
-     'c1':'opt3/c1.jpg','c2':'opt3/c2.jpg','c4':'opt3/c4.jpg',
+     'posters':'opt3/posters.jpg','c1':'opt3/c1.jpg','c2':'opt3/c2.jpg','c4':'opt3/c4.jpg','cnc':'opt3/cnc.jpg',
      'p1':'opt3/sterling-logo3.png','p2':'opt3/sterling-logo2.png','p3':'opt3/sterling-logo.png'}
 for k,f in M.items():
     b=pathlib.Path(f).read_bytes()
