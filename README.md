@@ -8,13 +8,13 @@
 |---|---|
 | `index.html` | **A 版**（日系版型／企業綠）。圖片以 base64 內嵌，單檔即可運行。 |
 | `v2/index.html` | **B 版**（Battor 黃 × Yushiro 綠雙品牌／合作線條）。 |
-| `v3/index.html` | **C 版**（白底為主、企業綠點綴／團隊人物照片）。 |
+| `v3/index.html` | **C 版（客戶選定，第二輪修改）**：直接編輯此檔即可，圖片在 `v3/img/`，不需建置。動態效果參考 southernlink.co.jp。 |
 | `src/template.html` | A 版版型原始檔，圖片位置以 `__IMG_xxx__` 代號標示。 |
 | `src/template-v2.html` | B 版版型原始檔。 |
 | `src/build.py` | A 版建置腳本，輸出 `index.html`。 |
 | `src/build-v2.py` | B 版建置腳本，輸出 `v2.html`（需另存至 `v2/index.html`）。 |
-| `src/template-v3.html` | C 版版型原始檔。 |
-| `src/build-v3.py` | C 版建置腳本，輸出 `v3.html`（需另存至 `v3/index.html`）。 |
+| `src/template-v3.html` | C 版初稿（第一輪）原始檔，已由 `v3/index.html` 取代。 |
+| `src/build-v3.py` | C 版初稿建置腳本（僅供參考）。 |
 | `src/opt3/` | C 版圖片素材，含展會團隊人物照。 |
 | `src/opt/` | 壓縮後的圖片素材。 |
 | `src/logo.png` | 圓華油品 logo 原檔。 |
