@@ -1120,6 +1120,12 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
     hdr.classList.toggle('solid', y > 50);
     hdr.style.setProperty('--sp', (max > 0 ? clamp(y / max, 0, 1) : 0).toFixed(4));
     if (y >= max - 4) flushBottom(vh);
+    else if (pending.size) {
+      var late = [];
+      pending.forEach(function(el){ var r = el.getBoundingClientRect(); if (r.top < vh * 0.84 && r.bottom > vh * 0.16) late.push([el, r]); });
+      late.sort(function(p, q){ return (p[1].top - q[1].top) || (p[1].left - q[1].left); });
+      late.forEach(function(pair, i){ show(pair[0], Math.min(i, 5)); if (rio) rio.unobserve(pair[0]); });
+    }
     if (reduce) return;
     hero.style.setProperty('--hp', clamp(y / vh, 0, 1).toFixed(4));
     var lim = vh * 0.04;
