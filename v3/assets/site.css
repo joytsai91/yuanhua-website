@@ -920,7 +920,6 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
 .field.full{grid-column:1/-1}
 .field label{font-size:14px;font-weight:700;letter-spacing:.04em}
 .field label .req{color:#C2410C;margin-left:3px}
-.field label .opt{font-weight:400;color:var(--ink-soft);margin-left:6px;font-size:12.5px}
 .field input,.field select,.field textarea{width:100%;font:inherit;font-size:15px;color:var(--ink);background:var(--paper);border:1px solid var(--rule);border-radius:var(--r-sm);padding:12px 14px;transition:border-color .2s ease,box-shadow .2s ease}
 .field textarea{min-height:140px;resize:vertical;line-height:1.8}
 .field select{appearance:none;background-image:linear-gradient(45deg,transparent 50%,var(--green) 50%),linear-gradient(135deg,var(--green) 50%,transparent 50%);background-position:calc(100% - 20px) 52%,calc(100% - 14px) 52%;background-size:6px 6px;background-repeat:no-repeat;padding-right:40px}
@@ -928,8 +927,6 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
 .field [aria-invalid="true"]{border-color:#C2410C;box-shadow:0 0 0 4px rgba(194,65,12,.12)}
 .field .err{font-size:12.5px;color:#C2410C;min-height:0}
 .field .hint{font-size:12.5px;color:var(--ink-soft);line-height:1.7}
-.field input[type=file]{padding:10px;background:var(--paper-2);cursor:pointer}
-.field input[type=file]::file-selector-button{font:600 13px var(--sans);border:0;border-radius:999px;padding:8px 14px;margin-right:12px;background:var(--btn-g);color:#fff;cursor:pointer}
 .form .actions{grid-column:1/-1;display:flex;flex-wrap:wrap;align-items:center;gap:14px;margin-top:4px}
 .form .actions small{font-size:12.5px;color:var(--ink-soft)}
 .form-done{grid-column:1/-1;display:grid;gap:8px;padding:20px 22px;border-radius:var(--r-md);background:var(--green-tint);color:var(--ink)}
