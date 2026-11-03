@@ -521,3 +521,8 @@
 .info dd a{color:inherit;text-decoration:none;background:linear-gradient(currentColor,currentColor) no-repeat 0 100%/0 1px;transition:background-size .3s ease}
 .info dd a:hover{background-size:100% 1px}
 .kvt th{width:32%;text-align:left;white-space:nowrap}.kvt td{text-align:left}
+
+/* English edition: note where a section stays in Chinese (news) */
+.lang-note{display:flex;align-items:center;gap:10px;width:fit-content;max-width:100%;margin:18px 0 0;padding:10px 16px;border-radius:var(--r-sm);background:var(--paper-2);border:1px solid var(--rule);color:var(--ink-soft);font-size:13.5px;line-height:1.5}
+.lang-note::before{content:"";flex:0 0 auto;width:8px;height:8px;border-radius:50%;background:var(--yellow)}
+.article .lang-note{margin:0 0 18px}

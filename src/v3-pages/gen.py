@@ -113,14 +113,22 @@ def header(section, current):
   <div class="hdr-in">
     <a class="brand" href="index.html" aria-label="圓華油品 首頁">
       <span class="badge"><img src="img/mark.png" width="26" height="36" alt=""></span>
-      <span><b>圓華油品</b><small>YUAN HUA OIL</small></span>
+      <span><b translate="no">圓華油品</b><small>YUAN HUA OIL</small></span>
     </a>
     <button class="burger" id="burger" aria-expanded="false" aria-controls="nav" aria-label="開啟選單"><i></i><i></i><i></i></button>
     <ul class="nav" id="nav">
       {chr(10).join("      " + l if i else l for i, l in enumerate(lis))}
     </ul>
+    {lang_switch(current)}
   </div>
 </header>'''
+
+
+def lang_switch(fn):
+    # the English build (i18n.py) flips these two links; translate="no" keeps them out of the translation table
+    return (f'<div class="lang-sw" translate="no" role="group" aria-label="語言 Language">'
+            f'<a href="{fn}" hreflang="zh-Hant" lang="zh-Hant" aria-current="true">中文</a>'
+            f'<a href="en/{fn}" hreflang="en" lang="en">EN</a></div>')
 
 
 SITEMAP = '''<nav class="sitemap" data-rv="up" aria-label="網站地圖">
@@ -139,7 +147,7 @@ FOOTER = f'''<footer>
       <div data-rv="up">
         <a class="brand" href="index.html" aria-label="圓華油品 首頁">
           <span class="badge"><img src="img/mark.png" width="26" height="36" alt=""></span>
-          <span><b>圓華油品</b><small>YUAN HUA OIL CO., LTD.</small></span>
+          <span><b translate="no">圓華油品</b><small>YUAN HUA OIL CO., LTD.</small></span>
         </a>
         <div class="partners"><a href="yushiro.html" aria-label="SAN-I Yushiro 油品系列"><img src="img/sterling-logo3.png" width="132" height="60" alt="SAN-I YUSHIRO" loading="lazy"></a><a href="equipment.html" aria-label="廢液(水)處理裝置"><img src="img/sterling-logo2.png" width="132" height="60" alt="CosmoTech" loading="lazy"></a><a href="battor.html" aria-label="Battor 油品系列"><img src="img/sterling-logo.png" width="132" height="60" alt="Battor" loading="lazy"></a></div>
       </div>
@@ -247,7 +255,9 @@ def page(fn, title, desc, section, body, preload=None, lightbox=False):
 <meta name="description" content="{E(desc)}">
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32.png">
 <link rel="icon" type="image/png" sizes="64x64" href="img/favicon-64.png">
-<link rel="apple-touch-icon" href="img/apple-touch-icon.png">{pre}
+<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+<link rel="alternate" hreflang="zh-Hant" href="{fn}">
+<link rel="alternate" hreflang="en" href="en/{fn}">{pre}
 <script>document.documentElement.classList.add('js')</script>
 <noscript><style>.hdr{{background:rgba(255,255,255,.94)}} .hdr .brand b{{color:#0E663B}} .hdr .brand b,.hdr .brand small,.hdr .nav>li>a{{color:#17251D;text-shadow:none}}</style></noscript>
 <link rel="stylesheet" href="assets/site.css">
@@ -273,6 +283,7 @@ def page(fn, title, desc, section, body, preload=None, lightbox=False):
     # brief: every mention of Yushiro must read "SAN-I Yushiro" (text only; file names are lower-case)
     out = re.sub(r'San-I Yushiro|SAN-I YUSHIRO(?= 化學)', 'SAN-I Yushiro', out)
     out = re.sub(r'(?<!SAN-I )(?<!SAN-I\u00a0)(?<![-/\w])Yushiro\b', 'SAN-I Yushiro', out)
+    out = out.replace('ENVIROMENTAL', 'ENVIRONMENTAL')   # old-site typo
     open(os.path.join(SITE, fn), 'w').write(out)
     PAGES.append(fn)
 

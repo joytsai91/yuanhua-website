@@ -7,6 +7,9 @@
   var burger = document.getElementById('burger');
   var nav = document.getElementById('nav');
   function each(list, fn){ Array.prototype.forEach.call(list, fn); }
+  var EN = /^en/i.test(root.lang);
+  var T = EN ? { open: 'Open menu', close: 'Close menu', video: 'Video', ask: 'Inquiry about: ', tel: 'Please check the phone number format', req: 'This field is required' }
+             : { open: '開啟選單', close: '關閉選單', video: '影片', ask: '想詢問：', tel: '請確認電話號碼格式', req: '此欄位為必填' };
 
   /* ---- 1. page hero: image settles, tapes wipe in, copy rises ---- */
   var phero = document.querySelector('.phero');
@@ -19,13 +22,17 @@
   }
 
   /* ---- 2. mobile menu ---- */
-  function closeMenu(){ nav.classList.remove('open'); burger.setAttribute('aria-expanded','false'); burger.setAttribute('aria-label','開啟選單'); }
+  function closeMenu(){ nav.classList.remove('open'); burger.setAttribute('aria-expanded','false'); burger.setAttribute('aria-label', T.open); }
   burger.addEventListener('click', function(){
     var open = nav.classList.toggle('open');
     burger.setAttribute('aria-expanded', String(open));
-    burger.setAttribute('aria-label', open ? '關閉選單' : '開啟選單');
+    burger.setAttribute('aria-label', open ? T.close : T.open);
   });
   document.addEventListener('keydown', function(e){ if (e.key === 'Escape' && nav.classList.contains('open')) { closeMenu(); burger.focus(); } });
+  // language switch keeps the current tab / section
+  each(document.querySelectorAll('.lang-sw a'), function(a){
+    a.addEventListener('click', function(){ if (location.hash) a.href = a.href.split('#')[0] + location.hash; });
+  });
 
   /* ---- 3. reveal engine (same as the home page): one-shot, middle band of the viewport ---- */
   var rvEls = document.querySelectorAll('[data-rv], .tl>li');
@@ -121,7 +128,7 @@
     return top;
   }
   function easeInOutExpo(t){ return t === 0 ? 0 : t === 1 ? 1 : t < .5 ? Math.pow(2, 20 * t - 10) / 2 : (2 - Math.pow(2, -20 * t + 10)) / 2; }
-  function headerOffset(){ return (window.innerWidth <= 1120 ? 66 : 90) + (document.querySelector('.lnav') ? 64 : 14); }
+  function headerOffset(){ return (window.innerWidth <= 1120 || EN ? 66 : 90) + (document.querySelector('.lnav') ? 64 : 14); }
   document.addEventListener('click', function(e){
     var a = e.target.closest('a[href^="#"]');
     if (!a) return;
@@ -252,7 +259,7 @@
     if (!p) return;
     var f = document.createElement('iframe');
     f.src = 'https://www.youtube-nocookie.com/embed/' + p.getAttribute('data-yt') + '?autoplay=1&rel=0';
-    f.title = p.getAttribute('aria-label') || '影片';
+    f.title = p.getAttribute('aria-label') || T.video;
     f.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
     f.allowFullscreen = true;
     p.replaceWith(f);
@@ -283,7 +290,7 @@
       var msg = form.querySelector('[name="message"]');
       var t = new URLSearchParams(location.search).get('topic');
       if (t && sel) each(sel.options, function(o){ if (o.value === t) sel.value = t; });
-      if (msg && !msg.value) msg.value = '想詢問：' + item + '\n';
+      if (msg && !msg.value) msg.value = T.ask + item + '\n';
     }
     form.addEventListener('submit', function(e){
       e.preventDefault();
@@ -292,7 +299,7 @@
         var bad = !f.value.trim() || (f.type === 'tel' && !/^[0-9+\-#() ]{6,}$/.test(f.value.trim()));
         f.setAttribute('aria-invalid', String(bad));
         var err = document.getElementById(f.getAttribute('aria-describedby') ? f.getAttribute('aria-describedby').split(' ')[0] : '');
-        if (err && err.classList.contains('err')) err.textContent = bad ? (f.type === 'tel' && f.value.trim() ? '請確認電話號碼格式' : '此欄位為必填') : '';
+        if (err && err.classList.contains('err')) err.textContent = bad ? (f.type === 'tel' && f.value.trim() ? T.tel : T.req) : '';
         if (bad && !first) first = f;
       });
       if (first) { first.focus(); return; }

@@ -10,7 +10,8 @@
 | `v2/index.html` | **B 版**（Battor 黃 × Yushiro 綠雙品牌／合作線條）。 |
 | `v3/index.html` | **C 版（客戶選定，第三輪修改）**：直接編輯此檔即可，圖片在 `v3/img/`，不需建置。動態效果參考 southernlink.co.jp。第三輪依 20261016／20261027 調整說明修改（首圖 4 張、聯絡資料、連結區塊）。 |
 | `v3/*.html`（內頁） | **C 版內頁（80 頁）**：依〈資訊提供-20260720〉網頁架構與〈新站素材來源對照表〉建置，含關於我們／歷史沿革／服務團隊、油品介紹（4 系列 31 項）、廢液(水)處理裝置（5 款代理機型＋3 款舊站機型）、廢油/水清運牌、最新消息、歷年展會/活動花絮、常見問題／油品知識區／標準用油表／廢液處理知識區、聯絡我們。共用樣式 `v3/assets/site.css`、程式 `v3/assets/site.js`；舊站圖片在 `v3/img/m/`、新機型圖在 `v3/img/eq/`、PDF 與影片在 `v3/files/`。 |
-| `src/v3-pages/` | C 版內頁產生器：`extract.py`（從舊站擷取內容 → `data.json`）、`gen.py`（產生內頁）、`build_css.py`（由 `v3/index.html` 共用樣式＋`sub.css` 組成 `site.css`）。改內頁文案時修改 `gen.py` 後重新產生。 |
+| `v3/en/*.html` | **C 版英文版（81 頁）**：與中文頁同檔名，右上角「中文｜EN」切換（保留目前頁面與分頁錨點）。最新消息依需求暫不翻譯：選單、標題與按鈕為英文，消息標題與內文維持中文並標示「僅提供繁體中文」。英文頁共用 `v3/assets/` 與 `v3/img/`。 |
+| `src/v3-pages/` | C 版內頁產生器：`extract.py`（從舊站擷取內容 → `data.json`）、`gen.py`（產生內頁）、`build_css.py`（由 `v3/index.html` 共用樣式＋`sub.css` 組成 `site.css`）。改內頁文案時修改 `gen.py` 後重新產生。英文版：`i18n.py`（中文頁＋`i18n/en.json` 翻譯表 → `v3/en/`）、`i18n_tools.py`（分批／檢查／合併翻譯）、`i18n_qa.py`（檢查殘留中文與斷連結）、`i18n/glossary.md`（英文術語表與用字規則）。 |
 | `v4/index.html` | **D 版**：第一輪 C 版原樣式（白綠、直角、細線）＋ southernlink.co.jp 動態效果。圖片在 `v4/img/`，不需建置。 |
 | `src/template.html` | A 版版型原始檔，圖片位置以 `__IMG_xxx__` 代號標示。 |
 | `src/template-v2.html` | B 版版型原始檔。 |
@@ -56,3 +57,10 @@ cd src && python3 build.py
 - 主選單子頁面（關於我們、油品介紹、最新消息、展會花絮、常見問題）尚未建置，連結為預留。
 - C 版頁尾與聯絡資訊已更新為客戶提供的正式資料（20261016）；A／B 版仍為示意資料。
 - 廢水處理設備（CosmoTech）區塊待正式文案提供後再加入。
+
+## C 版中英文版維護
+
+1. 中文內頁改 `gen.py`（首頁直接改 `v3/index.html`）後重新產生中文頁。
+2. `python3 i18n.py extract <site> i18n/en.json missing.json` 列出新增／改動、尚無英文的文字段落。
+3. 依 `i18n/glossary.md` 補翻後寫回 `i18n/en.json`（key 為中文原文，`<1>…</1>` 代表原本的 HTML 標籤，需原樣保留）。
+4. `python3 i18n.py build <site> i18n/en.json` 產生 `en/`，再跑 `python3 i18n_qa.py <site>` 確認沒有殘留中文與斷連結。
