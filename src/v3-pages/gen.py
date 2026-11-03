@@ -622,7 +622,7 @@ def products_hub():
     </div>
     <div class="hub">{''.join(cards)}</div>
     <div class="mini-links">
-      <a class="spec-card" href="oil-table.html" data-rv="up"><span class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v14H4zM4 10h16M10 5v14"/></svg></span><div><b>Oil Table</b><span>油品標準用油表</span></div><i class="go">→</i></a>
+      <a class="spec-card" href="oil-table.html" data-rv="up"><span class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v14H4zM4 10h16M10 5v14"/></svg></span><div><b>Oil Chart</b><span>油品標準用油表</span></div><i class="go">→</i></a>
       <a class="spec-card" href="knowledge.html" data-rv="up"><span class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h10l4 4v12H5zM15 4v4h4M8 12h8M8 16h6"/></svg></span><div><b>Knowledge</b><span>油品知識區</span></div><i class="go">→</i></a>
       <a class="spec-card" href="equipment.html" data-rv="up"><span class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3s-6 7-6 11a6 6 0 0012 0c0-4-6-11-6-11zM9 15a3 3 0 003 3"/></svg></span><div><b>Equipment</b><span>廢液(水)處理裝置</span></div><i class="go">→</i></a>
     </div>
@@ -1205,7 +1205,7 @@ def faq_page():
     <div class="qa-list">{qa}</div>
     <div class="mini-links" style="margin-top:clamp(36px,4vw,56px)">
       <a class="spec-card" href="knowledge.html" data-rv="up"><span class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h10l4 4v12H5zM15 4v4h4M8 12h8M8 16h6"/></svg></span><div><b>Knowledge</b><span>油品知識區：切削油劑之使用管理</span></div><i class="go">→</i></a>
-      <a class="spec-card" href="oil-table.html" data-rv="up"><span class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v14H4zM4 10h16M10 5v14"/></svg></span><div><b>Oil Table</b><span>依機台與材質查詢標準用油</span></div><i class="go">→</i></a>
+      <a class="spec-card" href="oil-table.html" data-rv="up"><span class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v14H4zM4 10h16M10 5v14"/></svg></span><div><b>Oil Chart</b><span>依機台與材質查詢標準用油</span></div><i class="go">→</i></a>
       <a class="spec-card" href="water-knowledge.html" data-rv="up"><span class="ic"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3s-6 7-6 11a6 6 0 0012 0c0-4-6-11-6-11zM9 15a3 3 0 003 3"/></svg></span><div><b>Wastewater</b><span>廢液（水）處理知識區</span></div><i class="go">→</i></a>
     </div>
   </div>
@@ -1272,7 +1272,7 @@ def oil_table_page():
         body_rows += f'<tr><th scope="row">{E(r["machine"])}</th>' + ''.join(
             f'<td data-col="{j}"{NA_CLS if vals.get(m, "N/A") in ("N/A", "") else ""}>{E(fmt_oil(vals.get(m)))}</td>' for j, m in enumerate(mats)) + '</tr>'
     filt = '<button class="btn-chip" type="button" data-col="all" aria-pressed="true">全部</button>' + ''.join(f'<button class="btn-chip" type="button" data-col="{j}" aria-pressed="false">{E(m)}</button>' for j, m in enumerate(mats))
-    body = hero([('faq.html', '常見問題'), (None, '油品標準用油表')], 'Oil Table ／ 標準用油表', ['依機台與材質，', '查詢標準用油'],
+    body = hero([('faq.html', '常見問題'), (None, '油品標準用油表')], 'Oil Chart ／ 標準用油表', ['依機台與材質，', '查詢標準用油'],
                 lede='依加工機種與工件材質整理的 SAN-I Yushiro 標準用油建議。實際選用仍需依加工條件、水質與設備狀況評估。',
                 cta='<a class="btn y" href="contact.html?item=標準用油表諮詢#form">請圓華協助選油 <i>→</i></a>', img='img/hero-1.jpg', pos='50% 50%')
     body += lnav(FAQ_NAV, 'oil-table.html', '常見問題')

@@ -33,8 +33,8 @@ Phone numbers, e-mail, LINE ID, dates, model codes, test standards (DIN, JIS, IS
 
 ## Navigation & site chrome (use exactly)
 Top navigation items (Chinese label + `<1>` small English label — keep `<1>…</1>` as it is, it is hidden in English):
-- 首頁 → Home · 關於我們 → About · 油品介紹 → Products · 廢液(水)處理裝置 → Wastewater Treatment ·
-  廢油/水清運牌 → Waste Collection · 最新消息 → News · 歷年展會/活動花絮 → Exhibitions · 常見問題 → FAQ · 聯絡我們 → Contact
+- 首頁 → Home · 關於我們 → About · 油品介紹 → Products · 廢液(水)處理裝置 → Wastewater Equipment ·
+  廢油/水清運牌 → Collection Permits · 最新消息 → News · 歷年展會/活動花絮 → Gallery · 常見問題 → FAQ · 聯絡我們 → Contact
 
 Full labels (sub-menus, footer sitemap, side tabs, breadcrumbs, page titles):
 | Chinese | English |
@@ -55,19 +55,19 @@ Full labels (sub-menus, footer sitemap, side tabs, breadcrumbs, page titles):
 | 廢油/水清運牌 | Waste Oil & Wastewater Collection Permits |
 | 最新消息 | News |
 | 跨界合作－半導體電子設備 NEXUSTEST | Partnership: NEXUSTEST Semiconductor Equipment |
-| 跨界合作 | Partnerships |
+| 跨界合作 | Partnership |
 | 最新展覽 | Exhibitions |
-| 新產品發表 | New Products |
+| 新產品發表 | Product Launches |
 | 其他新發布 | Other Updates |
-| 歷年展會/活動花絮 | Exhibitions & Events |
+| 歷年展會/活動花絮 | Gallery |
 | 展覽花絮 | Exhibition Highlights |
 | 相關報導、專訪 | Press & Interviews |
 | 活動、聚餐 | Company Events |
 | 影片 | Videos |
 | 常見問題 | FAQ |
 | 油品知識區 | Oil Knowledge |
-| 油品標準用油表 / 標準用油表 | Standard Oil Chart |
-| 廢液(水)處理知識區 | Wastewater Knowledge |
+| 油品標準用油表 / 標準用油表 | Oil Selection Chart |
+| 廢液(水)處理知識區 | Wastewater Treatment Knowledge |
 | 聯絡我們 | Contact Us |
 | 其他 (footer sitemap group) | More |
 | 網站地圖 | Site map |
@@ -155,7 +155,7 @@ Patterns (apply everywhere — titles, meta descriptions, breadcrumbs, contact-f
 | 工業潤滑油 (contact-form option, product filter) | Industrial Lubricants |
 | 廢水處理設備 (contact-form option, `topic=` value, footer, product filter) | Wastewater Treatment Equipment |
 | 廢油・廢水清運 (contact-form option, `topic=` value) | Waste Oil & Wastewater Collection |
-| 標準用油表諮詢 (prefill item) | Standard Oil Chart Inquiry |
+| 標準用油表諮詢 (prefill item) | Oil Selection Chart Inquiry |
 | 四大油品系列 | four product series |
 | N 項產品分類 → | N product categories → (1 product category →) |
 | **SAN-I Yushiro categories** | |

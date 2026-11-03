@@ -28,7 +28,7 @@ WS = re.compile(r'\s+')
 # news stays in Chinese for now (client request): these parts of the news pages are left as they are
 SKIP = {
     'news.html': ['.ngrid h3', '.ngrid p'],
-    'news-detail': ['.phero h1', '.crumbs [aria-current]', '.article .cover', '.article .prose', '.article .gal', '.pager b'],
+    'news-detail': ['.phero h1', '.article .cover', '.article .prose', '.article .gal', '.pager b'],
 }
 SKIP_ATTR = 'data-i18n-skip'
 
