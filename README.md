@@ -9,6 +9,8 @@
 | `index.html` | **A 版**（日系版型／企業綠）。圖片以 base64 內嵌，單檔即可運行。 |
 | `v2/index.html` | **B 版**（Battor 黃 × Yushiro 綠雙品牌／合作線條）。 |
 | `v3/index.html` | **C 版（客戶選定，第三輪修改）**：直接編輯此檔即可，圖片在 `v3/img/`，不需建置。動態效果參考 southernlink.co.jp。第三輪依 20261016／20261027 調整說明修改（首圖 4 張、聯絡資料、連結區塊）。 |
+| `v3/*.html`（內頁） | **C 版內頁（80 頁）**：依〈資訊提供-20260720〉網頁架構與〈新站素材來源對照表〉建置，含關於我們／歷史沿革／服務團隊、油品介紹（4 系列 31 項）、廢液(水)處理裝置（5 款代理機型＋3 款舊站機型）、廢油/水清運牌、最新消息、歷年展會/活動花絮、常見問題／油品知識區／標準用油表／廢液處理知識區、聯絡我們。共用樣式 `v3/assets/site.css`、程式 `v3/assets/site.js`；舊站圖片在 `v3/img/m/`、新機型圖在 `v3/img/eq/`、PDF 與影片在 `v3/files/`。 |
+| `src/v3-pages/` | C 版內頁產生器：`extract.py`（從舊站擷取內容 → `data.json`）、`gen.py`（產生內頁）、`build_css.py`（由 `v3/index.html` 共用樣式＋`sub.css` 組成 `site.css`）。改內頁文案時修改 `gen.py` 後重新產生。 |
 | `v4/index.html` | **D 版**：第一輪 C 版原樣式（白綠、直角、細線）＋ southernlink.co.jp 動態效果。圖片在 `v4/img/`，不需建置。 |
 | `src/template.html` | A 版版型原始檔，圖片位置以 `__IMG_xxx__` 代號標示。 |
 | `src/template-v2.html` | B 版版型原始檔。 |

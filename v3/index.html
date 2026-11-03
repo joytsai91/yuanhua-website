@@ -186,7 +186,7 @@ section,.card[id]{scroll-margin-top:80px}
 .burger[aria-expanded="true"] i:nth-child(1){transform:translateY(6.5px) rotate(45deg)}
 .burger[aria-expanded="true"] i:nth-child(2){opacity:0}
 .burger[aria-expanded="true"] i:nth-child(3){transform:translateY(-6.5px) rotate(-45deg)}
-@media (max-width:1120px){.nav>li>a{font-size:12.5px}.nav>li>a small{display:none}}
+@media (max-width:1120px){.hdr-in{gap:14px}.nav{gap:2px}.nav>li>a{font-size:12px;letter-spacing:.02em;padding-inline:3px}.nav>li.has>a::after{margin-left:3px}.nav>li>a small{display:none}}
 @media (max-width:980px){
   .burger{display:flex}
   .hdr,.hdr.solid{background:var(--hdr-solid);-webkit-backdrop-filter:saturate(1.4) blur(14px);backdrop-filter:saturate(1.4) blur(14px);border-bottom-color:var(--rule)}
@@ -642,47 +642,48 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
     <button class="burger" id="burger" aria-expanded="false" aria-controls="nav" aria-label="開啟選單"><i></i><i></i><i></i></button>
     <ul class="nav" id="nav">
       <li><a href="#top">首頁<small>Home</small></a></li>
-      <li class="has"><a href="#about">關於我們<small>About</small></a>
+      <li class="has"><a href="about.html">關於我們<small>About</small></a>
         <ul class="sub">
-          <li><a href="#about">關於圓華油品</a></li>
-          <li><a href="#about">歷史沿革</a></li>
-          <li><a href="#about">服務團隊</a></li>
+          <li><a href="about.html">關於圓華油品</a></li>
+          <li><a href="milestone.html">歷史沿革</a></li>
+          <li><a href="team.html">服務團隊</a></li>
         </ul>
       </li>
-      <li class="has"><a href="#service">油品介紹<small>Products</small></a>
+      <li class="has"><a href="products.html">油品介紹<small>Products</small></a>
         <ul class="sub">
-          <li><a href="#svc-plant">SAN-I Yushiro 植物性油品</a></li>
-          <li><a href="#svc-oil">SAN-I Yushiro 油品系列</a></li>
-          <li><a href="#svc-oil">Battor 油品系列</a></li>
-          <li><a href="#svc-oil">台塑 潤滑油系列</a></li>
+          <li><a href="yushiro-plant.html">SAN-I Yushiro 植物性油品</a></li>
+          <li><a href="yushiro.html">SAN-I Yushiro 油品系列</a></li>
+          <li><a href="battor.html">Battor 油品系列</a></li>
+          <li><a href="formosa.html">台塑 潤滑油系列</a></li>
         </ul>
       </li>
-      <li><a href="#svc-water">廢水處理設備<small>Equipment</small></a></li>
-      <li><a href="#service">清運證照<small>License</small></a></li>
-      <li class="has"><a href="#news">最新消息<small>News</small></a>
+      <li><a href="equipment.html">廢液(水)處理裝置<small>Equipment</small></a></li>
+      <li><a href="license.html">廢油/水清運牌<small>License</small></a></li>
+      <li class="has"><a href="news.html">最新消息<small>News</small></a>
         <ul class="sub">
-          <li><a href="#news">跨界合作－半導體電子設備 NEXUSTEST</a></li>
-          <li><a href="#news">最新展覽</a></li>
-          <li><a href="#news">新產品發表</a></li>
-          <li><a href="#news">其他新發布</a></li>
+          <li><a href="news.html#nexustest">跨界合作－半導體電子設備 NEXUSTEST</a></li>
+          <li><a href="news.html#expo">最新展覽</a></li>
+          <li><a href="news.html#launch">新產品發表</a></li>
+          <li><a href="news.html#other">其他新發布</a></li>
         </ul>
       </li>
-      <li class="has"><a href="#news">展會花絮<small>Gallery</small></a>
+      <li class="has"><a href="gallery.html">歷年展會/活動花絮<small>Gallery</small></a>
         <ul class="sub">
-          <li><a href="#news">展覽花絮</a></li>
-          <li><a href="#news">相關報導、專訪</a></li>
-          <li><a href="#news">活動、聚餐</a></li>
-          <li><a href="#news">影片</a></li>
+          <li><a href="gallery.html#expo">展覽花絮</a></li>
+          <li><a href="gallery.html#press">相關報導、專訪</a></li>
+          <li><a href="gallery.html#events">活動、聚餐</a></li>
+          <li><a href="gallery.html#video">影片</a></li>
         </ul>
       </li>
-      <li class="has"><a href="#contact">常見問題<small>FAQ</small></a>
+      <li class="has"><a href="faq.html">常見問題<small>FAQ</small></a>
         <ul class="sub">
-          <li><a href="#contact">油品知識區</a></li>
-          <li><a href="#contact">油品標準用油表</a></li>
-          <li><a href="#contact">廢液(水)處理知識區</a></li>
+          <li><a href="faq.html">常見問題</a></li>
+          <li><a href="knowledge.html">油品知識區</a></li>
+          <li><a href="oil-table.html">油品標準用油表</a></li>
+          <li><a href="water-knowledge.html">廢液(水)處理知識區</a></li>
         </ul>
       </li>
-      <li><a href="#contact">聯絡我們<small>Contact</small></a></li>
+      <li><a href="contact.html">聯絡我們<small>Contact</small></a></li>
     </ul>
   </div>
 </header>
@@ -692,7 +693,7 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
 <section class="hero" id="top" aria-roledescription="carousel" aria-label="首頁主視覺">
   <div class="slides" aria-live="off">
     <figure class="slide -tb is-active is-put" role="group" aria-roledescription="slide" aria-label="1 / 4" style="--pos:50% 50%;--mpos:66% 50%"><div class="bg"><img src="img/hero-1.jpg" alt="作業員在油桶區清點並記錄" fetchpriority="high"></div></figure>
-    <figure class="slide -lr" role="group" aria-roledescription="slide" aria-label="2 / 4" aria-hidden="true" style="--pos:50% 50%;--mpos:32% 50%"><div class="bg"><img src="img/hero-2.jpg" alt="兩位作業員在 Battor 與 Yushiro 油桶區檢查油桶" loading="lazy"></div></figure>
+    <figure class="slide -lr" role="group" aria-roledescription="slide" aria-label="2 / 4" aria-hidden="true" style="--pos:50% 50%;--mpos:32% 50%"><div class="bg"><img src="img/hero-2.jpg" alt="兩位作業員在 Battor 與 SAN-I Yushiro 油桶區檢查油桶" loading="lazy"></div></figure>
     <figure class="slide -rl" role="group" aria-roledescription="slide" aria-label="3 / 4" aria-hidden="true" style="--pos:50% 34%;--mpos:52% 50%"><div class="bg"><img src="img/hero-3.jpg" alt="圓華油品廠區外觀" loading="lazy"></div></figure>
     <figure class="slide -lr" role="group" aria-roledescription="slide" aria-label="4 / 4" aria-hidden="true" style="--pos:50% 55%;--mpos:50% 50%"><div class="bg"><img src="img/hero-4.jpg" alt="圓華油品倉庫內成排的油桶" loading="lazy"></div></figure>
   </div>
@@ -760,7 +761,7 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
       </div>
       <div class="about-float-wrap">
         <div data-rv="pop" style="--d:450ms">
-          <a class="about-float" href="#service" aria-label="油品介紹：Battor × SAN-I Yushiro">
+          <a class="about-float" href="products.html" aria-label="油品介紹：Battor × SAN-I Yushiro">
             <span class="badge"><img src="img/mark.png" width="24" height="33" alt=""></span>
             <div><b>Battor × SAN-I Yushiro</b><small>台灣品牌 × 日本技術</small></div>
             <i class="go" aria-hidden="true">→</i>
@@ -773,7 +774,7 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
       <h2 class="sec-title" data-rv="mask"><span class="ln" style="--k:0"><span>不只提供油品，</span></span><span class="ln" style="--k:1"><span>更從實際問題出發。</span></span></h2>
       <p class="lede" data-rv="up">加工現場需要的，不只是符合規格的油品。切削液異味、氧化、使用壽命不足、刀具耗損、工件生鏽，以及後續廢水處理，都是製造現場持續面對的問題。</p>
       <p class="lede" data-rv="up">圓華從油品選擇與技術服務出發，依據實際加工條件協助評估，並延伸至換油、換水、廢水處理設備與後續清運，讓產品真正回到現場需求。</p>
-      <p data-rv="up"><a class="btn g" href="#service">關於圓華 <i>→</i></a></p>
+      <p data-rv="up"><a class="btn g" href="about.html">關於圓華 <i>→</i></a></p>
     </div>
   </div>
   <div class="bigloop" id="bigloop" aria-hidden="true">
@@ -795,21 +796,21 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
       <p class="spec-intro" data-rv="up">製造效能之外，也為環境帶來新的選擇。</p>
       <ul class="spec">
         <li data-rv="right">
-          <a class="spec-card" href="#svc-plant">
+          <a class="spec-card" href="yushiro-plant.html">
             <span class="ic"><svg viewBox="0 0 24 24"><path d="M4 18l5-6 4 3 7-9"/><path d="M15 6h5v5"/></svg></span>
             <div><b>Performance</b><span>依加工方式與材質評估潤滑、冷卻與排屑表現</span></div>
             <i class="go" aria-hidden="true">→</i>
           </a>
         </li>
         <li data-rv="right">
-          <a class="spec-card" href="#svc-plant">
+          <a class="spec-card" href="yushiro-plant.html">
             <span class="ic"><svg viewBox="0 0 24 24"><path d="M20 12a8 8 0 11-2.34-5.66"/><path d="M20 4v4h-4"/><path d="M12 8v4l3 2"/></svg></span>
             <div><b>Life Cycle</b><span>延長切削液使用壽命，減少異味、腐敗與換液頻率</span></div>
             <i class="go" aria-hidden="true">→</i>
           </a>
         </li>
         <li data-rv="right">
-          <a class="spec-card" href="#svc-plant">
+          <a class="spec-card" href="yushiro-plant.html">
             <span class="ic"><svg viewBox="0 0 24 24"><path d="M12 21c0-6 3-10 8-11-1 7-4 10-8 11z"/><path d="M12 21c0-5-2.5-8.5-7-9.5.8 5.8 3.4 8.6 7 9.5z"/><path d="M12 21v-6"/></svg></span>
             <div><b>Environment</b><span>植物性基礎油，回應綠色製造與現場作業環境需求</span></div>
             <i class="go" aria-hidden="true">→</i>
@@ -838,7 +839,7 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
               <span class="chip g sm">01 ／ Plant-based</span>
               <h3>植物型切削油</h3>
               <p>以 SAN-I Yushiro 日本技術為核心，提供植物性切削液與相關加工油品，回應製程性能與環境需求。</p>
-              <a class="more" href="#plant">了解植物性油品 <i class="go">→</i></a>
+              <a class="more" href="yushiro-plant.html">了解植物性油品 <i class="go">→</i></a>
             </div>
           </article>
         </div>
@@ -849,7 +850,7 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
               <span class="chip g sm">02 ／ Industrial Oil</span>
               <h3>工業用油</h3>
               <p>提供切削油、切削液、潤滑油、滑道油、液壓油、齒輪油等多元產品，依加工條件與使用需求協助選擇。</p>
-              <a class="more" href="#contact">查看油品系列 <i class="go">→</i></a>
+              <a class="more" href="products.html">查看油品系列 <i class="go">→</i></a>
             </div>
           </article>
         </div>
@@ -860,7 +861,7 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
               <span class="chip g sm">03 ／ CosmoTech</span>
               <h3>廢水處理設備</h3>
               <p>代理 CosmoTech 廢水處理設備，協助加工業者處理製程產生的廢液與廢水問題。</p>
-              <a class="more" href="#contact">了解廢水處理設備 <i class="go">→</i></a>
+              <a class="more" href="equipment.html">了解廢水處理設備 <i class="go">→</i></a>
             </div>
           </article>
         </div>
@@ -871,7 +872,7 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
               <span class="chip g sm">04 ／ Field Service</span>
               <h3>現場服務與清運</h3>
               <p>從換油、換水、設備需求到後續廢油／廢水清運，協助客戶減少不同廠商之間的溝通與管理成本。</p>
-              <a class="more" href="#flow">了解服務內容 <i class="go">→</i></a>
+              <a class="more" href="license.html">了解清運服務 <i class="go">→</i></a>
             </div>
           </article>
         </div>
@@ -1045,15 +1046,15 @@ footer .copy{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;margi
           <span class="badge"><img src="img/mark.png" width="26" height="36" alt=""></span>
           <span><b>圓華油品</b><small>YUAN HUA OIL CO., LTD.</small></span>
         </a>
-        <div class="partners"><a href="#svc-oil" aria-label="油品介紹：SAN-I Yushiro 油品系列"><img src="img/sterling-logo3.png" width="132" height="60" alt="SAN-I YUSHIRO" loading="lazy"></a><a href="#svc-water" aria-label="廢水處理設備"><img src="img/sterling-logo2.png" width="132" height="60" alt="CosmoTech" loading="lazy"></a><a href="#svc-oil" aria-label="油品介紹：Battor 油品系列"><img src="img/sterling-logo.png" width="132" height="60" alt="Battor" loading="lazy"></a></div>
+        <div class="partners"><a href="yushiro.html" aria-label="油品介紹：SAN-I Yushiro 油品系列"><img src="img/sterling-logo3.png" width="132" height="60" alt="SAN-I YUSHIRO" loading="lazy"></a><a href="equipment.html" aria-label="廢液(水)處理裝置"><img src="img/sterling-logo2.png" width="132" height="60" alt="CosmoTech" loading="lazy"></a><a href="battor.html" aria-label="油品介紹：Battor 油品系列"><img src="img/sterling-logo.png" width="132" height="60" alt="Battor" loading="lazy"></a></div>
       </div>
       <nav class="sitemap" data-rv="up" aria-label="網站地圖">
-        <div><b>關於我們</b><a href="#about">關於圓華油品</a><a href="#about">歷史沿革</a><a href="#about">服務團隊</a></div>
-        <div><b>油品介紹</b><a href="#svc-plant">SAN-I Yushiro 植物性油品</a><a href="#svc-oil">SAN-I Yushiro 油品系列</a><a href="#svc-oil">Battor 油品系列</a><a href="#svc-oil">台塑 潤滑油系列</a></div>
-        <div><b>最新消息</b><a href="#news">跨界合作－半導體電子設備 NEXUSTEST</a><a href="#news">最新展覽</a><a href="#news">新產品發表</a><a href="#news">其他新發布</a></div>
-        <div><b>展會花絮</b><a href="#news">展覽花絮</a><a href="#news">相關報導、專訪</a><a href="#news">活動、聚餐</a><a href="#news">影片</a></div>
-        <div><b>常見問題</b><a href="#contact">油品知識區</a><a href="#contact">油品標準用油表</a><a href="#contact">廢液(水)處理知識區</a></div>
-        <div><b>其他</b><a href="#top">首頁</a><a href="#svc-water">廢水處理設備</a><a href="#service">廢油／水清運證照</a><a href="#contact">聯絡我們</a></div>
+        <div><b>關於我們</b><a href="about.html">關於圓華油品</a><a href="milestone.html">歷史沿革</a><a href="team.html">服務團隊</a></div>
+        <div><b>油品介紹</b><a href="yushiro-plant.html">SAN-I Yushiro 植物性油品</a><a href="yushiro.html">SAN-I Yushiro 油品系列</a><a href="battor.html">Battor 油品系列</a><a href="formosa.html">台塑 潤滑油系列</a></div>
+        <div><b>最新消息</b><a href="news.html#nexustest">跨界合作－半導體電子設備 NEXUSTEST</a><a href="news.html#expo">最新展覽</a><a href="news.html#launch">新產品發表</a><a href="news.html#other">其他新發布</a></div>
+        <div><b>歷年展會/活動花絮</b><a href="gallery.html#expo">展覽花絮</a><a href="gallery.html#press">相關報導、專訪</a><a href="gallery.html#events">活動、聚餐</a><a href="gallery.html#video">影片</a></div>
+        <div><b>常見問題</b><a href="knowledge.html">油品知識區</a><a href="oil-table.html">油品標準用油表</a><a href="water-knowledge.html">廢液(水)處理知識區</a></div>
+        <div><b>其他</b><a href="#top">首頁</a><a href="equipment.html">廢液(水)處理裝置</a><a href="license.html">廢油/水清運牌</a><a href="contact.html">聯絡我們</a></div>
       </nav>
     </div>
     <address>台中市烏日區環中路八段 860 巷 101 號<br>服務範圍：全台皆有（以中部地區為主要服務區域）<br>切削油／切削液／金屬加工油／植物性油品／廢水處理設備</address>

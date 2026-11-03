@@ -1,0 +1,3206 @@
+{
+ "menu": {
+  "yushiro-product-oil-1.html": "植物性切削液",
+  "yushiro-product-index-1.html": "水溶性切削油",
+  "yushiro-product-index-2.html": "油性切削油",
+  "yushiro-product-index-3.html": "防鏽油",
+  "yushiro-product-index-5.html": "調質油",
+  "yushiro-product-index-6.html": "清洗劑",
+  "yushiro-product-index-7.html": "添加劑",
+  "battor-product-index-1.html": "省能源液壓油",
+  "battor-product-index-2.html": "耐磨耗液壓油",
+  "battor-product-index-3.html": "防火液壓油",
+  "battor-product-index-4.html": "高速主輪油",
+  "battor-product-index-5.html": "滑道油",
+  "battor-product-index-6.html": "齒輪油",
+  "battor-product-index-7.html": "空壓機油",
+  "battor-product-index-8.html": "熱媒油",
+  "battor-product-index-9.html": "冷凍機油",
+  "battor-product-index-10.html": "放電加工油",
+  "battor-product-index-11.html": "高溫淬火油",
+  "battor-product-index-12.html": "二硫化鉬油脂",
+  "formosa-product-index-1.html": "極壓鋰基潤滑脂",
+  "formosa-product-index-2.html": "高溫極壓複合鋰基潤滑脂",
+  "formosa-product-index-3.html": "多效鋰基潤滑脂",
+  "formosa-product-index-4.html": "螺旋式空壓機油 SC GII",
+  "formosa-product-index-5.html": "往復式空壓機油 RC GII",
+  "formosa-product-index-6.html": "渦輪機油 TB GII",
+  "formosa-product-index-7.html": "台塑齒輪油 GII",
+  "formosa-product-index-8.html": "台塑錠子油 GII",
+  "formosa-product-index-9.html": "台塑熱媒油 GII",
+  "formosa-product-index-10.html": "台塑滑道油 GII",
+  "formosa-product-index-11.html": "台塑液壓油 AW GII",
+  "formosa-product-index-12.html": "台塑循環油 GII"
+ },
+ "products": {
+  "yushiro-plant-oil": {
+   "old": "yushiro-product-oil-1.html",
+   "title": "植物性切削油 / 植物性切削液",
+   "hero": null,
+   "overview": [
+    {
+     "label": "此植物性切削油系列包含:(金屬加工油)",
+     "html": "<p>植物酯是由植物油中萃取，天然潤滑劑，植物酯的油膜層，不易破裂，\n潤滑比礦物油高出許多，不需添加氯化石蠟極壓劑，也能滿足高精度及嚴苛條件下的加工。\n</p>\n<ul>\n<li> 減少廢液產出，使用壽命延長3-5倍</li>\n<li> 低蒸發，低COD與VOC</li>\n<li> 解決生物降解性，環境與人類</li>\n<li> 無甲醛釋放劑</li>\n<li> 無硼，無二級胺</li>\n</ul>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>植物酯<small>切削油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tbody>\n<tr>\n<td>\n<p>產品編號</p>\n</td>\n<td>\n<p>外觀(原液)</p>\n</td>\n<td>\n<p>稀釋液</p>\n</td>\n<td>\n<p>密度(g/cm³)</p>\n</td>\n<td>\n<p>PH值</p>\n</td>\n<td>\n<p>Birix刻度(×10)</p>\n</td>\n<td>\n<p>特性</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>ML-50AH1</p>\n</td>\n<td>\n<p>黃褐色透明</p>\n</td>\n<td>\n<p>淡白色</p>\n</td>\n<td>\n<p>1.110</p>\n</td>\n<td>\n<p>9.3</p>\n</td>\n<td>\n<p>7.0</p>\n</td>\n<td>\n<p>高精度鋁合金加工</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>ML-50AS</p>\n</td>\n<td>\n<p>黃色透明</p>\n</td>\n<td>\n<p>淡白色</p>\n</td>\n<td>\n<p>1.08</p>\n</td>\n<td>\n<p>8.7</p>\n</td>\n<td>\n<p>6.7</p>\n</td>\n<td>\n<p>較不易造成皮膚過敏</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "yushiro-plant-oil",
+   "menu": "植物性切削液"
+  },
+  "yushiro-water": {
+   "old": "yushiro-product-index-1.html",
+   "title": "水性切削油 / 水溶性切削液",
+   "hero": null,
+   "overview": [
+    {
+     "label": "此水性切削油系列包含:(金屬加工油)",
+     "html": "<p>水性切削油又稱之為水溶性切削液，水溶性切削液對於工業機械使用的冷卻降溫效果顯著，圓華提供的水性切削液包含有:合成、 半合成水性切削液、 乳化型水性切削液、 化學型水性切削液、 水性切削油應用範圍: 包含產業CNC機械設備用途以及各類工業用機械使用。</p>\n<ul>\n<li> 合成、 半合成水性切削液</li>\n<li> 乳化型水性切削液</li>\n<li> 化學型水性切削液</li>\n</ul>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>合成、 半合成<small>水性切削油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"3\">性狀</th>\n<th colspan=\"6\">主要成分(%)</th>\n<th colspan=\"5\">性能</th>\n<th rowspan=\"3\">用途與使用倍率(A)</th>\n<th rowspan=\"3\">特點及摘要(B)</th>\n</tr>\n<tr>\n<th rowspan=\"2\">水溶性切削油</th>\n<th rowspan=\"2\">外觀</th>\n<th rowspan=\"2\">比重15/4ﾟC</th>\n<th rowspan=\"2\">ph*20</th>\n<th rowspan=\"2\">-</th>\n<th rowspan=\"2\">氨類</th>\n<th rowspan=\"2\">無機鹽</th>\n<th rowspan=\"2\">潤滑劑</th>\n<th rowspan=\"2\">極壓添加劑</th>\n<th rowspan=\"2\">礦油</th>\n<th rowspan=\"2\">防鏽性*30</th>\n<th rowspan=\"2\">消泡性</th>\n<th colspan=\"3\">對非鐵金屬之影響</th>\n</tr>\n<tr>\n<th>CU</th>\n<th>AL</th>\n<th>ZN</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"17\">合成、\n半合成<br/></th>\n</tr>\n<tr>\n<th>A-1</th>\n<td>茶色半透明液<br/>\n淡黃色透明液</td>\n<td>1.050</td>\n<td>9.5</td>\n<td>-</td>\n<td>△</td>\n<td>△</td>\n<td>△</td>\n<td>-</td>\n<td>▲</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>C</td>\n<td>C</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削20-50倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\"> 鋼鑄鐵之輕切削及一般研磨</td>\n</tr>\n<tr>\n<th>A-2</th>\n<td>黃色半透明液<br/>\n淡黃色透明液</td>\n<td>1.050</td>\n<td>8.9</td>\n<td>-</td>\n<td>△</td>\n<td>▲</td>\n<td>△</td>\n<td>-</td>\n<td>▲</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削20-40倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">鋼鑄鐵之輕切削及一般研磨</td>\n</tr>\n<tr>\n<th>A-9</th>\n<td>黃褐色半透明液<br/>\n淡黃色半透明液</td>\n<td>1.050</td>\n<td>9.2</td>\n<td>-</td>\n<td>● </td>\n<td>▲</td>\n<td>●</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削20-50倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">特別適用時軸承(溝)研削及精密研削加工</td>\n</tr>\n<tr>\n<th>HGM-25H</th>\n<td>黃褐色半透明液<br/>\n淡青色透明液</td>\n<td>1.010</td>\n<td>9.3</td>\n<td>-</td>\n<td>●</td>\n<td>△</td>\n<td>△</td>\n<td>△</td>\n<td>○</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>A</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁合金切削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">含多量礦油及極壓劑切削性能特優</td>\n</tr>\n<tr>\n<th>HGM-50</th>\n<td>藍色透明液<br/>\n淡藍色半透明液</td>\n<td>1.005</td>\n<td>9.2</td>\n<td>-</td>\n<td>△</td>\n<td>△</td>\n<td>△</td>\n<td>-</td>\n<td>●</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁銅合金切削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">礦油量適中,抗二次乳化性強,可長期安定使用</td>\n</tr>\n<tr>\n<th>HGM-50H</th>\n<td>淡黃色透明液<br/>\n微白色半透明液</td>\n<td>1.015</td>\n<td>9.2</td>\n<td>-</td>\n<td>△</td>\n<td>△</td>\n<td>△</td>\n<td>▲</td>\n<td>●</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁銅合金切削10-30倍 </td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">在HGM-50中添加綠系及壓劑,適用於要求較高表面光澤渡之切削</td>\n</tr>\n<tr>\n<th>HGM-92H</th>\n<td>淡黃色透明液<br/>\n微白半透明液</td>\n<td>1.015</td>\n<td>9.2</td>\n<td>-</td>\n<td>△</td>\n<td>△</td>\n<td>△</td>\n<td> ▲ </td>\n<td> ●</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁銅合金切削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">含特殊抗菌物質,能有效抑制微生物繁殖,切削液不易惡化,可長期安定使用</td>\n</tr>\n<tr>\n<th>HGM-60</th>\n<td>黃色半透明液<br/>\n微白色液狀</td>\n<td>1.000</td>\n<td>9.2</td>\n<td>-</td>\n<td>△</td>\n<td>△</td>\n<td>△</td>\n<td>-</td>\n<td>○</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁銅合金切削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\"> 洗淨性特優,不汙染加工件及機械面</td>\n</tr>\n<tr>\n<th>ML-50</th>\n<td>黃色透明液<br/>\n淡白色透明液</td>\n<td>1.080</td>\n<td>8.5</td>\n<td>-</td>\n<td>○</td>\n<td>▲</td>\n<td>○</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>B</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋳鐵鋁銅合金切削20-50倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">無臭味,低皮膚刺激性</td>\n</tr>\n<tr>\n<th>MIC-600A</th>\n<td>褐色透明液<br/>\n淡青白色液狀</td>\n<td>1.000</td>\n<td>9.2</td>\n<td>-</td>\n<td>△</td>\n<td>▲</td>\n<td>△</td>\n<td>▲</td>\n<td>○</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>A</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁合金切削20-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">鋼鐵鋁合金切削及一般研削</td>\n</tr>\n<tr>\n<th>MIC-2000TRT</th>\n<td>黃色半透明液<br/>\n清白色半透明液</td>\n<td>0.980</td>\n<td>9.8</td>\n<td>-</td>\n<td>●</td>\n<td>▲</td>\n<td> ○</td>\n<td>-</td>\n<td>●</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁合金切削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">內含特殊合成潤滑劑,適用於高精度之切研削兼用油劑,由適用於CBN砂輪之無心研磨使用</td>\n</tr>\n<tr>\n<th>MIC-2100</th>\n<td>褐色半透明液<br/>\n淡青白色半透明液</td>\n<td>1.020</td>\n<td>9.9</td>\n<td>-</td>\n<td>●</td>\n<td>▲</td>\n<td>●</td>\n<td>-</td>\n<td>△ </td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>C</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削20-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">耐腐敗性極優之切研削油</td>\n</tr>\n<tr>\n<th>MIC-2150</th>\n<td>黃褐色半透明液<br/>\n淡青白色透明液</td>\n<td>1.000</td>\n<td>9.6</td>\n<td>-</td>\n<td> △</td>\n<td> ▲</td>\n<td> △</td>\n<td>-</td>\n<td> △</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\"><p>B 鋼鑄鐵切硏削20-40倍</p></td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\"> 鋼鑄鐵切削及一般研削</td>\n</tr>\n<tr>\n<th>MIC-4100V</th>\n<td>黃褐色透明液<br/>\n淡青白色透明液狀</td>\n<td>1.20</td>\n<td>9.0</td>\n<td>-</td>\n<td>●</td>\n<td>△</td>\n<td>△</td>\n<td>-</td>\n<td>●</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>A</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁合金切削20-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">洗淨性優不汙染機械面</td>\n</tr>\n<tr>\n<th>MIC-5000V</th>\n<td>黃褐色透明液<br/>\n淡白色液</td>\n<td>1.000</td>\n<td>9.2</td>\n<td>-</td>\n<td>●</td>\n<td>▲</td>\n<td>△</td>\n<td>△</td>\n<td>○</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>A</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁合金切削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">配合合成潤滑劑取代是量之礦油,已提高刀具壽命及加工面粗度</td>\n</tr>\n<tr>\n<th>NO.500</th>\n<td>黃褐色半透明液淡褐色透明液</td>\n<td>1.045</td>\n<td>9.4</td>\n<td>-</td>\n<td>●</td>\n<td>▲</td>\n<td>○</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削10-40倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">特殊全合成型之切研削油劑,具高潤滑低起泡低腐蝕性喜淨冷卻潤滑極佳,適用於重研磨加工</td>\n</tr>\n<tr>\n<th>NO.500C</th>\n<td>黃褐色半透明液淡青白色透明液</td>\n<td>1.035</td>\n<td>9.2</td>\n<td>-</td>\n<td>●</td>\n<td>▲</td>\n<td>●</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">特殊全合成型之切削油劑,其高潤滑低起泡低腐蝕性是產品一大優點</td>\n</tr>\n<tr>\n<th>NO.500E</th>\n<td>黃褐色半透明液淡青白色透明液</td>\n<td>1.050</td>\n<td>8.8</td>\n<td>-</td>\n<td>●</td>\n<td>▲</td>\n<td>●</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">適合航太工業用高張力之各種非鐵金屬加工及各各種研磨切削加工等</td>\n</tr>\n<tr>\n<th>NO.870L</th>\n<td>淡黃色透明液<br/>\n無色透明液</td>\n<td>1.075</td>\n<td>9.1</td>\n<td>-</td>\n<td>●</td>\n<td>-</td>\n<td>○</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">銅SUS鈦合金切硏削10-40倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">洗淨分散冷卻佳,適用於高速鉆床及SUS303之研磨</td>\n</tr>\n<tr>\n<th>NO.880</th>\n<td>無色半色透明液無色透明液</td>\n<td>1.075</td>\n<td>9.4</td>\n<td>-</td>\n<td>△</td>\n<td>▲</td>\n<td> ○</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">銅SUS鈦合金切硏削10-40倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">合成型之新型油劑,適用於各種被切研削材及加工法,具有一般水溶性切削油所不及的特優性能</td>\n</tr>\n<tr>\n<th>S-83</th>\n<td>褐色半透明液<br/>\n淡白色半透明液</td>\n<td>1.060</td>\n<td>9.2</td>\n<td>-</td>\n<td>○</td>\n<td> -</td>\n<td>○</td>\n<td> -</td>\n<td> -</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削30-70倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">不含礦物油,而改以多量潤滑脂,以提高潤滑性,特別適用軸承(溝)之研磨</td>\n</tr>\n<tr>\n<th>S-50N</th>\n<td>淡黃色透明液<br/>\n微黃色透明液</td>\n<td>1.090</td>\n<td>8.8</td>\n<td>-</td>\n<td>●</td>\n<td>▲</td>\n<td>○</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>B</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵非鐵金屬切研削20-50倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">對皮膚刺激性低的切削研磨油劑</td>\n</tr>\n<tr>\n<th>S-500N</th>\n<td>淡黃色透明液<br/>\n微黃色透明液</td>\n<td>1.080</td>\n<td>8.6</td>\n<td>-</td>\n<td>△</td>\n<td>▲</td>\n<td>○</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>B</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵非鐵金屬切研削20-50倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">對皮膚刺激性低的切削研磨油劑</td>\n</tr>\n<tr>\n<th>SC-17</th>\n<td>淡黃色透明液<br/>\n無色透明液</td>\n<td>1.100</td>\n<td>9.2</td>\n<td>-</td>\n<td>○</td>\n<td>△</td>\n<td>△</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>C</td>\n<td>C</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削20-50倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">防鏽性耐腐蝕性均優,銅鋁鋅等非金屬請勿使用</td>\n</tr>\n<tr>\n<th>SC-23T</th>\n<td>藍色透明液<br/>\n淡藍色透明液</td>\n<td>1.070</td>\n<td>9.1</td>\n<td>-</td>\n<td>●</td>\n<td>▲ </td>\n<td>△</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>C</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削20-60倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">不受他油混入引響,耐劣化性良好,且不易二次乳化</td>\n</tr>\n<tr>\n<th>S-33D</th>\n<td>淡黃色半透明液<br/>\n無色透明液</td>\n<td>1.050</td>\n<td>9.5</td>\n<td>-</td>\n<td>●</td>\n<td>△</td>\n<td>▲</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>C</td>\n<td>C</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削20-40倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\"><p>耐腐敗性,消泡性佳</p></td>\n</tr>\n<tr>\n<th>SC-35</th>\n<td>淡黃色半透明液無色透明液</td>\n<td>1.050</td>\n<td>9.4</td>\n<td>-</td>\n<td> ●</td>\n<td> ▲</td>\n<td>△</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>C</td>\n<td>C</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削20-40倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">防鏽消泡耐腐敗性特優之研磨用油,尤其對研削屑有極佳的分散性</td>\n</tr>\n<tr>\n<th>SC-70</th>\n<td>黃色透明液<br/>\n微黃色透明液</td>\n<td>1.100</td>\n<td>9.3</td>\n<td>-</td>\n<td> ○</td>\n<td>▲</td>\n<td>△</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削20-50倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">含特殊潤滑劑,適用於精密研削</td>\n</tr>\n<tr>\n<th>SC-80</th>\n<td>淡黃色透明液<br/>\n無色透明液</td>\n<td>1.070</td>\n<td>8.0</td>\n<td>-</td>\n<td>●</td>\n<td>△</td>\n<td>▲</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">石英超硬合金切研削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">金屬及腊質不易釋出溶解</td>\n</tr>\n<tr>\n<th>SC-100M</th>\n<td>淡黃色透明液<br/>\n無色透明液</td>\n<td>1.060</td>\n<td>9.0</td>\n<td>-</td>\n<td>●</td>\n<td>-</td>\n<td>△</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>A</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削20-50倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">分散性極佳,有利切削屑排除Roll-grinding.適用</td>\n</tr>\n<tr>\n<th>SC-100S</th>\n<td>淡黃色透明液<br/>無色透明液</td>\n<td>1.070</td>\n<td>9.5</td>\n<td>-</td>\n<td>●</td>\n<td>-</td>\n<td>△</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>A</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削20-50倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">消泡性優,分散性佳,有利切削屑排除Roll-grinding.適用</td>\n</tr>\n<tr>\n<th>SC-150</th>\n<td>淡黃色透明液<br/>\n近無色透明液</td>\n<td>1.065</td>\n<td>8.5</td>\n<td>-</td>\n<td>△</td>\n<td>-</td>\n<td>○</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>A</td>\n<td>A</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵非鐵金屬切研削10-40倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">水溶性合成型油劑,適合透鏡祾鏡及玻璃等精密切研削加工</td>\n</tr>\n<tr>\n<th>SC-6001</th>\n<td>淡黃色透明液<br/>\n近無色透明液</td>\n<td>1.080</td>\n<td>9.6</td>\n<td>-</td>\n<td>○</td>\n<td>▲</td>\n<td>△</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>C</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削30-50倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">滲透性優,適合軸承之平面外徑研削</td>\n</tr>\n<tr>\n<th>SES</th>\n<td>茶褐色透明液<br/>\n淡白色透明液</td>\n<td>1.030</td>\n<td>9.5</td>\n<td>-</td>\n<td>△</td>\n<td>-</td>\n<td>△</td>\n<td>-</td>\n<td>-</td>\n<td>B</td>\n<td>C</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">非鐵金屬研削30-50倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">洗淨潤滑均優,適合透鏡祾鏡之研削</td>\n</tr>\n<tr>\n<th>SC-300</th>\n<td>淡黃色透明液<br/>\n無色透明液</td>\n<td>1.085</td>\n<td>9.6</td>\n<td>-</td>\n<td>○</td>\n<td>▲</td>\n<td>▲</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼及鑄鐵硏削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">消泡性特優,分散力強,切屑不易結塊,尤適合Chain-conveyer系統</td>\n</tr>\n<tr>\n<th>SC-300T</th>\n<td>淡黃色透明液<br/>\n無色透明液</td>\n<td>1.075</td>\n<td>9.6</td>\n<td>-</td>\n<td>●</td>\n<td>▲</td>\n<td>▲</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼及鑄鐵硏削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">消泡性特優,係專為壓縮機凸輪及主軸等多項研磨,而開發之切削油劑,亦適用於Ball之粗研削</td>\n</tr>\n</table>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>乳化型<small>水性切削油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"3\">性狀</th>\n<th colspan=\"6\">主要成分(%)</th>\n<th colspan=\"5\">性能</th>\n<th rowspan=\"3\"> 用途與使用倍率(A)</th>\n<th rowspan=\"3\">特點及摘要(B)</th>\n</tr>\n<tr>\n<th rowspan=\"2\">水溶性切削油</th>\n<th rowspan=\"2\">外觀</th>\n<th rowspan=\"2\">比重15/4ﾟC</th>\n<th rowspan=\"2\">ph*20</th>\n<th rowspan=\"2\">-</th>\n<th rowspan=\"2\"> 氨類</th>\n<th rowspan=\"2\">無機鹽</th>\n<th rowspan=\"2\">潤滑劑</th>\n<th rowspan=\"2\">極壓添加</th>\n<th rowspan=\"2\">礦油</th>\n<th rowspan=\"2\">防鏽性*30</th>\n<th rowspan=\"2\">消泡性</th>\n<th colspan=\"3\">對非鐵金屬<br/>\n之影響</th>\n</tr>\n<tr>\n<th>CU</th>\n<th>AL</th>\n<th>ZN</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"17\">乳化型<br/></th>\n</tr>\n<tr>\n<th>EC-50</th>\n<td>褐色透明液</td>\n<td>0.950</td>\n<td>9.5</td>\n<td>-</td>\n<td>△</td>\n<td>-</td>\n<td>●</td>\n<td>-</td>\n<td>◎</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>A</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁切削10-40倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">耐腐敗性佳,能延長使壽命</td>\n</tr>\n<tr>\n<th>EC-50F </th>\n<td>黃褐色透明液</td>\n<td>0.910</td>\n<td>9.4</td>\n<td>-</td>\n<td>▲</td>\n<td>-</td>\n<td> △</td>\n<td> △</td>\n<td>◎</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁合金切削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">鋁合金A7A6系列亦適用</td>\n</tr>\n<tr>\n<th>EC-50K</th>\n<td>褐色半透明液</td>\n<td>0.940</td>\n<td>9.5</td>\n<td>-</td>\n<td>△</td>\n<td>▲</td>\n<td>●</td>\n<td>-</td>\n<td>◎</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>A</td>\n<td>A</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵切硏削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">能有效杜絕黴菌滋生,可長期安定使用,適用於Transfer Machine之FC....ete加工</td>\n</tr>\n<tr>\n<th>EC-80</th>\n<td>黃褐色半透明液</td>\n<td>0.945</td>\n<td>9.5</td>\n<td>-</td>\n<td> △</td>\n<td>▲</td>\n<td> △</td>\n<td>-</td>\n<td>◎</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>A</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁合金切削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">切研削加工用油,其防鏽性乳化安定性洗淨性皆極為優良,且能以高濃度使用而不易起泡</td>\n</tr>\n<tr>\n<th>EC-80A</th>\n<td>黃褐色透明液</td>\n<td>0.955</td>\n<td>9.5</td>\n<td>-</td>\n<td>△</td>\n<td>▲</td>\n<td>△</td>\n<td>▲</td>\n<td> ◎</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>A</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁合金切削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">含有極壓添加劑,切削性能及加,加工表面精度良好</td>\n</tr>\n<tr>\n<th>EC-85</th>\n<td>黃色透明液</td>\n<td>0.930</td>\n<td>9.4</td>\n<td>-</td>\n<td> △</td>\n<td> ▲</td>\n<td>●</td>\n<td>-</td>\n<td>◎</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁合金切削20-40倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">配合淨菌物質使用,能大幅提升其耐腐蝕性非常適合於切削及一般孔加工</td>\n</tr>\n<tr>\n<th>EC-202</th>\n<td>褐色色半透明液</td>\n<td>1.030</td>\n<td>9.4</td>\n<td>-</td>\n<td>△</td>\n<td>▲</td>\n<td>●</td>\n<td>○</td>\n<td>●</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁銅合金切削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">多量氯系硫系極壓添加之重切削拉削深孔RTD加工</td>\n</tr>\n<tr>\n<th>EZ-20</th>\n<td>黃色透明液</td>\n<td>0.915</td>\n<td>9.8</td>\n<td>-</td>\n<td> △</td>\n<td>-</td>\n<td> △</td>\n<td> △</td>\n<td> ◎</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>C</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵切硏削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">絞孔攻牙由孔</td>\n</tr>\n<tr>\n<th>EZ-20H</th>\n<td>褐色透明液</td>\n<td>0.940</td>\n<td>9.5</td>\n<td>-</td>\n<td>△ </td>\n<td>-</td>\n<td>●</td>\n<td>△ </td>\n<td> ◎</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁合金研削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">水質適用範圍:300PPM&gt;消泡性能極佳,可高濃度使用而不起泡</td>\n</tr>\n<tr>\n<th>EZ-230</th>\n<td>黃色透明液</td>\n<td>0.950</td>\n<td>9.8</td>\n<td>-</td>\n<td>△</td>\n<td>-</td>\n<td>△</td>\n<td>○</td>\n<td>○</td>\n<td>B</td>\n<td>A</td>\n<td>B</td>\n<td>C</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鑄鐵鋼切研削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">在EZ-20中添加硫磺系極壓添加劑之重切研削用油</td>\n</tr>\n<tr>\n<th>FX-300</th>\n<td>褐色透明液</td>\n<td>0.940</td>\n<td>8.2</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td> ●</td>\n<td>-</td>\n<td>◎</td>\n<td>B</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鎳鋁銅合金切研削15-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">不含醇胺類之切研油劑,鋁合金A7A6系列亦適用</td>\n</tr>\n<tr>\n<th>GT-1</th>\n<td>黃褐色透明液</td>\n<td>0890</td>\n<td>9.4</td>\n<td>-</td>\n<td> ▲</td>\n<td>-</td>\n<td>△</td>\n<td>-</td>\n<td>◎</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鐵鋁材金屬切削10-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">一般切削之泛用油</td>\n</tr>\n<tr>\n<th>NF-20</th>\n<td>暗褐色半透明液</td>\n<td>0.935</td>\n<td>9.4</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>▲</td>\n<td>-</td>\n<td>○</td>\n<td>B</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>A</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">非鐵金屬切硏削5-20倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">鎂鋁銅等合金切研削用由耐(MG)水硬度可達3000PPM</td>\n</tr>\n</table>\n<h3 class=\"spec-h\" id=\"block7\"><em class=\"num\">7</em>化學型<small>水性切削油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"3\">性狀</th>\n<th colspan=\"6\">主要成分(%)</th>\n<th colspan=\"5\">性能</th>\n<th rowspan=\"3\">用途與使用倍率(A)</th>\n<th rowspan=\"3\">特點及摘要(B)</th>\n</tr>\n<tr>\n<th rowspan=\"2\">水溶性切削油</th>\n<th rowspan=\"2\">外觀</th>\n<th rowspan=\"2\">比重15/4ﾟ C</th>\n<th rowspan=\"2\">ph*20</th>\n<th rowspan=\"2\">-</th>\n<th rowspan=\"2\"> 氨類</th>\n<th rowspan=\"2\">無機鹽</th>\n<th rowspan=\"2\">潤滑劑</th>\n<th rowspan=\"2\">極壓添加劑</th>\n<th rowspan=\"2\">礦油</th>\n<th rowspan=\"2\">防鏽性*30</th>\n<th rowspan=\"2\">消泡性</th>\n<th colspan=\"3\">對非鐵金屬<br/>\n之影響</th>\n</tr>\n<tr>\n<th>CU</th>\n<th>AL</th>\n<th>ZN</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"17\">化學型<br/></th>\n</tr>\n<tr>\n<th>BN-5</th>\n<td>淡黃色透明液</td>\n<td>1.255</td>\n<td>9.3</td>\n<td>-</td>\n<td>●</td>\n<td>○</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>C</td>\n<td>C</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵研削30-50倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\"> 壓硝酸鹽使用防鏽性耐腐敗性特優之研磨油</td>\n</tr>\n<tr>\n<th>CN-100 </th>\n<td>淡黃色透明液</td>\n<td>1.300</td>\n<td>9.6</td>\n<td>-</td>\n<td>-</td>\n<td>○</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼銅碳鎢鋼研削20-40倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">冷卻消泡洗淨防鏽性均優之研磨油,且不易造成鈷金屬釋出</td>\n</tr>\n<tr>\n<th>CN-102</th>\n<td>無色透明液</td>\n<td>1.155</td>\n<td>9.5</td>\n<td>-</td>\n<td>○</td>\n<td>△</td>\n<td>○</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\"> 鋼鑄鐵研削30-50倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\"> 抗二次乳化性強使用液,不易劣化</td>\n</tr>\n<tr>\n<th>CN-329</th>\n<td>淡黃色透明液 </td>\n<td>1.130</td>\n<td>9.0</td>\n<td>-</td>\n<td> ○</td>\n<td>△</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">超硬合金研削20-40倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">鈦鈷等特殊金屬不是釋出</td>\n</tr>\n<tr>\n<th>N</th>\n<td>淡黃色透明液</td>\n<td>1.200</td>\n<td>9.4</td>\n<td>-</td>\n<td>●</td>\n<td>●</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>C</td>\n<td>C</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵研削30-50倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\"> 亞硝酸鹽使用作業性防鏽性優,可用於水壓試驗</td>\n</tr>\n<tr>\n<th>TC-20</th>\n<td>淡黃色透明液</td>\n<td>1.130</td>\n<td>9.3</td>\n<td>-</td>\n<td> △</td>\n<td> △</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>B</td>\n<td>C</td>\n<td>C</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵研削20-30倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\"> 壓硝酸鹽使用之研削用油</td>\n</tr>\n<tr>\n<th>TC-50</th>\n<td>淡黃色透明液</td>\n<td>1.17</td>\n<td>9.9</td>\n<td>-</td>\n<td>△</td>\n<td>●</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>A</td>\n<td>A</td>\n<td>A</td>\n<td>C</td>\n<td>C</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"16\">鋼鑄鐵研削30-40倍</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"16\">N之普及品<br/></td>\n</tr>\n</table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "yushiro-water",
+   "menu": "水溶性切削油"
+  },
+  "yushiro-cutting-oil": {
+   "old": "yushiro-product-index-2.html",
+   "title": "油性切削油/油性切削液",
+   "hero": null,
+   "overview": [
+    {
+     "label": "此油品系列包含:(金屬加工油)",
+     "html": "<ul>\n<li> 油性型系切削液</li>\n<li> 氯系切削液</li>\n<li> 氯硫不活性系切削液</li>\n<li> 氯硫活性系切削液</li>\n<li> 硫系切削液</li>\n<li> 氯磷系切削液</li>\n<li> 氯硫磷系切削液</li>\n</ul>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>氯係<small>油性切削油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"6\">性狀</th>\n<th colspan=\"3\"> </th>\n<th rowspan=\"2\"> 用途與使用倍率(A)</th>\n<th rowspan=\"2\">特點及摘要(B)</th>\n</tr>\n<tr>\n<th>油性切削油</th>\n<th>外觀</th>\n<th>色相ASTM</th>\n<th>比重15/4</th>\n<th>動黏度mm/s<br/>\n40度C</th>\n<th> 引火點COC法.C</th>\n<th>活性度銅板腐蝕<br/>\n100.C/1hr</th>\n<th>脂肪油份</th>\n<td>氯系極壓劑</td>\n<th>流系極壓劑</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"12\">氯係<br/></th>\n</tr>\n<tr>\n<th>NO.2C</th>\n<td>淡黃色透明液</td>\n<td>0.5</td>\n<td>0.850</td>\n<td>10.0</td>\n<td>166</td>\n<td>1</td>\n<td>-</td>\n<td>5&gt;</td>\n<td>-</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 鑚孔研磨</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\">低黏度高引火點洗淨性極優</td>\n</tr>\n<tr>\n<th>NO.2L</th>\n<td>淡黃色透明液</td>\n<td>0.5</td>\n<td>0.845</td>\n<td>7.5</td>\n<td>146</td>\n<td>1</td>\n<td>-</td>\n<td>5&gt;-</td>\n<td>-</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 研削輕合金切削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 適合鋁零件加工精密研磨</td>\n</tr>\n<tr>\n<th>NO.2T</th>\n<td>淡黃色透明液</td>\n<td>0.5</td>\n<td>0.850</td>\n<td>11.1</td>\n<td>150</td>\n<td>1</td>\n<td>-</td>\n<td>5&gt;-</td>\n<td>-</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 研削輕合金切削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 軸承軌道研削特殊Oil mist防止劑添加</td>\n</tr>\n<tr>\n<th>NO.3P</th>\n<td>淡黃色透明液</td>\n<td>1.0</td>\n<td>0.880</td>\n<td>20.5</td>\n<td>200</td>\n<td>1</td>\n<td>5&gt;</td>\n<td>5&gt;</td>\n<td>-</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 旋銷鑽孔铣削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 低臭味作業性良好,最適合精密工業使用</td>\n</tr>\n<tr>\n<th>NO.4F</th>\n<td>淡黃色透明液</td>\n<td>0.5</td>\n<td>0.855</td>\n<td>8.5</td>\n<td>144</td>\n<td>1</td>\n<td>5&gt;</td>\n<td>5&gt;-</td>\n<td>-</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 旋削铣削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 精密自動車床加工,披銅加工</td>\n</tr>\n<tr>\n<th>NO.6</th>\n<td>淡黃色透明液</td>\n<td>1.0</td>\n<td>0.900</td>\n<td>22.5</td>\n<td>194</td>\n<td>1</td>\n<td>5&gt;</td>\n<td>5-15</td>\n<td>-</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 齒輪加工</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 適用於高速齒輪及高硬材之滾輪加工</td>\n</tr>\n<th>NO.8</th>\n<td>淡黃色透明液</td>\n<td>0.5</td>\n<td>0.855</td>\n<td>8.5</td>\n<td>144</td>\n<td>1</td>\n<td>5&gt;</td>\n<td>5&gt;</td>\n<td>-</td>\n<td> </td>\n<td> </td>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 旋削铣削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 精密自動車床加工,披銅加工</td>\n</tr>\n<tr>\n<th>NO.9</th>\n<td>淡黃色透明液</td>\n<td>0.5</td>\n<td>0.917</td>\n<td>25.0</td>\n<td>200</td>\n<td>1</td>\n<td>15-25</td>\n<td>15-25</td>\n<td>-</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 齒輪加工</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 差速齒輪加工GIEASON車床切削</td>\n</tr></table>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">2</em>氯硫(不活性係)<small>油性切削油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"6\">性狀</th>\n<th colspan=\"3\"> </th>\n<th rowspan=\"2\"> 用途與使用倍率(A)</th>\n<th rowspan=\"2\">特點及摘要(B)</th>\n</tr>\n<tr>\n<th>油性切削油</th>\n<th>外觀</th>\n<th>色相ASTM</th>\n<th>比重15/4</th>\n<th>動黏度mm/s<br/>\n40度C</th>\n<th> 引火點COC法.C</th>\n<th>活性度銅板腐蝕<br/>\n100.C/1hr</th>\n<th>脂肪油份</th>\n<th>氯系極壓劑</th>\n<th>流系極壓劑</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"12\">氯硫(不活性係)<br/></th>\n</tr>\n<tr>\n<th>DS-50N</th>\n<td>赤褐色半透明液</td>\n<td>5.5</td>\n<td>0.870</td>\n<td>13.0</td>\n<td>160</td>\n<td>2</td>\n<td>-</td>\n<td>5&gt;</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 切削深鑽孔</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 不含鉛,適合快削,鐵合金剛等鋼鐵</td>\n</tr>\n<tr>\n<th>FD-3000</th>\n<td>暗赤色液狀</td>\n<td>8.0</td>\n<td>0.997</td>\n<td>135</td>\n<td>222</td>\n<td>2</td>\n<td>5&gt;</td>\n<td>25-40</td>\n<td>15-25</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 特殊壓版成型用油</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 適合鋼板SUS材及其他特殊材質之沖壓加工</td>\n</tr>\n<tr>\n<th>FD-4000</th>\n<td>暗赤色液狀</td>\n<td>8.0</td>\n<td>1.042</td>\n<td>252</td>\n<td>202</td>\n<td>2</td>\n<td>-</td>\n<td>25-40</td>\n<td>25-40</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 特殊壓版成型用油</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> FD-3000之高潤滑產品</td>\n</tr>\n<tr>\n<th>G-22</th>\n<td>黃褐色透明液</td>\n<td>1.0</td>\n<td>0.920</td>\n<td>22.4</td>\n<td>190</td>\n<td>1</td>\n<td>15-25</td>\n<td>5-15</td>\n<td>5&gt;</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 重切削攻牙鑽孔</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 適合轉削攻牙加工白鐵及合金剛適用</td>\n</tr>\n<tr>\n<th>G-30T</th>\n<td>赤褐色透明液</td>\n<td>6.0</td>\n<td>0.910</td>\n<td>25.5</td>\n<td>190</td>\n<td>2</td>\n<td>-</td>\n<td>5-15</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 齒輪加工</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\">高硬材之滾輪加工</td>\n</tr>\n<tr>\n<th>H25-S</th>\n<td>褐色透明液</td>\n<td>4.0</td>\n<td>0.870</td>\n<td>8.4</td>\n<td>110</td>\n<td>2</td>\n<td>5&gt;</td>\n<td>5&gt;</td>\n<td>5&gt;</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 搪磨</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 鋼FC之搪磨,皮膚炎對策品</td>\n</tr>\n<tr>\n<th>H-41AC</th>\n<td>赤褐色透明液</td>\n<td>7.0</td>\n<td>0.855</td>\n<td>9.0</td>\n<td>148</td>\n<td>2</td>\n<td>5&gt;</td>\n<td>5&gt;</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 搪磨輕合金切削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 係針對鐵鋼FC系列等金屬切削,具有高優質切削效果</td>\n</tr>\n<tr>\n<th>NO.11KS</th>\n<td>黃色透明液</td>\n<td>1.5</td>\n<td>0.896</td>\n<td>19.0</td>\n<td>190</td>\n<td>2</td>\n<td>5&gt;</td>\n<td>5&gt;</td>\n<td>5-15-</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 切削絞孔 適合攻牙切削拉削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 差速齒輪加工GIEASON車床切削</td>\n</tr>\n<tr>\n<th>NO.13</th>\n<td>淡黃色透明液</td>\n<td>0.5</td>\n<td>0.908</td>\n<td>20.0</td>\n<td>184</td>\n<td>1</td>\n<td>5-15</td>\n<td>5-15</td>\n<td>5&gt;</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 切削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 係針對快削鋼中碳鋼不鏽鋼等鋼鐵金屬材料切削加工而開發</td>\n</tr>\n<tr>\n<th>TK-26L</th>\n<td>淡黃色透明液</td>\n<td>0.5</td>\n<td>0.878</td>\n<td>9.0</td>\n<td>150</td>\n<td>1-2</td>\n<td>5-15</td>\n<td>15-25</td>\n<td>5&gt;</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 軸承鋸床加工</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\">低年度高引火點洗淨性良好之切削油劑</td>\n</tr>\n<tr>\n<th>UB-75N</th>\n<td>暗褐色透明液</td>\n<td>7.5</td>\n<td>0.900</td>\n<td>25.8</td>\n<td>176</td>\n<td>2</td>\n<td>-</td>\n<td>5-15</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 拉削轉造剃削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> UB-75同類品在切削局部以外是不活性,故不引響銅合金</td>\n</tr>\n<tr>\n<th>UB-85</th>\n<td>黃色透明液</td>\n<td>1.5</td>\n<td>0.920</td>\n<td>33.0</td>\n<td>190</td>\n<td>1</td>\n<td>15-25</td>\n<td>5-15</td>\n<td>5-15-</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 精密切削加工</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 快削鐵白鐵合金剛切削加工</td>\n</tr>\n<tr>\n<th>UX-11</th>\n<td>乳黃色不透明液</td>\n<td>-</td>\n<td>0.965</td>\n<td>29.0</td>\n<td>190</td>\n<td>2</td>\n<td>15-25</td>\n<td>15-25</td>\n<td>5</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 攻牙SUS自動車床加工</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\">含有特殊添加劑,特別適用於高精度重切削及攻牙深孔鉆等困難加工</td>\n</tr>\n<tr>\n<th>UX-55</th>\n<td>乳黃色不透明液</td>\n<td>-</td>\n<td>0.950</td>\n<td>26.0</td>\n<td>190</td>\n<td>2</td>\n<td>15-25</td>\n<td>15-25</td>\n<td>5&gt;</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> SUS合金剛切削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 含有特殊添加劑,能防止Guide Bush之燒焦</td>\n</tr>\n<tr>\n<th>UX-66</th>\n<td>乳黃色不透明液</td>\n<td>-</td>\n<td>0.990</td>\n<td>27.0</td>\n<td>170</td>\n<td>2</td>\n<td>15-25</td>\n<td>15-40</td>\n<td>5&gt;</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> SUS自動車床加工</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> SUS304.316....等之困難加工</td>\n</tr>\n</table>\n<h3 class=\"spec-h\" id=\"block4\"><em class=\"num\">3</em>氯硫活性系<small>油性切削油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"6\">性狀</th>\n<th colspan=\"3\"> </th>\n<th rowspan=\"2\"> 用途與使用倍率(A)</th>\n<th rowspan=\"2\">特點及摘要(B)</th>\n</tr>\n<tr>\n<th>油性切削油</th>\n<th>外觀</th>\n<th>色相ASTM</th>\n<th>比重15/4</th>\n<th>動黏度mm/s<br/>\n40度C</th>\n<th> 引火點COC法.C</th>\n<th>活性度銅板腐蝕<br/>\n100.C/1hr</th>\n<th>脂肪油份</th>\n<th>氯系極壓劑</th>\n<th>流系極壓劑</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"12\">氯硫活性係</th>\n</tr>\n<tr>\n<th>BX-45S</th>\n<td>褐色透明液</td>\n<td>3.5</td>\n<td>1.000</td>\n<td>23.7</td>\n<td>164</td>\n<td>4</td>\n<td>-</td>\n<td>40-60</td>\n<td>-</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 拉削攻牙鑽孔切削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 適用於SUS等耐熱合金鋼內多含多量級壓劑可延長刀具壽命</td>\n</tr>\n<tr>\n<th>DS-50D</th>\n<td>黃色半透明液</td>\n<td>0.5</td>\n<td>0.865</td>\n<td>11.5</td>\n<td>160</td>\n<td>4</td>\n<td>-</td>\n<td>5&gt;</td>\n<td>5&gt;</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 深鑽孔</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> Gun Drill.BTA.Ejector Drill等</td>\n</tr>\n<tr>\n<th>DS-50Y</th>\n<td>赤褐色透明液</td>\n<td>5.5</td>\n<td>0.870</td>\n<td>13.3</td>\n<td>164</td>\n<td>4</td>\n<td>-</td>\n<td>5&gt;</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 深鑽孔切削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 快削鐵合金剛快削白鐵等鋼鐵金屬切削加工及深孔鑽加工</td>\n</tr>\n<tr>\n<th>DS-52</th>\n<td>黃色半透明液</td>\n<td>1.0</td>\n<td>0.880</td>\n<td>17.6</td>\n<td>170</td>\n<td>4</td>\n<td>5&gt;</td>\n<td>5&gt;</td>\n<td>5&gt;</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 深鑽孔螺紋切削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> Gun Drill.BTA.Ejector Drill .Chaser等</td>\n</tr>\n<tr>\n<th>G-10</th>\n<td>暗褐色透明液</td>\n<td>6.5</td>\n<td>0.865</td>\n<td>14.0</td>\n<td>174</td>\n<td>3</td>\n<td>-</td>\n<td>5&gt;</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 鑽孔攻牙滾輪 </td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\">合金鋼鋁合金鑄鐵之Gun Drill.BTA.加工</td>\n</tr>\n<tr>\n<th>G-12</th>\n<td>黃褐色透明液</td>\n<td>1.5</td>\n<td>0.870</td>\n<td>12.0</td>\n<td>160</td>\n<td>4</td>\n<td>5-15</td>\n<td>5&gt;</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 齒輪螺絲研磨軸承溝研</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 冷卻性排屑性強,具高優質研磨效果</td>\n</tr>\n<tr>\n<th>GS-K</th>\n<td>黃色透明液</td>\n<td>1.0</td>\n<td>0.930</td>\n<td>18.8</td>\n<td>168</td>\n<td>5</td>\n<td>5-15</td>\n<td>5-15</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 攻牙螺紋切削 </td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\">低黏度之SUS攻牙及螺紋切削用</td>\n</tr>\n<tr>\n<th>NFT-25S</th>\n<td>暗褐色透明液</td>\n<td>8.0</td>\n<td>1.040</td>\n<td>80.0</td>\n<td>172</td>\n<td>4</td>\n<td>-</td>\n<td>25-40</td>\n<td>25-40</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 冷間鍛造沖孔攻牙</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 為中黏度多慮活性型,特殊極壓成型用油,適合於SUS螺帽成型加工攻牙及其他特殊材質之成型加工</td>\n</tr>\n<tr>\n<th>NO.24C</th>\n<td>黃色透明液</td>\n<td>1.0</td>\n<td>0.845</td>\n<td>7.4</td>\n<td>144</td>\n<td>4</td>\n<td>-</td>\n<td>5&gt;</td>\n<td>5&gt;</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 螺纹研削搪磨</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 低黏度高引火點適合重視加工面粗度之研削及搪磨加工</td>\n</tr>\n<tr>\n<th>NO.11</th>\n<td>淡黃色透明液</td>\n<td>0.5</td>\n<td>0.910</td>\n<td>18.5</td>\n<td>168</td>\n<td>4</td>\n<td>5-15</td>\n<td>15-25</td>\n<td>-</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 拉削絞孔螺絲切削 </td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\">具黏度低洗淨性優</td>\n</tr>\n<tr>\n<th>UB-60</th>\n<td>暗褐色透明液</td>\n<td>7.5</td>\n<td>0.885</td>\n<td>19.0</td>\n<td>160</td>\n<td>4</td>\n<td>-</td>\n<td>5&gt;</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 深鑽孔</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 高效能深鑽孔加工油劑</td>\n</tr>\n<tr>\n<th>UB-75</th>\n<td>暗褐色透明液</td>\n<td>7.5</td>\n<td>0.895</td>\n<td>25.5</td>\n<td>170</td>\n<td>4</td>\n<td>-</td>\n<td>5-15</td>\n<td>5-15-</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 拉削螺纹切削搪磨剃削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 能防止新生鋒刃,適合鋼合金剛之精密切削</td>\n</tr>\n<tr>\n<th>UB-100</th>\n<td>暗褐色液狀</td>\n<td>8.0</td>\n<td>0.905</td>\n<td>33.8</td>\n<td>170</td>\n<td>4</td>\n<td>-</td>\n<td>15-25</td>\n<td>25-25</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 拉削攻牙 </td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\">適合合金鋼之拉削攻牙</td>\n</tr>\n<tr>\n<th>UD-100</th>\n<td>暗褐色液狀</td>\n<td>8.0</td>\n<td>0.905</td>\n<td>42.0</td>\n<td>170</td>\n<td>4</td>\n<td>-</td>\n<td>5&gt;</td>\n<td>25-40</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 拉削攻牙</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> UB-100之高級品SUS耐熱剛之拉削</td>\n</tr>\n<tr>\n<th>UD-100L</th>\n<td>暗褐色透明液 </td>\n<td>8.0</td>\n<td>0.895</td>\n<td>32.6</td>\n<td>176</td>\n<td>4</td>\n<td>-</td>\n<td>5&gt;</td>\n<td>25-40</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\">拉削攻牙</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 硫化礦油使用SUS耐熱剛之拉削</td>\n</tr>\n<tr>\n<th>UH-75</th>\n<td>暗赤褐色透明液</td>\n<td>7.5</td>\n<td>0.895</td>\n<td>25.0</td>\n<td>192</td>\n<td>4</td>\n<td>-</td>\n<td>5-15</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 拉削攻牙</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> Guild Mister .Acme.Shutte等多軸複合車床</td>\n</tr>\n<tr>\n<th>X-O</th>\n<td>黃色透明液</td>\n<td>1.5</td>\n<td>0.898</td>\n<td>8.2</td>\n<td>130</td>\n<td>4</td>\n<td>-</td>\n<td>5-15</td>\n<td>15-25</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 拉削螺纹切削鑽孔</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 適合耐削材之加工</td>\n</tr>\n<tr>\n<th>X-2</th>\n<td>黃色透明液</td>\n<td>1.0</td>\n<td>0.885</td>\n<td>13.7</td>\n<td>160</td>\n<td>4</td>\n<td>5&gt;</td>\n<td>5-15</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 攻牙拉削螺纹切削 </td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\">硫化礦油</td>\n</tr>\n</table>\n<h3 class=\"spec-h\" id=\"block5\"><em class=\"num\">4</em>硫系<small>油性切削油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"6\">性狀</th>\n<th colspan=\"3\"> </th>\n<th rowspan=\"2\"> 用途與使用倍率(A)</th>\n<th rowspan=\"2\">特點及摘要(B)</th>\n</tr>\n<tr>\n<th>油性切削油</th>\n<th>外觀</th>\n<th>色相ASTM</th>\n<th>比重15/4</th>\n<th>動黏度mm/s<br/>\n40度C</th>\n<th> 引火點COC法.C</th>\n<th>活性度銅板腐蝕<br/>\n100.C/1hr</th>\n<th>脂肪油份</th>\n<th>氯系極壓劑</th>\n<th>流系極壓劑</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"12\">硫系</th>\n</tr>\n<tr>\n<th>BZ-501</th>\n<td>黃褐色透明液</td>\n<td>2</td>\n<td>0.885</td>\n<td>21.5</td>\n<td>190</td>\n<td>2</td>\n<td>15-15</td>\n<td>-</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 齒輪加工</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 適用於GLEASON車床切削差速齒輪加工</td>\n</tr>\n<tr>\n<th>FM-500</th>\n<td>暗褐色透明液</td>\n<td>8</td>\n<td>0.891</td>\n<td>52.0</td>\n<td>210</td>\n<td>2</td>\n<td>5-15</td>\n<td>-</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 沖壓沖孔拉伸</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 適用於一般鋼板汽車鋼板之成型壓造</td>\n</tr>\n<tr>\n<th>FM-500W</th>\n<td>暗褐色透明液</td>\n<td>7.5</td>\n<td>0.896</td>\n<td>52.0</td>\n<td>212</td>\n<td>2</td>\n<td>5-15</td>\n<td>-</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 沖壓沖孔拉伸</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 脫脂性佳,適用於鋼板中度擠壓拉伸沖壓</td>\n</tr>\n<tr>\n<th>G-55</th>\n<td>暗褐色半透明液</td>\n<td>7.5</td>\n<td>0.870</td>\n<td>19.0</td>\n<td>166</td>\n<td>2</td>\n<td>-</td>\n<td>-</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 螺纹研磨搪缸</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 搪缸及齒輪螺紋研磨</td>\n</tr>\n<tr>\n<th>G-85</th>\n<td>暗褐色透明液</td>\n<td>7.5</td>\n<td>0.880</td>\n<td>27.0</td>\n<td>188</td>\n<td>2</td>\n<td>-</td>\n<td>-</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 螺紋研磨溝研削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 適合齒輪及螺纹研削</td>\n</tr>\n<tr>\n<th>H-30</th>\n<td>黃褐色透明液</td>\n<td>3.5</td>\n<td>0.851</td>\n<td>6.2</td>\n<td>90</td>\n<td>2</td>\n<td>-</td>\n<td>-</td>\n<td>5&gt;</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 搪磨切削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 適合搪磨及輕合金切削</td>\n</tr>\n<tr>\n<th>H-35</th>\n<td>褐色透明液 </td>\n<td>3.5</td>\n<td>0.840</td>\n<td>4.6</td>\n<td>86</td>\n<td>2</td>\n<td>-</td>\n<td>-</td>\n<td>5&gt;</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 搪磨 </td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\">黏度低,洗淨性良好FC材之搪磨</td>\n</tr>\n<tr>\n<th>SF-33N</th>\n<td>赤褐色透明液</td>\n<td>6.5</td>\n<td>0.811</td>\n<td>4.7</td>\n<td>122</td>\n<td>2</td>\n<td>5&gt;</td>\n<td>-</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 超精加工</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 低臭味SUS Belt-grinding</td>\n</tr>\n<tr>\n<th>SF-80</th>\n<td>赤褐色液狀</td>\n<td>8.0</td>\n<td>0.961</td>\n<td>190</td>\n<td>176</td>\n<td>4</td>\n<td>-</td>\n<td>-</td>\n<td>70-90</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 螺纹研削搪磨</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 超精加工</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 軸承等超精加工之濃縮品</td>\n</tr>\n</table>\n<h3 class=\"spec-h\" id=\"block6\"><em class=\"num\">5</em>氯磷系<small>油性切削油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"6\">性狀</th>\n<th colspan=\"3\"> </th>\n<th rowspan=\"2\"> 用途與使用倍率(A)</th>\n<th rowspan=\"2\">特點及摘要(B)</th>\n</tr>\n<tr>\n<th>油性切削油</th>\n<th>外觀</th>\n<th>色相ASTM</th>\n<th>比重15/4</th>\n<th>動黏度mm/s<br/>\n40度C</th>\n<th> 引火點COC法.C</th>\n<th>活性度銅板腐蝕<br/>\n100.C/1hr</th>\n<th>脂肪油份</th>\n<td>氯系極壓劑</td>\n<th>流系極壓劑</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"12\">氯磷係<br/></th>\n</tr>\n<tr>\n<th>D-100H</th>\n<td>黃褐色透明液</td>\n<td>1.0</td>\n<td>0.887</td>\n<td>25.0</td>\n<td>196</td>\n<td>1</td>\n<td>5&gt;</td>\n<td>5&gt;</td>\n<td>P:5&gt;</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 特殊研削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 溝研削螺纹研削</td>\n</tr>\n<tr>\n<th>YG-240T</th>\n<td>黃色半透明液 </td>\n<td>1.5</td>\n<td>0.853</td>\n<td>7.6</td>\n<td>146</td>\n<td>1</td>\n<td>5&gt;</td>\n<td>-</td>\n<td>P:5&gt;</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 重研削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 適合球窩關節接頭之切削</td>\n</tr>\n<tr>\n<th>YG2T</th>\n<td>淡黃色半透明液</td>\n<td>0.5</td>\n<td>0.845</td>\n<td>8.0</td>\n<td>144</td>\n<td>1</td>\n<td>-</td>\n<td>-</td>\n<td>P:5&gt;</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\">重研削</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 端铣刀之溝研削</td>\n</tr>\n</table>\n<h3 class=\"spec-h\" id=\"block7\"><em class=\"num\">6</em>氯硫磷系<small>油性切削油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"6\">性狀</th>\n<th colspan=\"3\"> </th>\n<th rowspan=\"2\"> 用途與使用倍率(A)</th>\n<th rowspan=\"2\">特點及摘要(B)</th>\n</tr>\n<tr>\n<th>油性切削油</th>\n<th>外觀</th>\n<th>色相ASTM</th>\n<th>比重15/4</th>\n<th>動黏度mm/s<br/>\n40度C</th>\n<th> 引火點COC法.C</th>\n<th>活性度銅板腐蝕<br/>\n100.C/1hr</th>\n<th>脂肪油份</th>\n<th>氯系極壓劑</th>\n<th>流系極壓劑</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"12\">氣硫磷<br/></th>\n</tr>\n<tr>\n<th>B-7Z</th>\n<td>黃色透明液</td>\n<td>2.0</td>\n<td>0.975</td>\n<td>31.0</td>\n<td>170</td>\n<td>2</td>\n<td>P:5&gt;</td>\n<td>25-40</td>\n<td>5-15</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\"> 自動車床加工</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\">潤滑冷卻性佳,對SUS303.304等Rotary Bush特別適用</td>\n</tr>\n<tr>\n<th>fe-200</th>\n<td>黃色透明液</td>\n<td>2.0</td>\n<td>0.955</td>\n<td>31.0</td>\n<td>190</td>\n<td>4</td>\n<td>5&gt;</td>\n<td>15-25</td>\n<td>P:5&gt;</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>(A)</td>\n<td colspan=\"11\">沖壓打孔成形</td>\n</tr>\n<tr>\n<td>(B)</td>\n<td colspan=\"11\"> 硫化礦物油使用軸承鋼材之沖壓穿孔加工</td>\n</tr>\n</table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "yushiro-cutting-oil",
+   "menu": "油性切削油"
+  },
+  "yushiro-rust": {
+   "old": "yushiro-product-index-3.html",
+   "title": "防鏽油",
+   "hero": null,
+   "overview": [
+    {
+     "label": "此油品系列包含",
+     "html": "<ul>\n<li> 溶劑稀釋型</li>\n<li> 礦油型</li>\n<li> 防鏽添加劑</li>\n<li> 樹脂型</li>\n<li> 水溶性防鏽型</li>\n</ul>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>溶劑稀釋型<small>防鏽油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"9\">性狀</th>\n</tr>\n<tr>\n<th>防鏽油</th>\n<th>外觀</th>\n<th>色相ASTM</th>\n<th>比重15/4</th>\n<th>動黏度mm/s<br/>\n40度C</th>\n<th>引火點COC法.C</th>\n<th>膜厚um</th>\n<th>防鏽期</th>\n<th>用途</th>\n<th>特點及摘要</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"10\">溶劑稀釋型</th>\n</tr>\n<tr>\n<th>P-300</th>\n<td>褐色透明液</td>\n<td>6.0</td>\n<td>0.845</td>\n<td>4.5</td>\n<td>70&lt;</td>\n<td>5</td>\n<td>屋內3個月</td>\n<td>一般機械零件軸承之中期防鏽 </td>\n<td>皮膜之除去性水置換</td>\n</tr>\n<tr>\n<th>P-303</th>\n<td>茶色透明液</td>\n<td>3.5</td>\n<td>0.853</td>\n<td>5.7</td>\n<td>60&lt;</td>\n<td>7</td>\n<td>屋內3個月</td>\n<td>一般機械零件汽車嵌版之中期防鏽 皮膜去除性</td>\n<td>耐油斑水置換</td>\n</tr>\n<tr>\n<th>P-303Y</th>\n<td>茶色透明液</td>\n<td>3.0</td>\n<td>0.850</td>\n<td>3.7</td>\n<td>50&lt;</td>\n<td>5</td>\n<td>屋內3個月</td>\n<td>一般機械零件之中期保存 </td>\n<td>耐油斑水置換靜電塗裝亦適用</td>\n</tr>\n<tr>\n<th>P-307L</th>\n<td>赤褐色透明液</td>\n<td>7.0</td>\n<td>0.895</td>\n<td>2.3</td>\n<td>50&lt;</td>\n<td>3-4</td>\n<td>屋內6個月</td>\n<td>一般機械零件軸承之中期防鏽</td>\n<td>耐油斑水置換靜電塗裝亦適用</td>\n</tr>\n<tr>\n<th>P-307S</th>\n<td>赤褐色透明液</td>\n<td>7.0</td>\n<td>0.905</td>\n<td>4.4</td>\n<td>50&lt;</td>\n<td>7-9</td>\n<td>屋內6個月</td>\n<td>軸承之中長期保存</td>\n<td>耐油斑水置換靜電塗裝亦適用</td>\n</tr>\n<tr>\n<th>P-310</th>\n<td>茶色透明液</td>\n<td>3.0</td>\n<td>0.830</td>\n<td>2.8</td>\n<td>60&lt;</td>\n<td>2-4</td>\n<td>屋內3個月</td>\n<td>一般機械零件軸承之短中期防鏽</td>\n<td>薄膜耐由焦被膜之除去性優</td>\n</tr>\n<tr>\n<th>P-313</th>\n<td>赤褐色透明液</td>\n<td>8.0</td>\n<td>0.845</td>\n<td>4.3</td>\n<td>60&lt;</td>\n<td>3</td>\n<td>屋內6個月</td>\n<td>汽車嵌版零件之中期保存</td>\n<td> 耐油焦脫脂性靜電塗裝亦適用</td>\n</tr>\n<tr>\n<th>P-315M</th>\n<td>黃褐色透明液</td>\n<td>2.5</td>\n<td>0.825</td>\n<td>2.3</td>\n<td>50&lt;</td>\n<td>2-4</td>\n<td>屋內3個月</td>\n<td>一般機械零件之短中期防鏽</td>\n<td> 脫脂乾燥速度快</td>\n</tr>\n<tr>\n<th>P-318</th>\n<td>茶色透明液</td>\n<td>5.5</td>\n<td>0.830</td>\n<td>2.6</td>\n<td>60&lt;</td>\n<td>2</td>\n<td>屋內3個月</td>\n<td>一般零件汽車之中期防鏽</td>\n<td> 軟質膜具優良之皮膜去除電靜電塗裝亦適用</td>\n</tr>\n<tr>\n<th>P-335M</th>\n<td>茶色透明液</td>\n<td>3.5</td>\n<td>0.830</td>\n<td>2.9</td>\n<td>60&lt;</td>\n<td>2-4</td>\n<td>屋內6個月</td>\n<td>汽車嵌版零件之中期保存</td>\n<td> 脫脂性低黏度</td>\n</tr>\n<tr>\n<th>P-342M</th>\n<td>茶色透明液</td>\n<td>2.5</td>\n<td>0.845</td>\n<td>4.6</td>\n<td>60&lt;</td>\n<td>4</td>\n<td>屋內6個月</td>\n<td>汽車嵌版零件之中期保存 </td>\n<td>耐油焦脫脂性</td>\n</tr>\n<tr>\n<th>P-345</th>\n<td>黃褐色透明液</td>\n<td>2.5</td>\n<td>0.760</td>\n<td>1.5</td>\n<td>50&lt;</td>\n<td>1.5</td>\n<td>屋內3個月</td>\n<td>一般金屬零件之中期保存</td>\n<td> 低黏度快乾無刺鼻味</td>\n</tr>\n<tr>\n<th>P-351</th>\n<td>褐色透明液</td>\n<td>3.5</td>\n<td>0.770</td>\n<td>1.3</td>\n<td>40&lt;</td>\n<td>3</td>\n<td>屋內3個月</td>\n<td>鐵及非鐵零件中間工程洗淨兼用</td>\n<td> 洗淨性水置換脫脂性</td>\n</tr>\n<tr>\n<th>P-382</th>\n<td>黃色透明液</td>\n<td>1.0</td>\n<td>0.790</td>\n<td>2.4</td>\n<td>50&lt;</td>\n<td>1.5</td>\n<td>屋內3個月</td>\n<td>一般金屬零件之中期保存</td>\n<td> 洗淨性水置換脫脂性</td>\n</tr>\n</table>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>礦油型<small>防鏽油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"9\">性狀</th>\n</tr>\n<tr>\n<th>防鏽油</th>\n<th>外觀</th>\n<th>色相ASTM</th>\n<th>比重15/4</th>\n<th>動黏度mm/s<br/>\n40度C</th>\n<th>引火點COC法.C</th>\n<th>膜厚um</th>\n<th>防鏽期</th>\n<th>用途</th>\n<th>特點及摘要</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"10\">礦油型</th>\n</tr>\n<tr>\n<th>P-928</th>\n<td>褐色透明液</td>\n<td>3.5</td>\n<td>0.865</td>\n<td>12.0</td>\n<td>160</td>\n<td>3</td>\n<td>屋內3個月</td>\n<td>冷壓鋼板鋼捲之短中期保存</td>\n<td> 脫脂性水置換性均極為優異</td>\n</tr>\n<tr>\n<th>P-935</th>\n<td>茶褐色透明液</td>\n<td>4.5</td>\n<td>0.850</td>\n<td>9.5</td>\n<td>110</td>\n<td>3</td>\n<td>屋內3個月</td>\n<td>鍍鋅鋼板鋼捲之中期保存</td>\n<td> 高引火點水置換</td>\n</tr>\n<tr>\n<th>P-938K</th>\n<td>褐色透明液</td>\n<td>4.0</td>\n<td>0.870</td>\n<td>11.2</td>\n<td>130</td>\n<td>4</td>\n<td>屋內6個月</td>\n<td>冷壓鋼板鋼捲之中長期保存</td>\n<td> 係專為靜電塗裝設備條件而研發之油劑</td>\n</tr>\n<tr>\n<th>P-950</th>\n<td>褐色透明液</td>\n<td>3.5</td>\n<td>0.865</td>\n<td>15.0</td>\n<td>140</td>\n<td>4</td>\n<td>屋內3個月</td>\n<td>適用於電子零件鋼板壓版之防鏽</td>\n<td> 具高潤滑性,故可兼用鋼板非鐵金屬之壓板成型加工</td>\n</tr>\n<tr>\n<th>P-952</th>\n<td>黃褐色透明液</td>\n<td>2.5</td>\n<td>0.880</td>\n<td>18.0</td>\n<td>120</td>\n<td>4</td>\n<td>屋內6個月</td>\n<td>鋼(壓)板及一般機械(金屬)零件之防鏽</td>\n<td> 具高潤滑性,故可兼用鋼板非鐵金屬之壓板成型加工</td>\n</tr>\n</table>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>防鏽添加劑<small>防鏽油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"9\">性狀</th>\n</tr>\n<tr>\n<th>防鏽油</th>\n<th>外觀</th>\n<th>色相ASTM</th>\n<th>比重15/4</th>\n<th>動黏度mm/s<br/>\n40度C</th>\n<th>引火點COC法.C</th>\n<th>膜厚um</th>\n<th>防鏽期</th>\n<th>用途</th>\n<th>特點及摘要</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"10\">防鏽添加劑</th>\n</tr>\n<tr>\n<th>CONC</th>\n<td>暗綠褐色液</td>\n<td>8.0</td>\n<td>0.910</td>\n<td>150(50C)</td>\n<td>230</td>\n<td>-</td>\n<td>屋內3個月</td>\n<td>添加10-30%於礦油中使用</td>\n<td> 防鏽添加劑</td>\n</tr>\n</table>\n<h3 class=\"spec-h\" id=\"block4\"><em class=\"num\">4</em>樹脂劑<small>防鏽油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"9\">性狀</th>\n</tr>\n<tr>\n<th>防鏽油</th>\n<th>外觀</th>\n<th>色相ASTM</th>\n<th>比重15/4</th>\n<th>動黏度mm/s<br/>\n40度C</th>\n<th>引火點COC法.C</th>\n<th>膜厚um</th>\n<th>防鏽期</th>\n<th>用途</th>\n<th>特點及摘要</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"10\">樹脂劑</th>\n</tr>\n<tr>\n<th>M-550TS</th>\n<td><p>黃綠色透明液</p></td>\n<td>2.0</td>\n<td>0.910</td>\n<td>24(30C)</td>\n<td>50</td>\n<td>15</td>\n<td>屋內12個月</td>\n<td>車輛引擎室的防鏽 </td>\n<td>皮膜不能去除具有電氣絕緣性</td>\n</tr>\n</table>\n<h3 class=\"spec-h\" id=\"block5\"><em class=\"num\">5</em>水溶性防鏽劑<small>防鏽油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"9\">性狀</th>\n</tr>\n<tr>\n<th>防鏽油</th>\n<th>外觀</th>\n<th>色相ASTM</th>\n<th>比重15/4</th>\n<th>動黏度mm/s<br/>\n40度C</th>\n<th>引火點COC法.C</th>\n<th>膜厚um</th>\n<th>防鏽期</th>\n<th>用途</th>\n<th>特點及摘要</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"10\">水溶性防鏽劑</th>\n</tr>\n<tr>\n<th>MRAW-</th>\n<td>褐色透明液</td>\n<td>4.0</td>\n<td>0.885</td>\n<td>P9.2H(10%)</td>\n<td>-</td>\n<td>-</td>\n<td>屋內1個月(5倍)</td>\n<td>一般金屬材料之短期房袖,亦適用切削加工電磁鋼鑄造離型用</td>\n<td>為乳化行離型用時10倍,為防鏽用時5-10倍,切削用時10-30倍</td>\n</tr>\n</table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "yushiro-rust",
+   "menu": "防鏽油"
+  },
+  "yushiro-tempering": {
+   "old": "yushiro-product-index-5.html",
+   "title": "調質油",
+   "hero": null,
+   "overview": [
+    {
+     "label": "此油品系列包含",
+     "html": "<ul>\n<li>水溶性乳化型</li>\n<li>水溶性分散型</li>\n<li>水溶性Mill clean type</li>\n<li>水溶性預塗油</li>\n<li>不水溶性</li>\n</ul>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>水溶性乳化質<small>調質油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"6\">性狀</th>\n<th colspan=\"5\">主成分(%)</th>\n<th rowspan=\"2\"> 殘碳量%</th>\n<th rowspan=\"2\">使用濃度</th>\n<th rowspan=\"2\">特點<br/>\n及<br/>\n摘要</th>\n</tr>\n<tr>\n<th>調質油</th>\n<th>原液外觀20.C</th>\n<th>比重15/4.C</th>\n<th>動黏度mm/s<br/>\n50.C</th>\n<th>酸價<br/>\nKOH<br/>\nmg/g</th>\n<th>皂化價<br/>\nKOH<br/>\nmg/g</th>\n<th>PH值3%<br/>\nin DW</th>\n<th>動物性油脂</th>\n<th>植物性油脂</th>\n<th>合成脂</th>\n<th>礦油</th>\n<th>極壓劑</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"15\">水溶性乳化質<br/></th>\n</tr>\n<tr>\n<th>100TM-6H</th>\n<td>茶色軟固狀</td>\n<td>0.912</td>\n<td>32.3</td>\n<td>7.0</td>\n<td>195</td>\n<td>5.3</td>\n<td>◎</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>0.35</td>\n<td><p>&lt;0.3mm 3-5%<br/> &gt;0.3.mm 2-3%<br/>\n</p></td>\n<td>用於高速薄板軋延0.15mm</td>\n</tr>\n<tr>\n<th>RMU</th>\n<td>黃色軟固狀</td>\n<td>0.908</td>\n<td>32.0</td>\n<td>7.0</td>\n<td>163</td>\n<td>5.4</td>\n<td>○</td>\n<td>-</td>\n<td>-</td>\n<td>△</td>\n<td>-</td>\n<td> 0.30</td>\n<td><p>&lt;0.4mm 4-6%<br/> &gt;0.4.mm 2-4%</p></td>\n<td>中厚板軋延0.25mm</td>\n</tr>\n<tr>\n<th>SER-75T</th>\n<td>茶色透明狀</td>\n<td>0.907</td>\n<td>35.0</td>\n<td>7.8</td>\n<td>140</td>\n<td>5.0</td>\n<td>-</td>\n<td>●</td>\n<td>●</td>\n<td>△</td>\n<td>-</td>\n<td>0.20</td>\n<td><p>&lt;0.3mm 4-6%<br/> &gt;0.3.mm 2-4%</p></td>\n<td>中厚板軋延0.25mm</td>\n</tr>\n<tr>\n<th>SER-100T</th>\n<td>茶色透明狀</td>\n<td>0.920</td>\n<td>41.0</td>\n<td>13.0</td>\n<td>187</td>\n<td>5.2</td>\n<td>-</td>\n<td>○</td>\n<td>●</td>\n<td>-</td>\n<td>-</td>\n<td>0.25</td>\n<td><p>&lt;0.3mm 3-5%<br/> &gt;03.mm 2-3%</p></td>\n<td>用於高速薄板軋延0.15mm</td>\n</tr>\n<tr>\n<th>SKR-1(S)</th>\n<td>黃色軟固狀</td>\n<td>0.905</td>\n<td>31.0</td>\n<td>6.0</td>\n<td>150</td>\n<td>5.4</td>\n<td>○</td>\n<td>-</td>\n<td>-</td>\n<td>△ </td>\n<td>-</td>\n<td>0.30</td>\n<td><p>&lt;0.4mm 4-6%<br/> &gt;0.4mm 2-4%</p></td>\n<td>中厚板軋延0.25mm</td>\n</tr>\n</table>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>水溶性分散型<small>調質油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"6\">性狀</th>\n<th colspan=\"5\">主成分(%)</th>\n<th rowspan=\"2\"> 殘碳量%</th>\n<th rowspan=\"2\">使用濃度</th>\n<th rowspan=\"2\">特點<br/>\n及<br/>\n摘要</th>\n</tr>\n<tr>\n<th>調質油</th>\n<th>原液外觀20.C</th>\n<th>比重15/4.C</th>\n<th>動黏度mm/s<br/>\n50.C</th>\n<th>酸價<br/>\nKOH<br/>\nmg/g</th>\n<th>皂化價<br/>\nKOH<br/>\nmg/g</th>\n<th>PH值3%<br/>\nin DW</th>\n<th>動物性油脂</th>\n<th>植物性油脂</th>\n<th>合成脂</th>\n<th>礦油</th>\n<th>極壓劑</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"15\">水溶性分散型<br/></th>\n</tr>\n<tr>\n<th>NDP-2</th>\n<td>茶色軟固狀</td>\n<td>0.916</td>\n<td>35.0</td>\n<td>17.0</td>\n<td>190</td>\n<td>4.4</td>\n<td>◎</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>▲</td>\n<td>0.40</td>\n<td><p>&lt;0.3mm 3-5%<br/>\n&gt;0.3.mm 2-3%<br/>\n</p></td>\n<td>薄板軋延0.2mm</td>\n</tr>\n</table>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>水溶性 Mill clean type<small>調質油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"6\">性狀</th>\n<th colspan=\"5\">主成分(%)</th>\n<th rowspan=\"2\"> 殘碳量%</th>\n<th rowspan=\"2\">使用濃度</th>\n<th rowspan=\"2\">特點<br/>\n及<br/>\n摘要</th>\n</tr>\n<tr>\n<th>調質油</th>\n<th>原液外觀20.C</th>\n<th>比重15/4.C</th>\n<th>動黏度mm/s<br/>\n50.C</th>\n<th>酸價<br/>\nKOH<br/>\nmg/g</th>\n<th>皂化價<br/>\nKOH<br/>\nmg/g</th>\n<th>PH值3%<br/>\nin DW</th>\n<th>動物性油脂</th>\n<th>植物性油脂</th>\n<th>合成脂</th>\n<th>礦油</th>\n<th>極壓劑</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"15\">水溶性 Mill clean type</th>\n</tr>\n<tr>\n<th>MCR-220S</th>\n<td>茶色透明液</td>\n<td>0.922</td>\n<td>16.4</td>\n<td>6.7</td>\n<td>45</td>\n<td>6.0</td>\n<td>-</td>\n<td>-</td>\n<td>△</td>\n<td>○</td>\n<td>▲</td>\n<td>0.04</td>\n<td><p>&lt;0.4mm 4-6%</p></td>\n<td>中厚板軋延0.4mm</td>\n</tr>\n<tr>\n<th>MCR-500</th>\n<td>茶色透明液</td>\n<td>0.930</td>\n<td>27.0</td>\n<td>8.9</td>\n<td>155</td>\n<td>5.5</td>\n<td>-</td>\n<td>-</td>\n<td> ○</td>\n<td>△</td>\n<td>-</td>\n<td>0.12</td>\n<td><p>&lt;0.4mm 3-4%<br/> &gt;0.4mm 2-3%</p></td>\n<td>中厚板軋延0.25mm</td>\n</tr>\n<tr>\n<th>MCR-600</th>\n<td>淡黃色透明液</td>\n<td>0.926</td>\n<td>30.7</td>\n<td>11.5</td>\n<td>318</td>\n<td>5.3</td>\n<td>-</td>\n<td>-</td>\n<td> ◎</td>\n<td>-</td>\n<td>-</td>\n<td>0.16</td>\n<td><p>&lt;0.3mm 4-6%<br/> &gt;0.3mm 2-3%</p></td>\n<td>薄板軋延0.2mm</td>\n</tr>\n<tr>\n<th>MCR-650</th>\n<td>赤褐色液狀</td>\n<td>0.927</td>\n<td>53.0</td>\n<td>6.6</td>\n<td>158</td>\n<td>4.3</td>\n<td>-</td>\n<td>-</td>\n<td>○</td>\n<td>▲</td>\n<td>▲</td>\n<td>0.20</td>\n<td><p>&lt;0.3mm 4-5%<br/> &gt;0.3mm 2-3%</p></td>\n<td>高速薄板軋延0.15mm</td>\n</tr>\n</table>\n<h3 class=\"spec-h\" id=\"block4\"><em class=\"num\">4</em>水溶性預塗油<small>調質油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"6\">性狀</th>\n<th colspan=\"5\">主成分(%)</th>\n<th rowspan=\"2\"> 殘碳量%</th>\n<th rowspan=\"2\">使用濃度</th>\n<th rowspan=\"2\">特點<br/>\n及<br/>\n摘要</th>\n</tr>\n<tr>\n<th>調質油</th>\n<th>原液外觀20.C</th>\n<th>比重15/4.C</th>\n<th>動黏度mm/s<br/>\n50.C</th>\n<th>酸價<br/>\nKOH<br/>\nmg/g</th>\n<th>皂化價<br/>\nKOH<br/>\nmg/g</th>\n<th>PH值3%<br/>\nin DW</th>\n<th>動物性油脂</th>\n<th>植物性油脂</th>\n<th>合成脂</th>\n<th>礦油</th>\n<th>極壓劑</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"15\">水溶性預塗油<br/></th>\n</tr>\n<tr>\n<th>PRK</th>\n<td>茶色透明油</td>\n<td>0.900</td>\n<td>30.0</td>\n<td>2.5</td>\n<td>100</td>\n<td>4.3</td>\n<td>-</td>\n<td>●</td>\n<td>-</td>\n<td>●</td>\n<td>-</td>\n<td>-</td>\n<td>原油使用</td>\n<td>P.K.L後Coil之短期防繡用</td>\n</tr>\n</table>\n<h3 class=\"spec-h\" id=\"block5\"><em class=\"num\">5</em>不水溶性<small>調質油 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th colspan=\"8\">性狀</th>\n</tr>\n<tr>\n<th>調質油</th>\n<th>原液外觀</th>\n<th>比重15/4.C</th>\n<th>PH*20</th>\n<th>Brix*10</th>\n<th>防鏽*20/48hr</th>\n<th>耐油斑性<br/>\n50-85.C*<br/>\n20/72hr</th>\n<th>使用濃度</th>\n<th>用途</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"9\">不水溶性<br/></th>\n</tr>\n<tr>\n<th>SP-3 </th>\n<td>淡黃色透明液</td>\n<td>1.030</td>\n<td>10.4</td>\n<td>2.3</td>\n<td>無生鏽</td>\n<td>無油斑</td>\n<td>3-8%</td>\n<td>冷軋鋼板調質用油</td>\n</tr>\n<tr>\n<th>SP-3K</th>\n<td>淡黃色透明液</td>\n<td>0.030</td>\n<td>10.3</td>\n<td>2.3</td>\n<td>無生鏽</td>\n<td>無油斑</td>\n<td>5-8%</td>\n<td>冷軋鋼板調質用油,極亮板適用</td>\n</tr>\n<tr>\n<th>SPL-10</th>\n<td>淡黃色透明液</td>\n<td>0.020</td>\n<td>10.3</td>\n<td>1.4</td>\n<td>無生鏽</td>\n<td>無油斑</td>\n<td>3-5%</td>\n<td>冷軋鋼板調質用油</td>\n</tr>\n<tr>\n<th>SPZ-100H</th>\n<td>無色透明液</td>\n<td>0.040</td>\n<td>9.0</td>\n<td>2.2</td>\n<td>無生鏽</td>\n<td>無油斑</td>\n<td>3-8%</td>\n<td>鍍(鋁)鋅調質用油</td>\n</tr>\n<tr>\n<th>SPZ-100H-1</th>\n<td>無色透明液</td>\n<td>1.020</td>\n<td>9.8</td>\n<td>1.4</td>\n<td>無生鏽</td>\n<td>無油斑</td>\n<td>3-8%</td>\n<td>鍍(鋁)鋅調質用油</td>\n</tr>\n</table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "yushiro-tempering",
+   "menu": "調質油"
+  },
+  "yushiro-cleaner": {
+   "old": "yushiro-product-index-6.html",
+   "title": "清洗劑",
+   "hero": null,
+   "overview": [
+    {
+     "label": "此油品系列包含",
+     "html": "<ul>\n<li>水溶性</li>\n<li>不水溶性</li>\n</ul>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>水溶性<small>清洗劑 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th rowspan=\"2\">原液外觀</th>\n<th rowspan=\"2\">比重15/4.C</th>\n<th rowspan=\"2\">PH<br/>\n*20</th>\n<th rowspan=\"2\">Brix<br/>\n*10</th>\n<th rowspan=\"2\">稀釋<br/>\n倍率</th>\n<th rowspan=\"2\">適用溫度</th>\n<th rowspan=\"2\">噴淋</th>\n<th rowspan=\"2\">浸漬超音波</th>\n<th rowspan=\"2\">高壓噴淋</th>\n<th rowspan=\"2\">銅</th>\n<th rowspan=\"2\">鋁</th>\n<th rowspan=\"2\"> 鐵</th>\n<th rowspan=\"2\">用途</th>\n<th rowspan=\"2\">特點<br/>\n及<br/>\n摘要</th>\n</tr>\n<tr>\n<th>清洗劑</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"15\">水溶性</th>\n</tr>\n<tr>\n<th>CD-10</th>\n<td>茶色透明液</td>\n<td>0.953</td>\n<td>3.8</td>\n<td>-</td>\n<td>500-2000ppm</td>\n<td>室溫-80度 </td>\n<td>適合</td>\n<td>不適合</td>\n<td>適合</td>\n<td>不適用</td>\n<td>不適用</td>\n<td>適用 </td>\n<td>特殊清洗劑</td>\n<td>難清除之Grease.Scum等適用</td>\n</tr>\n<tr>\n<th>CHERRY</th>\n<td>翠綠色透明液</td>\n<td>1.070</td>\n<td>10.1</td>\n<td>2.2</td>\n<td>5-10</td>\n<td>室溫</td>\n<td>適合</td>\n<td>適合</td>\n<td>適合</td>\n<td>不適用</td>\n<td>不適用</td>\n<td>適合</td>\n<td>一般清洗劑</td>\n<td> </td>\n</tr>\n<tr>\n<th>NTP</th>\n<td>淡黃褐色透明液</td>\n<td>1.150</td>\n<td>9.6</td>\n<td>6.5</td>\n<td>5-20</td>\n<td>室溫-80度</td>\n<td> </td>\n<td>適合</td>\n<td>適合</td>\n<td>不適用</td>\n<td>不適用</td>\n<td>適合</td>\n<td>洗淨殺菌防鏽</td>\n<td>一般機械及其管路儲槽等之洗淨</td>\n</tr>\n<tr>\n<th>PICK-S</th>\n<td>淡褐色透明液</td>\n<td>1.010</td>\n<td>11.3</td>\n<td>3.4</td>\n<td>5-50</td>\n<td>室溫</td>\n<td>適合</td>\n<td>適合</td>\n<td>適合</td>\n<td>不適用</td>\n<td>不適用</td>\n<td>適合</td>\n<td>一般清洗劑</td>\n<td> </td>\n</tr>\n<tr>\n<th>W-50</th>\n<td>無色透明液</td>\n<td>1.070</td>\n<td>10.3</td>\n<td>4.8</td>\n<td>20-40</td>\n<td>50-80度</td>\n<td>適合</td>\n<td>適合</td>\n<td>適合</td>\n<td>適合</td>\n<td>適合</td>\n<td>適合</td>\n<td>多用途清洗劑</td>\n<td>鎂合金亦適用防鏽力優,洗淨後可保持金屬面之完整</td>\n</tr>\n<tr>\n<th>W-80</th>\n<td>無色透明液</td>\n<td>1.060</td>\n<td>9.0</td>\n<td>3.4</td>\n<td>20-100</td>\n<td>50-80度</td>\n<td>適合</td>\n<td>適合</td>\n<td>適合</td>\n<td>適合</td>\n<td>適合</td>\n<td>適合</td>\n<td>多用途 清洗劑</td>\n<td> </td>\n</tr>\n</table>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>不水溶性<small>清洗劑 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th rowspan=\"2\">原液外觀</th>\n<th rowspan=\"2\">比重15/4.C</th>\n<th rowspan=\"2\">動黏度mm/s2 40.C</th>\n<th rowspan=\"2\">引火點<br/>\nCOC法.C</th>\n<th rowspan=\"2\">清洗方式</th>\n<th rowspan=\"2\">防鏽期</th>\n<th rowspan=\"2\">用途</th>\n<th rowspan=\"2\">特點<br/>\n及<br/>\n摘要</th>\n</tr>\n<tr>\n<th>清洗劑</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"9\">不水溶性</th>\n</tr>\n<tr>\n<th>S-41</th>\n<td>無色透明液</td>\n<td>0.740</td>\n<td>1.0</td>\n<td>50</td>\n<td>浸漬噴淋</td>\n<td>2-4 </td>\n<td>一般加工零件之清洗</td>\n<td>無色低黏度低毒性,適合各類金屬非金屬之洗淨</td>\n</tr>\n<tr>\n<th>S-400B</th>\n<td>無色透明液</td>\n<td>0.750</td>\n<td>1.4</td>\n<td>76</td>\n<td>浸漬噴淋</td>\n<td>1-2</td>\n<td>一般加工零件之清洗</td>\n<td>優良洗淨性速乾性</td>\n</tr>\n<tr>\n<th>S-600</th>\n<td>無色透明液 </td>\n<td>0.770</td>\n<td>2.4</td>\n<td>120</td>\n<td>浸漬噴淋 </td>\n<td>1-2</td>\n<td>一般加工零件之清洗</td>\n<td>高引火點.低氣味,優良洗淨性能</td>\n</tr>\n<tr>\n<th>WR </th>\n<td>茶色液狀</td>\n<td>0.850</td>\n<td>-</td>\n<td>-</td>\n<td>浸漬噴淋</td>\n<td>2-4</td>\n<td>金屬零件玻璃等脫脂清洗</td>\n<td>以溶劑稀釋20-50倍後使用</td>\n</tr>\n<tr>\n<th>WR-S</th>\n<td>淡黃色透明液</td>\n<td>0.810</td>\n<td>1.5</td>\n<td>72</td>\n<td>浸漬噴淋</td>\n<td>2-4</td>\n<td>金屬零件玻璃等脫脂清洗</td>\n<td>優良之水置換及水分離性能</td>\n</tr>\n</table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "yushiro-cleaner",
+   "menu": "清洗劑"
+  },
+  "yushiro-additive": {
+   "old": "yushiro-product-index-7.html",
+   "title": "添加劑",
+   "hero": null,
+   "overview": [
+    {
+     "label": "此油品系列包含",
+     "html": "<ul>\n<li>水溶性</li>\n<li>不水溶性</li>\n</ul>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>水溶性<small>添加劑 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th rowspan=\"2\">原液外觀</th>\n<th rowspan=\"2\">色相ASTM</th>\n<th rowspan=\"2\">比重15/4.C</th>\n<th rowspan=\"2\">動黏度<br/>\nmm/s2 40.C</th>\n<th rowspan=\"2\">引火點<br/>\nCOC法.C</th>\n<th rowspan=\"2\">使用添加量</th>\n<th rowspan=\"2\">特點<br/>\n及<br/>\n摘要</th>\n</tr>\n<tr>\n<th>添加劑</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"8\">不水溶性</th>\n</tr>\n<tr>\n<th>AS</th>\n<td>褐色透明液</td>\n<td>2.0</td>\n<td>0.990</td>\n<td>-</td>\n<td>-</td>\n<td>1-3</td>\n<td>非鐵金屬腐蝕抑制劑</td>\n</tr>\n<tr>\n<th>BF</th>\n<td>黃色透明液</td>\n<td>1.0</td>\n<td>1.010</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>硫系極壓潤滑</td>\n</tr>\n<tr>\n<th>CP</th>\n<td>赤褐色透明液</td>\n<td>7.5</td>\n<td>1.040</td>\n<td>300</td>\n<td>-</td>\n<td>1-3</td>\n<td>脫氯防止防鏽劑</td>\n</tr>\n<tr>\n<th>CK</th>\n<td>淡黃色透明液</td>\n<td>0.5</td>\n<td>1.220</td>\n<td>180</td>\n<td>200</td>\n<td>-</td>\n<td>氯係極壓潤滑</td>\n</tr>\n<tr>\n<th>CK-2</th>\n<td>赤褐色透明液</td>\n<td>2.0</td>\n<td>1.110</td>\n<td>250(50C)</td>\n<td>-</td>\n<td>-</td>\n<td>氯係極壓潤滑</td>\n</tr>\n<tr>\n<th>CD-3</th>\n<td>淡黃色透明液</td>\n<td>0.5</td>\n<td>1.120</td>\n<td>28</td>\n<td>-</td>\n<td>-</td>\n<td>氯係極壓潤滑</td>\n</tr>\n<tr>\n<th>LK</th>\n<td>淡黃色透明液</td>\n<td>0.5</td>\n<td>0.870</td>\n<td>760</td>\n<td>200</td>\n<td>2-4</td>\n<td>霧化防止劑</td>\n</tr>\n<tr>\n<th>OAF</th>\n<td>無色透明液</td>\n<td>0.5</td>\n<td>0.980</td>\n<td>-</td>\n<td>-</td>\n<td>300-500ppm</td>\n<td>削泡添加劑</td>\n</tr>\n<tr>\n<th>SHS</th>\n<td>赤褐色透明液</td>\n<td>8.0</td>\n<td>-</td>\n<td>240(50C)</td>\n<td>-</td>\n<td>-</td>\n<td>硫化脂肪</td>\n</tr>\n<tr>\n<th>SPA</th>\n<td>茶色半稠液</td>\n<td>2.0</td>\n<td>0.870</td>\n<td>39.4</td>\n<td>148</td>\n<td>3-5</td>\n<td>皮膚炎防止劑</td>\n</tr>\n<tr>\n<th>TG-3</th>\n<td>茶色液狀</td>\n<td>2.0</td>\n<td>1.070</td>\n<td>90(50C)</td>\n<td>180</td>\n<td>-</td>\n<td>氯係硫系極壓潤滑</td>\n</tr>\n<tr>\n<th>TG-20</th>\n<td>淡黃色透明液</td>\n<td>0.5</td>\n<td>0.920</td>\n<td>40</td>\n<td>290</td>\n<td>-</td>\n<td>Hack-sawing霧化給用油,以純植物油為基礎,生物分解性優之合成脂</td>\n</tr>\n<tr>\n<th>TG-30</th>\n<td>褐色透明液</td>\n<td>3.5</td>\n<td>0.940</td>\n<td>19</td>\n<td>200</td>\n<td>-</td>\n<td>氯係硫系磷系極壓潤滑</td>\n</tr>\n</table>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>不水溶性<small>添加劑 (San-I Yushiro 油品)</small></h3>\n<table class=\"tbl\">\n<tr>\n<th>項目</th>\n<th rowspan=\"2\">原液外觀</th>\n<th rowspan=\"2\">色相ASTM</th>\n<th rowspan=\"2\">比重</th>\n<th rowspan=\"2\">PH1%</th>\n<th rowspan=\"2\">Bir*10</th>\n<th rowspan=\"2\">使用添加量</th>\n<th rowspan=\"2\">特點<br/>\n及<br/>\n摘要</th>\n</tr>\n<tr>\n<th>添加劑</th>\n</tr>\n<tr>\n<th class=\"grp\" colspan=\"8\">水溶性</th>\n</tr>\n<tr>\n<th>TDW</th>\n<td>淡黃色透明液</td>\n<td>1.0</td>\n<td>1.050</td>\n<td>10.5(3%)</td>\n<td>6.4</td>\n<td>1000-5000ppm</td>\n<td>防鏽添加劑</td>\n</tr>\n<tr>\n<th>WAF</th>\n<td>乳白色黏稠液</td>\n<td>-</td>\n<td>1.000</td>\n<td>7.0</td>\n<td>-</td>\n<td>20-100ppm</td>\n<td>消泡添加劑</td>\n</tr>\n<tr>\n<th>WB-2</th>\n<td>淡黃色透明液</td>\n<td>0.5</td>\n<td>1.160</td>\n<td>10.1</td>\n<td>-</td>\n<td>1000-3000ppm</td>\n<td>殺菌防腐添加劑</td>\n</tr>\n<tr>\n<th>WB-7</th>\n<td>無色透明液</td>\n<td>0.5</td>\n<td>1.160</td>\n<td>8.9</td>\n<td>-</td>\n<td>500-1000ppm</td>\n<td>殺菌防腐添加劑</td>\n</tr>\n<tr>\n<th>WH-M</th>\n<td>淡黃色透明液</td>\n<td>1.0</td>\n<td>1.120</td>\n<td>13.5</td>\n<td>-</td>\n<td>500-1000ppm</td>\n<td>非鐵金屬腐蝕抑制劑</td>\n</tr>\n<tr>\n<th>WR-D</th>\n<td>無色透明液</td>\n<td>0.5</td>\n<td>1.100</td>\n<td>10.8</td>\n<td>-</td>\n<td>1000-5000ppm</td>\n<td>PH改善劑</td>\n</tr>\n</table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "yushiro-additive",
+   "menu": "添加劑"
+  },
+  "battor-01": {
+   "old": "battor-product-index-1.html",
+   "title": "省能源液壓油",
+   "hero": null,
+   "overview": [
+    {
+     "label": "特性說明",
+     "html": "<p>經二次加氫處理，超高黏度指數，含磨差調整劑耐高溫，抗磨耗，可避免封皮產生牽滑 (Stick-slip) 產生膠黏沉積物及腐蝕，高低溫變化極大的機械操作符合 : DIN:51524-3 ， X 為全天候操作環境 。</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [],
+   "jumps": [],
+   "slug": "battor-01",
+   "menu": "省能源液壓油"
+  },
+  "formosa-01": {
+   "old": "formosa-product-index-1.html",
+   "title": "極壓鋰基潤滑脂",
+   "hero": null,
+   "overview": [
+    {
+     "label": "油品特性",
+     "html": "<p>台塑渦輪機油TB GII 系列由高品質符合API Group II 標準之基礎油和低灰份添加劑等配方調製而成，具 有高度抗氧化及防止酸質物形成之效能，同時防止金屬表面腐蝕，是一款專為現代化渦輪機組所研發而 成的高效能渦輪機油。</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>推薦應用<small>APPLIANCE</small></h3>\n<p>• 適用工作溫度-30~120°C。<br/>\n• 推薦用於嚴苛條件下(震動、重載)運轉的軸承潤滑，亦可應用於某些需要極壓特性的齒輪系統潤滑。</p>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>性能特點<small>FUNCTIONS &amp; FEATURES</small></h3>\n<p>• 優異的負載能力：高品質極壓添加劑配方，使本產品在高負載和震動衝擊下，依然能提供軸承和齒輪優異的潤滑保護。<br/>\n• 抗腐蝕性能優異：保護軸承，避免在潮濕或有水的環境下容易造成表面鏽蝕，可延長設備使用壽命。<br/>\n• 良好的機械穩定性：有效減少軸承間的摩擦以及降低磨損，維持機械設備在操作過程中的高度穩定性，故障率亦隨之降低。<br/>\n• 耐水性與黏附性：本產品具有極佳黏附特性，避免軸承在高速運轉時以及產生的脫脂現象，減少潤滑脂的流失。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>健康，安全及環保資訊<small>HEALTH &amp; ENVIROMENTAL INFO</small></h3>\n<p>依據現有產品資料表的描述，本產品在推薦使用的過程中，不會對人體健康及安全造成不良影響，但在使用過程中仍需遵循物資安全資料表所提供的指示。有關物質 安全資料表等相關資訊可向當地經銷部門索取。使用過的油品，請交由合法回收管道，不可將其排入下水道，土地，與河川中，注意環境保護。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>典型數據<small>CLASSIC DATA</small></h3>\n<table class=\"tbl\">\n<tbody>\n<tr>\n<td>台塑極壓鋰基潤滑脂</td>\n<td>0號</td>\n<td>1號</td>\n<td>2號</td>\n</tr>\n<tr>\n<td>皂基</td>\n<td>鋰基</td>\n<td>鋰基</td>\n<td>鋰基</td>\n</tr>\n<tr>\n<td>基礎油種類</td>\n<td>礦物油</td>\n<td>礦物油</td>\n<td>礦物油</td>\n</tr>\n<tr>\n<td>顏色</td>\n<td>褐色</td>\n<td>褐色</td>\n<td>褐色</td>\n</tr>\n<tr>\n<td>滴點</td>\n<td>195</td>\n<td>200</td>\n<td>200</td>\n</tr>\n<tr>\n<td>針入度</td>\n<td>370</td>\n<td>320</td>\n<td>280</td>\n</tr>\n<tr>\n<td>極壓測試 Timken OK Load</td>\n<td>35</td>\n<td>40</td>\n<td>40</td>\n</tr>\n</tbody>\n</table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "formosa-01",
+   "menu": "極壓鋰基潤滑脂"
+  },
+  "battor-02": {
+   "old": "battor-product-index-2.html",
+   "title": "耐磨耗液壓油 HIVIS AW HLPSO:32-680",
+   "hero": null,
+   "overview": [
+    {
+     "label": "特性說明",
+     "html": "<p>耐磨耗液壓油 含抗磨損，抗乳化和熱穩定等優良防銹及抗腐蝕特性，不傷封皮 (seal) ，可應用在工業及重型車輛高低壓的液壓系統齒輪、軸承潤滑，等合 DIN 51524-2 HLP 高性能要求者， R 一般循環系統 。</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [],
+   "jumps": [],
+   "slug": "battor-02",
+   "menu": "耐磨耗液壓油"
+  },
+  "formosa-02": {
+   "old": "formosa-product-index-2.html",
+   "title": "高溫極壓複合鋰基潤滑脂",
+   "hero": null,
+   "overview": [
+    {
+     "label": "油品特性",
+     "html": "<p>台塑高溫極壓複合鋰基潤滑脂是一款專為高溫操作環境所研發而成的高品質潤滑脂，採用高黏度指數礦物基礎油與複合鋰基增稠劑，另含有抗氧化、抗磨損、耐極壓、抗腐蝕等添加劑，提供比一般鋰基潤滑脂更優異的性能，尤其應用在高溫環境，例如鋼鐵廠內用的連鑄機軸承潤滑、砂石廠內碎料機和滾筒運輸軸承潤滑等。\n</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>推薦應用<small>APPLIANCE</small></h3>\n<p> 適用工作溫度-30~150°C。<br/>\n• 推薦用於高溫、重載操作條件下運轉的軸承潤滑，廣泛應用於鋼鐵、水泥、砂石採礦等工業。</p>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>性能特點<small>FUNCTIONS &amp; FEATURES</small></h3>\n<p>• 抗氧化以及耐高溫性能：本產品具備優異的抗氧化及耐高溫性能，適用高溫嚴苛的工作環境下，壽命比一般鋰基潤滑脂更長，可延長換脂間隔。<br/>\n• 抗腐蝕性能優異：保護軸承，避免在潮濕或有水的環境下容易造成表面鏽蝕，可延長設備使用壽命。<br/>\n• 抗磨耗與耐極壓性能：在高負載條件下（例如長時間加上重負載），由於含有特殊的極壓及抗磨耗添加劑，因此能防止零件表面的磨損，有效保護齒輪和軸承，減少設備故障。<br/>\n• 耐水性與黏附性：本產品具有極佳黏附特性，避免軸承在高速運轉時以及產生的脫脂現象，減少潤滑脂的流失。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>健康，安全及環保資訊<small>HEALTH &amp; ENVIROMENTAL INFO</small></h3>\n<p>依據現有產品資料表的描述，本產品在推薦使用的過程中，不會對人體健康及安全造成不良影響，但在使用過程中仍需遵循物資安全資料表所提供的指示。有關物質 安全資料表等相關資訊可向當地經銷部門索取。使用過的油品，請交由合法回收管道，不可將其排入下水道，土地，與河川中，注意環境保護。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>典型數據<small>CLASSIC DATA</small></h3>\n<table class=\"tbl\">\n<tbody>\n<tr>\n<td><b><b>台塑高溫極壓複合鋰基潤滑脂</b></b></td>\n<td>0號</td>\n<td>1號</td>\n<td>2號</td>\n<td>3號</td>\n</tr>\n<tr>\n<td>皂基</td>\n<td>複合鋰基</td>\n<td>複合鋰基</td>\n<td>複合鋰基</td>\n<td>複合鋰基</td>\n</tr>\n<tr>\n<td>基礎油種類</td>\n<td>礦物油</td>\n<td>礦物油</td>\n<td>礦物油</td>\n<td>礦物油</td>\n</tr>\n<tr>\n<td>顏色</td>\n<td>褐色</td>\n<td>褐色</td>\n<td>褐色</td>\n<td>褐色</td>\n</tr>\n<tr>\n<td>滴點°C</td>\n<td>280</td>\n<td>285</td>\n<td>300</td>\n<td>320</td>\n</tr>\n<tr>\n<td>針入度 0.1mm</td>\n<td>375</td>\n<td>325</td>\n<td>280</td>\n<td>235</td>\n</tr>\n<tr>\n<td>\n<p>極壓測試 lbs, </p>\nTimken OK Load</td>\n<td>35</td>\n<td>40</td>\n<td>40</td>\n<td>40</td>\n</tr>\n</tbody>\n</table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "formosa-02",
+   "menu": "高溫極壓複合鋰基潤滑脂"
+  },
+  "battor-03": {
+   "old": "battor-product-index-3.html",
+   "title": "HIVIS Fluid DU 系列 防火液壓油",
+   "hero": null,
+   "overview": [
+    {
+     "label": "特性說明",
+     "html": "<p>本產品為抗燃液壓油，具高的化學穩定性，極好的耐腐蝕性及潤滑性，即使在高剪力及高壓力下，亦能維持良好的穩定超作 FC 為水乙二醇型， DU 為合成性防火液壓油，可耐極嚴苛之操作，為目前防火液壓油中，性能最佳之產品，符合 :DIN 51502 。</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [],
+   "jumps": [],
+   "slug": "battor-03",
+   "menu": "防火液壓油"
+  },
+  "formosa-03": {
+   "old": "formosa-product-index-3.html",
+   "title": "多效鋰基潤滑脂",
+   "hero": null,
+   "overview": [
+    {
+     "label": "油品特性",
+     "html": "<p>台塑多效鋰基潤滑脂是由高品質礦物基礎油與鋰皂基增稠劑，調配抗氧化、防鏽以及抗腐蝕等添加劑組合而成，適用於一般工業機械、軸承、馬達以及低轉速齒輪之應用，是一款性能優越、品質穩定之多效潤滑脂。\n</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>推薦應用<small>APPLIANCE</small></h3>\n<p>• 適用工作溫度-30~120°C。<br/>\n• 推薦用於一般工業機械設備中低負載、高轉速之軸承潤滑，亦可用於低轉速齒輪潤滑。</p>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>性能特點<small>FUNCTIONS &amp; FEATURES</small></h3>\n<p>• 通用性佳，減少庫存品項：本產品具備多效性能，用途廣泛，單一產品即可滿足一般機械設備工作條件對潤滑脂的要求，減少需要準備多種產品的困擾。<br/>\n• 抗腐蝕性能優異：保護軸承，避免在潮濕或有水的環境下容易造成表面鏽蝕，可延長設備使用壽命。<br/>\n• 良好的機械穩定性：有效減少軸承間的摩擦以及降低磨損，維持機械設備在操作過程中的高度穩定性，故障率亦隨之降低。<br/>\n• 耐水性與黏附性：本產品具有極佳黏附特性，避免軸承在高速運轉時以及產生的脫脂現象，減少潤滑脂的流失。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>健康，安全及環保資訊<small>HEALTH &amp; ENVIROMENTAL INFO</small></h3>\n<p>依據現有產品資料表的描述，本產品在推薦使用的過程中，不會對人體健康及安全造成不良影響，但在使用過程中仍需遵循物資安全資料表所提供的指示。有關物質 安全資料表等相關資訊可向當地經銷部門索取。使用過的油品，請交由合法回收管道，不可將其排入下水道，土地，與河川中，注意環境保護。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>典型數據<small>CLASSIC DATA</small></h3>\n<table class=\"tbl\">\n<tbody>\n<tr>\n<td><b>台塑多效鋰基潤滑脂</b></td>\n<td>0號</td>\n<td>1號</td>\n<td>2號</td>\n<td>3號</td>\n</tr>\n<tr>\n<td>皂基</td>\n<td>鋰基</td>\n<td>鋰基</td>\n<td>鋰基</td>\n<td>鋰基</td>\n</tr>\n<tr>\n<td>基礎油種類</td>\n<td>礦物油</td>\n<td>礦物油</td>\n<td>礦物油</td>\n<td>礦物油</td>\n</tr>\n<tr>\n<td>顏色</td>\n<td>褐色</td>\n<td>褐色</td>\n<td>褐色</td>\n<td>褐色</td>\n</tr>\n<tr>\n<td>滴點°C</td>\n<td>195</td>\n<td>200</td>\n<td>200</td>\n<td>200</td>\n</tr>\n<tr>\n<td>針入度 0.1mm</td>\n<td>370</td>\n<td>320</td>\n<td>280</td>\n<td>230</td>\n</tr>\n<tr>\n<td>耐水性 %</td>\n<td>-</td>\n<td>2.4</td>\n<td>1.6</td>\n<td>0.75</td>\n</tr>\n</tbody>\n</table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "formosa-03",
+   "menu": "多效鋰基潤滑脂"
+  },
+  "battor-04": {
+   "old": "battor-product-index-4.html",
+   "title": "HIVIS HV ISO:5 10 22 高速主軸油",
+   "hero": null,
+   "overview": [
+    {
+     "label": "特性說明",
+     "html": "<p>用於高速轉軸潤滑，尤其適各種高轉速之工具機紡織機械，具極佳氧化安定性，防止黏滯垢及變色防銹防水性良好不侵蝕油封符合 :SKF LANDIS 精密主軸製造廠要求規格 。</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [],
+   "jumps": [],
+   "slug": "battor-04",
+   "menu": "高速主輪油"
+  },
+  "formosa-04": {
+   "old": "formosa-product-index-4.html",
+   "title": "螺旋式空壓機油 SC GII",
+   "hero": null,
+   "overview": [
+    {
+     "label": "油品特性",
+     "html": "<p>台塑螺旋式空壓油SC GII 系列是專為螺旋式及葉片式空壓機所研發而成的高品質潤滑油，本產品採用符\n合API Group II 標準之高精煉基礎油以及特選無灰份添加劑配方，比一般礦物油等級之空壓機油產品具\n備更優異的抗氧化及熱穩定性能，可延長油品的使用壽命；台塑螺旋式空壓油SC GII 系列同時具備優異\n的耐磨耗、抗水解乳化性以及空氣釋放性能，提供最優質的潤滑保護。\n</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>推薦應用<small>APPLIANCE</small></h3>\n<p>• 適用於螺旋式、葉片式空壓機。</p>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>性能特點<small>FUNCTIONS &amp; FEATURES</small></h3>\n<p>• 抗氧化以及熱穩定性能：台塑螺旋式空壓油SC GII系列具備優異的抗氧化及熱穩定性能，使油品不易劣化產生積碳，比一般礦物油等級之空壓機油產品的耐用度更高，提昇油品的穩定度。<br/>\n• 抗磨耗性能：精選添抗磨耗添加劑可有效保護螺桿、葉片以及軸承等空壓機零件的表面，降低磨損，減少零件更換頻率以及設備故障機率，提高生產效率。<br/>\n• 空氣釋放性：精選添加劑配方，有效使空氣迅速釋放，並且不易產生泡沫。快速的空氣釋放能力可降低氣穴腐蝕與氧化，提高壓縮機的效率。<br/>\n• 抗水解乳化性：一般空壓機的操作常會吸入含有水分的空氣以及汙染物，本產品特別添加抗乳化添加劑，可使油水快速分離，減少零件的鏽蝕。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>健康，安全及環保資訊<small>HEALTH &amp; ENVIROMENTAL INFO</small></h3>\n<p>依據現有產品資料表的描述，本產品在推薦使用的過程中，不會對人體健康及安全造成不良影響，但在使用過程中仍需遵循物資安全資料表所提供的指示。有關物質 安全資料表等相關資訊可向當地經銷部門索取。使用過的油品，請交由合法回收管道，不可將其排入下水道，土地，與河川中，注意環境保護。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>典型數據<small>CLASSIC DATA</small></h3>\n<table class=\"tbl\">\n<tbody>\n<tr>\n<td>台塑螺旋式空壓機油 SC GII</td>\n<td>32</td>\n<td>46</td>\n<td>68</td>\n</tr>\n<tr>\n<td>運動黏度 40°C mm2/s<br/>\n運動黏度 100°C mm2/s</td>\n<td>32<br/>\n5.62</td>\n<td>46<br/>\n6.82</td>\n<td>68<br/>\n8.83</td>\n</tr>\n<tr>\n<td>黏度指數</td>\n<td>108</td>\n<td>104</td>\n<td>102</td>\n</tr>\n<tr>\n<td>密度@15°C kg/l</td>\n<td>0.857</td>\n<td>0.862</td>\n<td>0.870</td>\n</tr>\n<tr>\n<td>閃點（開口杯）°C</td>\n<td>210</td>\n<td>212</td>\n<td>231</td>\n</tr>\n<tr>\n<td>流動點°C</td>\n<td>-24</td>\n<td>-24</td>\n<td>-21</td>\n</tr>\n</tbody>\n</table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "formosa-04",
+   "menu": "螺旋式空壓機油 SC GII"
+  },
+  "battor-05": {
+   "old": "battor-product-index-5.html",
+   "title": "SIDEWAY BW ISO:32 68 220 滑道油",
+   "hero": null,
+   "overview": [
+    {
+     "label": "滑道油特性說明",
+     "html": "<p>滑道油的特性具油水分離佳，不會造成滑道黏糊沉積物，此滑道油特別適於垂直式和水平式滑道的精密工具機及軸承抗磨道油和工具機齒輪箱， WAY 為加強特重負載， B 可兼液壓系統 ZJ 符合 :CINCINNATI MILACRON P47 ， P50 ， P53 標準。</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [],
+   "jumps": [],
+   "slug": "battor-05",
+   "menu": "滑道油"
+  },
+  "formosa-05": {
+   "old": "formosa-product-index-5.html",
+   "title": "往復式空壓機油 RC GII",
+   "hero": null,
+   "overview": [
+    {
+     "label": "油品特性",
+     "html": "<p>台塑往復式空壓油RC GII 系列採用符合API Group II 標準之高精煉基礎油以及特選無灰份抗磨耗、抗乳\n化等添加劑調製而成，品質與性能皆超越一般礦物油等級之空壓機油產品；是一款適用於往復式空壓機\n應用的高品質潤滑油。\n</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>推薦應用<small>APPLIANCE</small></h3>\n<p>• 適用於往復式空壓機。</p>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>性能特點<small>FUNCTIONS &amp; FEATURES</small></h3>\n<p>• 抗氧化以及熱穩定性能：台塑往復式空壓油SC GII系列能提供絕佳的抗氧化及熱穩定性能，主要來自二類基礎油的特性，可使本產品的耐熱效果提昇，在高溫操作環境下不易產生積碳等沉澱物，維持壓縮機的高效運轉。<br/>\n• 防鏽抗抗腐蝕性能：有效保護壓縮機內部零件，使金屬表面減少鏽蝕。<br/>\n• 耐磨耗性能：降低磨損，減少零件更換頻率以及設備故障機率，延長設備使用壽命。<br/>\n• 釋氣及消泡性能：精選添加劑配方，有效使空氣迅速釋放，並且不易產生泡沫。快速的空氣釋放能力可降低氣穴腐蝕與氧化，提高壓縮機的效率。<br/>\n• 抗乳化性：一般空壓機的操作常會吸入含有水分的空氣以及汙染物，本產品特別添加抗乳化添加劑，可使油水快速分離，減少零件的鏽蝕。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>健康，安全及環保資訊<small>HEALTH &amp; ENVIROMENTAL INFO</small></h3>\n<p>依據現有產品資料表的描述，本產品在推薦使用的過程中，不會對人體健康及安全造成不良影響，但在使用過程中仍需遵循物資安全資料表所提供的指示。有關物質 安全資料表等相關資訊可向當地經銷部門索取。使用過的油品，請交由合法回收管道，不可將其排入下水道，土地，與河川中，注意環境保護。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>典型數據<small>CLASSIC DATA</small></h3>\n<table class=\"tbl\">\n<tbody>\n<tr>\n<td>台塑往復式空壓機油RC GII</td>\n<td>32</td>\n<td>46</td>\n<td>68</td>\n</tr>\n<tr>\n<td>運動黏度 40°C mm2/s<br/>\n運動黏度 100°C mm2/s</td>\n<td>32<br/>\n5.61</td>\n<td>46<br/>\n6.85</td>\n<td>68<br/>\n8.82</td>\n</tr>\n<tr>\n<td>黏度指數</td>\n<td>108</td>\n<td>104</td>\n<td>102</td>\n</tr>\n<tr>\n<td>密度@15°C kg/l</td>\n<td>0.858</td>\n<td>0.863</td>\n<td>0.871</td>\n</tr>\n<tr>\n<td>閃點（開口杯）°C</td>\n<td>212</td>\n<td>213</td>\n<td>230</td>\n</tr>\n<tr>\n<td>流動點°C</td>\n<td>-24</td>\n<td>-24</td>\n<td>-21</td>\n</tr>\n</tbody>\n</table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "formosa-05",
+   "menu": "往復式空壓機油 RC GII"
+  },
+  "battor-06": {
+   "old": "battor-product-index-6.html",
+   "title": "ISO: 32-680 齒輪油",
+   "hero": null,
+   "overview": [
+    {
+     "label": "特性說明",
+     "html": "<p>不含鉛極壓齒輪油，具防水止泡抗磨損抗腐蝕特性，對降低磨擦力，防噪音功能顯著，適用於減速齒輪，重型齒輪及一般平面滾珠軸等用途油工業齒輪油溫達 100 ﾟ C 以上， MG 含二硫化鉬等符合 :FZG 規格 12 級要求 DINN 51517 CFLP 。 SCREW RA.HS空壓機油 高度精煉，具超卓之氧化穩定性.適用於操作環境 -10 ﾟ C 至 220 ﾟ C ，往螺旋壓縮機油復式及螺旋式空氣壓縮機， AS 為合成系，? 8000 小時換機油 。\n</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [],
+   "jumps": [],
+   "slug": "battor-06",
+   "menu": "齒輪油"
+  },
+  "formosa-06": {
+   "old": "formosa-product-index-6.html",
+   "title": "渦輪機油 TB GII",
+   "hero": null,
+   "overview": [
+    {
+     "label": "油品特性",
+     "html": "<p>台塑渦輪機油TB GII 系列由高品質符合API Group II 標準之基礎油和低灰份添加劑等配方調製而成，具\n有高度抗氧化及防止酸質物形成之效能，同時防止金屬表面腐蝕，是一款專為現代化渦輪機組所研發而\n成的高效能渦輪機油。\n</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>推薦應用<small>APPLIANCE</small></h3>\n<p>• 適用於一般蒸汽、燃氣及水渦輪機，也適用於封閉式蒸汽引擎之曲軸箱軸承及其他同需要渦輪機油之應用，例如液壓系統，高速或精細齒輪等應用。<br/>\n• 輕負載渦輪機及其他許多需要更高抗氧防銹性能的應用。</p>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>性能特點<small>FUNCTIONS &amp; FEATURES</small></h3>\n<p>• 超強抗氧化以及熱穩定性能：台塑渦輪機油TB GII系列採用了氧化穩定性極佳二類基礎油和特選抗氧化添加劑，使油品不易酸化、不易產生積碳、油泥等沉澱物，有效的延長使用\n壽命及換油週期。<br/>\n\u0001• 快速的空氣釋放與消泡能力：使用特殊抗泡添加劑，可抑制氣泡的生成，且能使氣泡迅速破裂。大大减少了泵的氣蝕，流體潤滑的破壞，油品的過早氧化和過度磨損。<br/>\n• 良好的分水性能：在蒸汽渦輪機的應用當中常有過量水分存在，本產品因具有良好的油水分離特性，使這些進入潤滑系統中的水也易於排放出去，减少了零件腐蝕和早期磨損的可能性。<br/>\n• 優異的防鏽和抗腐蝕性能：即使在潮濕或有水的環境下運轉或長時間停機時也能避免鏽蝕和腐蝕性產物的生成，確保對零件的保護。\n</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>健康，安全及環保資訊<small>HEALTH &amp; ENVIROMENTAL INFO</small></h3>\n<p>依據現有產品資料表的描述，本產品在推薦使用的過程中，不會對人體健康及安全造成不良影響，但在使用過程中仍需遵循物資安全資料表所提供的指示。有關物質 安全資料表等相關資訊可向當地經銷部門索取。使用過的油品，請交由合法回收管道，不可將其排入下水道，土地，與河川中，注意環境保護。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>典型數據<small>CLASSIC DATA</small></h3>\n<table class=\"tbl\">\n<tbody>\n<tr>\n<td>台塑渦輪機油TB GII</td>\n<td>32</td>\n<td>46</td>\n<td>68</td>\n</tr>\n<tr>\n<td>運動黏度 40°C mm2/s<br/>\n運動黏度 100°C mm2/s</td>\n<td>32<br/>\n5.63</td>\n<td>46<br/>\n6.83</td>\n<td>68<br/>\n8.84</td>\n</tr>\n<tr>\n<td>黏度指數</td>\n<td>108</td>\n<td>104</td>\n<td>102</td>\n</tr>\n<tr>\n<td>總酸價 mg KOH/g</td>\n<td>0.15</td>\n<td>0.14</td>\n<td>0.14</td>\n</tr>\n<tr>\n<td>密度@15°C kg/l</td>\n<td>0.857</td>\n<td>0.864</td>\n<td>0.870</td>\n</tr>\n<tr>\n<td>閃點（開口杯）°C</td>\n<td>224</td>\n<td>230</td>\n<td>238</td>\n</tr>\n<tr>\n<td>流動點°C</td>\n<td>-27</td>\n<td>-24</td>\n<td>-21</td>\n</tr>\n</tbody>\n</table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "formosa-06",
+   "menu": "渦輪機油 TB GII"
+  },
+  "battor-07": {
+   "old": "battor-product-index-7.html",
+   "title": "GIREX SW NG ISO: 32-680 齒輪油",
+   "hero": null,
+   "overview": [
+    {
+     "label": "特性說明",
+     "html": "<p>不含鉛極壓齒輪油，具防水止泡抗磨損抗腐蝕特性，對降低磨擦力，防噪音功能顯著，適用於減速齒輪，重型齒輪及一般平面滾珠軸等用途油工業齒輪油溫達 100 ﾟ C 以上， MG 含二硫化鉬等符合 :FZG 規格 12 級要求 DINN 51517 CFLP 。 SCREW RA.HS空壓機油 高度精煉，具超卓之氧化穩定性.適用於操作環境 -10 ﾟ C 至 220 ﾟ C ，往螺旋壓縮機油復式及螺旋式空氣壓縮機， AS 為合成系， 8000 小時換機油 。\n</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [],
+   "jumps": [],
+   "slug": "battor-07",
+   "menu": "空壓機油"
+  },
+  "formosa-07": {
+   "old": "formosa-product-index-7.html",
+   "title": "台塑齒輪油 GII",
+   "hero": null,
+   "overview": [
+    {
+     "label": "油品特性",
+     "html": "<p>台塑齒輪油Group II 系列是專為工業重載齒輪系統所研發的高效能齒輪油，由符合API Group II 標準之高精煉基礎油，比一般礦物油等級之齒輪油產品具備更優異的抗氧化及熱穩定性能，加上特別挑選耐極壓與抗磨耗添加劑，可有效保護齒輪降低磨損，為齒輪帶來更優異的性能表現。\n</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>推薦應用<small>APPLIANCE</small></h3>\n<p>• 一般工業重載齒輪系統。<br/>\n• 適用於低轉速、附載較大的軸承系統。</p>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>性能特點<small>FUNCTIONS &amp; FEATURES</small></h3>\n<p>• Group 2基礎油：台塑齒輪油 HD系列採用符合API Group II標準之高精煉基礎油，比一般礦物油等級之齒輪油產品具備更優異抗氧化及熱穩定性能，適用於高溫嚴苛的工作環境，不易劣化產生油泥，延長油品壽命。<br/>\n• 耐極壓與抗磨耗性能：即使在極端嚴苛條件下，例如長時間工作和重負載，台塑齒輪油Group II系列產品也能有效防止齒輪表面銅與其他金屬合金的磨損，有效保護齒輪和軸承。<br/>\n• 低摩擦特性：減少齒輪摩擦產生的熱能，避免多餘的能源消耗，增加動力輸出與產能。<br/>\n• 抗乳化及防鏽抗腐蝕性能：快速的油水分離特性對齒輪油是非常重要的，尤其在鋼鐵廠或其他無可避免的潮濕工作環境，優異的抗乳化及防鏽抗腐蝕性能可減少齒輪零件生鏽腐蝕的機率。<br/>\n• 消泡性能強：精選消泡添加劑，有效使空氣迅速釋放，並且不易產生泡沫。\n</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>健康，安全及環保資訊<small>HEALTH &amp; ENVIROMENTAL INFO</small></h3>\n<p>依據現有產品資料表的描述，本產品在推薦使用的過程中，不會對人體健康及安全造成不良影響，但在使用過程中仍需遵循物資安全資料表所提供的指示。有關物質 安全資料表等相關資訊可向當地經銷部門索取。使用過的油品，請交由合法回收管道，不可將其排入下水道，土地，與河川中，注意環境保護。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>規範與認證<small>CERTIFICATES</small></h3>\n<p>台塑齒輪油 HD 滿足以下標準要求</p>\n<p>• US Steel 224<br/>\n• DIN 51517- Part 3 (CLP)</p>"
+    }
+   ],
+   "jumps": [],
+   "slug": "formosa-07",
+   "menu": "台塑齒輪油 GII"
+  },
+  "battor-08": {
+   "old": "battor-product-index-8.html",
+   "title": "HEAT BRANFER ISO: 32 46 68 熱煤油",
+   "hero": null,
+   "overview": [
+    {
+     "label": "特性說明",
+     "html": "<p>由高黏度指數之石蠟基配製，具有優良的高熱穩定性，在配備有膨槽的封閉循環系統中， S 為合成型，溫度達 370 ﾟ C 條件 。\n</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [],
+   "jumps": [],
+   "slug": "battor-08",
+   "menu": "熱媒油"
+  },
+  "formosa-08": {
+   "old": "formosa-product-index-8.html",
+   "title": "台塑錠子油 GII",
+   "hero": null,
+   "overview": [
+    {
+     "label": "油品特性",
+     "html": "<p>台塑錠子油Group II 系列是由符合API Group II 標準之高精煉基礎油配方，比一般礦物油等級之產品具備更優異潤滑保護性能，同時搭配精選抗磨耗、消泡、耐腐蝕等添加劑，主要推薦用於紡織機或其他工業高轉速低負載的(主軸)軸承潤滑使用。\n</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>推薦應用<small>APPLIANCE</small></h3>\n<p>• 適用於一般蒸汽、燃氣及水渦輪機，也適用於封閉式蒸汽引擎之曲軸箱軸承及其他同需要渦輪機油之應用，例如液壓系統，高速或精細齒輪等應用。<br/>\n• 輕負載渦輪機及其他許多需要更高抗氧防銹性能的應用。</p>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>性能特點<small>FUNCTIONS &amp; FEATURES</small></h3>\n<p>• Group II基礎油：台塑錠子油Group II系列採用符合API Group II標準之高精煉基礎油，比一般礦物油等級之產品具備更優異的潤滑保護性能，適用於高溫操作環境。<br/>\n• 抗磨耗與低摩擦特性：台塑錠子油Group II系列能有效減少軸承表面的磨損，低摩擦特性也可使軸承轉動更平穩，提昇軸承運轉效能。<br/>\n• 抗乳化及防鏽抗腐蝕性能：在有水的環境下，台塑錠子油Group II系列仍能維持良好的油水分離特性，避免水分造成軸承循環系統零件的鏽蝕。<br/>\n• 空氣釋放和消泡性能：精選添加劑配方，有效使空氣迅速釋放，並且不易產生泡沫。快速的空氣釋放能力可降低氣穴腐蝕與氧化，維持軸承循環系統工作高效率。\n</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>健康，安全及環保資訊<small>HEALTH &amp; ENVIROMENTAL INFO</small></h3>\n<p>依據現有產品資料表的描述，本產品在推薦使用的過程中，不會對人體健康及安全造成不良影響，但在使用過程中仍需遵循物資安全資料表所提供的指示。有關物質 安全資料表等相關資訊可向當地經銷部門索取。使用過的油品，請交由合法回收管道，不可將其排入下水道，土地，與河川中，注意環境保護。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>典型數據<small>CLASSIC DATA</small></h3>\n<table class=\"tbl\">\n<tbody>\n<tr>\n<td>台塑錠子油 GII</td>\n<td>12</td>\n<td>22</td>\n</tr>\n<tr>\n<td>運動黏度 40°C mm2/s<br/>\n運動黏度 100°C mm2/s</td>\n<td>12<br/>\n3.38</td>\n<td>22<br/>\n4.25</td>\n</tr>\n<tr>\n<td>黏度指數</td>\n<td>95</td>\n<td>95</td>\n</tr>\n<tr>\n<td>密度@15°C kg/l</td>\n<td>0.854</td>\n<td>0.855</td>\n</tr>\n<tr>\n<td>閃點（開口杯）°C</td>\n<td>200</td>\n<td>216</td>\n</tr>\n<tr>\n<td>流動點°C</td>\n<td>-30</td>\n<td>-24</td>\n</tr>\n</tbody>\n</table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "formosa-08",
+   "menu": "台塑錠子油 GII"
+  },
+  "battor-09": {
+   "old": "battor-product-index-9.html",
+   "title": "Refigerator KM SP 系列 冷凍機油",
+   "hero": null,
+   "overview": [
+    {
+     "label": "特性說明",
+     "html": "<p>冷凍壓縮機油，此油採精選之環烷基油， SP 為合成系，其化學性穩定，且不含臘質，能與一般冷媒和氨相容，在低溫操作時亦不生臘質，不阻塞冷凍系統符合 :DIN 51503 或 LDR LDS 。\n</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [],
+   "jumps": [],
+   "slug": "battor-09",
+   "menu": "冷凍機油"
+  },
+  "formosa-09": {
+   "old": "formosa-product-index-9.html",
+   "title": "台塑熱媒油 GII",
+   "hero": null,
+   "overview": [
+    {
+     "label": "油品特性",
+     "html": "<p>台塑熱媒油GII 系列採用符合API GII 標準之高精煉基礎油，尤其針對熱傳導系統的高溫應用環境下，更能顯現出比一般礦物油等級之熱媒油產品的高抗氧化及熱穩定性能，因而油品不易裂解、不易碳化、不易產生油泥，。本產品同時具備低揮發性、高傳熱效率以及高閃火點，可提昇熱傳導系統的安全穩定性與效能。</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>推薦應用<small>APPLIANCE</small></h3>\n<p>• 本產品可推薦用於需要間接加熱的大型鍋爐或密閉式熱傳導系統，例如化工廠、紡織染整廠等。<br/>\n\u0001• 本產品的適用溫度，油體本身可達320°C ，油膜溫度最高可達340°C 。</p>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>性能特點<small>FUNCTIONS &amp; FEATURES</small></h3>\n<p>• 抗氧化以及熱穩定性能：台塑熱媒油GII系列具備優異的抗氧化及熱穩定性能，使油品即使在高溫嚴苛的工作環境下，不易劣化產生油泥，因而延長了熱媒油的換油週期。<br/>\n• 低揮發性能：低揮發性是熱媒油的基本且重要特性之一，台塑熱媒油GII系列擁有低揮發性能，使油品在高溫環境下減少揮發產生的蒸汽，避免因壓力過大產生危險。<br/>\n• 高傳熱效率：本產品擁有高導熱係數，因此傳熱效率良好，可節省熱能，同時提供均勻傳熱效果，可使加熱過程保持平穩，可保護設備以及維持生產過程順利。<br/>\n• 高閃火點：本產品具有高閃火點，適用於高溫環境下操作，提供更安全的作業環境。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>健康，安全及環保資訊<small>HEALTH &amp; ENVIROMENTAL INFO</small></h3>\n<p>依據現有產品資料表的描述，本產品在推薦使用的過程中，不會對人體健康及安全造成不良影響，但在使用過程中仍需遵循物資安全資料表所提供的指示。有關物質 安全資料表等相關資訊可向當地經銷部門索取。使用過的油品，請交由合法回收管道，不可將其排入下水道，土地，與河川中，注意環境保護。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>典型數據<small>CLASSIC DATA</small></h3>\n<table class=\"tbl\">\n<tbody>\n<tr>\n<td>台塑熱媒油 GII</td>\n<td>台塑熱媒油 GII</td>\n</tr>\n<tr>\n<td>運動黏度 40°C mm2/s<br/>\n運動黏度 100°C mm2/s</td>\n<td>32<br/>\n5.47</td>\n</tr>\n<tr>\n<td>黏度指數</td>\n<td>108</td>\n</tr>\n<tr>\n<td>密度@15°C kg/l</td>\n<td>0.858</td>\n</tr>\n<tr>\n<td>閃點（開口杯）°C</td>\n<td>210</td>\n</tr>\n<tr>\n<td>流動點°C</td>\n<td>-24</td>\n</tr>\n</tbody>\n</table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "formosa-09",
+   "menu": "台塑熱媒油 GII"
+  },
+  "battor-10": {
+   "old": "battor-product-index-10.html",
+   "title": "EMD Fluid E.S 系列 放電加工油",
+   "hero": null,
+   "overview": [
+    {
+     "label": "特性說明",
+     "html": "<p>以碳氫化合物為基礎油，低粘度，高精煉無色透明放電加工油，氧化安定性高，不含芳香氫 ，故無臭無味不傷皮膚，超低的電極損耗，沖洗性極佳， S 為合成型永久不換油，瑞士 Agie ， Charmille EDM 製造廠推使用 。\n</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [],
+   "jumps": [],
+   "slug": "battor-10",
+   "menu": "放電加工油"
+  },
+  "formosa-10": {
+   "old": "formosa-product-index-10.html",
+   "title": "台塑滑道油 GII",
+   "hero": null,
+   "overview": [
+    {
+     "label": "油品特性",
+     "html": "<p>台塑滑道油 GII 系列是專為工具機、CNC 車床、銑床等機械設備滑道所研發的高品質潤滑油，具有絕佳的低摩擦、抗乳化以及滑道黏附特性，滿足現代自動化且高精密的金屬加工機械操作。本產品採用符合API GII 標準之高精煉基礎油，比一般礦物油等級之滑道油產品具備更優異的抗氧化及熱穩定性能，可使延長此潤滑油的使用壽命。</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "滑道油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>滑道油推薦應用<small>APPLIANCE</small></h3>\n<p>• 適用於工具機、CNC車床、銑床等機械設備滑道。<br/> • 適用於水平及垂直滑道。<br/> • 本產品亦可應用於機床液壓、軸承以及齒輪的潤滑。</p>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>滑道油性能特點<small>FUNCTIONS &amp; FEATURES</small></h3>\n<p>• 低摩擦特性：機械移動更平滑穩定，減少震動，使加工元件的精度更準確，並減少零件的磨損。<br/>\n• 優異的滑道黏附性：當機械頻繁的移動後依然能在滑道表面形成穩定的潤滑油膜，歸功於優異的滑道黏附性，同時可減少滑道油的消耗。<br/>\n• 良好的抗乳化特性：滑道油在金屬加工機台的應用常會面臨有水的環境，尤其搭配水性切削油的應用，本產品擁有良好的抗乳化性，可減少機械設備與零件的銹蝕。<br/>\n• Group II基礎油：台塑滑道油GII系列採用符合 API Group II標準之高精煉基礎油，比一般礦物油等級的產品具備更佳的氧化穩定性能，提昇滑道油的壽命。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>健康，安全及環保資訊<small>HEALTH &amp; ENVIROMENTAL INFO</small></h3>\n<p>依據現有產品資料表的描述，本產品在推薦使用的過程中，不會對人體健康及安全造成不良影響，但在使用過程中仍需遵循物資安全資料表所提供的指示。有關物質 安全資料表等相關資訊可向當地經銷部門索取。使用過的油品，請交由合法回收管道，不可將其排入下水道，土地，與河川中，注意環境保護。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>滑道油典型數據<small>CLASSIC DATA</small></h3>\n<table class=\"tbl\">\n<tbody>\n<tr>\n<td>台塑滑道油 GII</td>\n<td>32</td>\n<td>68</td>\n</tr>\n<tr>\n<td>運動黏度 40°C mm2/s<br/>\n運動黏度 100°C mm2/s</td>\n<td>32<br/>\n5.7</td>\n<td>68<br/>\n9.5</td>\n</tr>\n<tr>\n<td>黏度指數</td>\n<td>120</td>\n<td>110</td>\n</tr>\n<tr>\n<td>密度@15°C kg/l</td>\n<td>0.858</td>\n<td>0.871</td>\n</tr>\n<tr>\n<td>閃點（開口杯）°C</td>\n<td>200</td>\n<td>220</td>\n</tr>\n<tr>\n<td>流動點°C</td>\n<td>-25</td>\n<td>-23</td>\n</tr>\n</tbody>\n</table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "formosa-10",
+   "menu": "台塑滑道油 GII"
+  },
+  "battor-11": {
+   "old": "battor-product-index-11.html",
+   "title": "Quench oils X.Y.Z 系列 高溫淬火油",
+   "hero": null,
+   "overview": [
+    {
+     "label": "特性說明",
+     "html": "<p>適用於高速淬火時提供最大硬度及最少變形 ，高閃點低粘度，故可減少淬火油隨工件帶走，此淬火油含特殊添加劑，即使油槽溫度達 (X-40-95 ﾟ C ； Y120 ﾟ C ； A100~180 ﾟ C) 亦可長久使用 。\n</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [],
+   "jumps": [],
+   "slug": "battor-11",
+   "menu": "高溫淬火油"
+  },
+  "formosa-11": {
+   "old": "formosa-product-index-11.html",
+   "title": "台塑液壓油 AW GII",
+   "hero": null,
+   "overview": [
+    {
+     "label": "油品特性",
+     "html": "<p>台塑液壓油AW Group II 系列採用符合API Group II 標準之高精煉基礎油，比一般礦物油等級之液壓油產品具備更優異的抗氧化及熱穩定性能，可使延長液壓油的使用壽命；同時搭配精選添加劑配方，使台塑液壓油AW Group II 系列擁有完整的潤滑及保護性能，包括耐磨耗、抗乳化與防腐蝕等性能，適用於一般工業液壓系統或戶外移動式液壓系統。</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>推薦應用<small>APPLIANCE</small></h3>\n<p>• 一般工業液壓系統如工廠自動化機械、工具機、射出成型機以及升降設備等。<br/>\n• 戶外移動式液壓系統如工程機械、挖土機、起重機以及其他應用於運輸、農業或採礦等行業，包括船用液壓系統。</p>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>性能特點<small>FUNCTIONS &amp; FEATURES</small></h3>\n<p>• Group 2基礎油：台塑液壓油AW Group II系列採用符合API Group II標準之高精煉基礎油，比一般礦物油等級之液壓油產品具備更穩定的潤滑性能，提昇液壓設備的可靠度。<br/>\n• 抗氧化以及熱穩定性能：台塑液壓油AWGroup II系列具備優異的抗氧化及熱穩定性能，使油品即使在高溫嚴苛的工作環境下，不\n易劣化產生油泥，因而延長了液壓油的換油週期，降低用油成本。<br/>\n• 抗磨耗性能：高品質的抗磨耗添加劑加強了油品的潤滑保護效能，使各式液壓系統中的活塞及葉片幫浦減少磨損，降低了零件故障或更換的機率，同時減少了設備維護保養的成本，進而提高生產效率。<br/>\n• 空氣釋放和消泡性能：精選添加劑配方，有效使空氣迅速釋放，並且不易產生泡沫。快速的空氣釋放能力可降低氣穴腐蝕與氧化，維持系統和液壓系統工作順暢。<br/>\n• 抗乳化及防鏽抗腐蝕性能：在有水的環境下，台塑液壓油Group II系列仍能維持良好的油水分離特性，避免水分造成液壓系統零件的鏽蝕。\n</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>健康，安全及環保資訊<small>HEALTH &amp; ENVIROMENTAL INFO</small></h3>\n<p>依據現有產品資料表的描述，本產品在推薦使用的過程中，不會對人體健康及安全造成不良影響，但在使用過程中仍需遵循物資安全資料表所提供的指示。有關物質 安全資料表等相關資訊可向當地經銷部門索取。使用過的油品，請交由合法回收管道，不可將其排入下水道，土地，與河川中，注意環境保護。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>規範與認證<small>CERTIFICATES</small></h3>\n<p>台塑 液壓油 Group 2 滿足以下標準要求</p>\n<p>• Cincinnati Machine P-68/69/70</p>\n<p>• DIN 51524 (Part I&amp;II)</p>\n<p>• Denison Hydraulics (HF-0, HF-1, HF-2)</p>\n<p>• Eaton Vickers M-2950-S/ I-286-S</p>"
+    }
+   ],
+   "jumps": [],
+   "slug": "formosa-11",
+   "menu": "台塑液壓油 AW GII"
+  },
+  "battor-12": {
+   "old": "battor-product-index-12.html",
+   "title": "Moly GREASE EP-2 二硫化鉬油脂",
+   "hero": null,
+   "overview": [
+    {
+     "label": "特性說明",
+     "html": "<p>效果獨特的耐震油脂，優異抗磨損性，適機械設備，建設機械提供最佳耐磨保護。\n</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [],
+   "jumps": [],
+   "slug": "battor-12",
+   "menu": "二硫化鉬油脂"
+  },
+  "formosa-12": {
+   "old": "formosa-product-index-12.html",
+   "title": "台塑循環油 GII",
+   "hero": null,
+   "overview": [
+    {
+     "label": "油品特性",
+     "html": "<p>台塑循環油Group II 系列是由符合API Group II 標準之高精煉基礎油配方，比一般礦物油等級之產品具備更優異潤滑保護性能，同時搭配精選抗磨耗、消泡、耐腐蝕等添加劑，可廣泛推薦用於工業軸承循環系統使用。</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": true,
+   "sections": [
+    {
+     "title": "油品規格說明",
+     "html": "<h3 class=\"spec-h\" id=\"block1\"><em class=\"num\">1</em>推薦應用<small>APPLIANCE</small></h3>\n<p>• 一般工業軸承循環系統、滑動軸承、滾動軸承等。<br/>\n• 低負載以及無極壓特性要求的齒輪系統。</p>\n<h3 class=\"spec-h\" id=\"block2\"><em class=\"num\">2</em>性能特點<small>FUNCTIONS &amp; FEATURES</small></h3>\n<p>• Group II基礎油：台塑循環油Group II系列採用符合API Group II標準之高精煉基礎油，比一般礦物油等級之產品具備更優異的潤滑保護性能，適用於高溫操作環境。\n• 抗磨耗與低摩擦特性：台塑循環油Group II系列產品能有效減少軸承表面的磨損，低摩擦特性也可使軸承轉動更平穩，提昇軸承運轉效能。\n• 抗乳化及防鏽抗腐蝕性能：在有水的環境下，台塑循環油Group II系列仍能維持良好的油水分離特性，避免水分造成軸承循環系統零件的鏽蝕。\n• 空氣釋放和消泡性能：精選添加劑配方，有效使空氣迅速釋放，並且不易產生泡沫。快速的空氣釋放能力可降低氣穴腐蝕與氧化，維持軸承循環系統工作高效率。\n</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>健康，安全及環保資訊<small>HEALTH &amp; ENVIROMENTAL INFO</small></h3>\n<p>依據現有產品資料表的描述，本產品在推薦使用的過程中，不會對人體健康及安全造成不良影響，但在使用過程中仍需遵循物資安全資料表所提供的指示。有關物質 安全資料表等相關資訊可向當地經銷部門索取。使用過的油品，請交由合法回收管道，不可將其排入下水道，土地，與河川中，注意環境保護。</p>\n<h3 class=\"spec-h\" id=\"block3\"><em class=\"num\">3</em>規範與認證<small>CERTIFICATES</small></h3>\n<p>台塑 液壓油 Group 2 滿足以下標準要求</p>\n<p>• Cincinnati Machine P-68/69/70</p>\n<p>• DIN 51524 (Part I&amp;II)</p>\n<p>• Denison Hydraulics (HF-0, HF-1, HF-2)</p>\n<p>• Eaton Vickers M-2950-S/ I-286-S</p>"
+    }
+   ],
+   "jumps": [],
+   "slug": "formosa-12",
+   "menu": "台塑循環油 GII"
+  },
+  "equipment-1": {
+   "old": "cosmotech-product-index-1.html",
+   "title": "水溶性廢液(水)處理裝置（FRIENDLY系列）",
+   "hero": {
+    "src": "img/m/b2955f79e6.jpg",
+    "w": 1000,
+    "h": 1397
+   },
+   "overview": [
+    {
+     "label": "",
+     "html": "<p>說到「環境保護」這個詞，不論對未來的社會還是地球來說都是一個沉重的話題。雖然會使人有一種美好的印像，但是對於制造類企業來說，首先是責任感，然後是沉重的經濟負擔。</p>"
+    },
+    {
+     "label": "",
+     "html": "<p>在生產中產生的廢液及廢液的回收、處理費用更是其中最重要的一環。COSMOTECH公司通過<strong>FRIENDLY</strong>裝置，<strong>從環保</strong>，<strong>安全</strong>和<strong>經濟</strong>三個方面以實際行動支援那些有志於環保事業的企業。</p>"
+    },
+    {
+     "label": "",
+     "html": "<div>\n<ul>\n<li>削減環境負荷</li>\n<li>削減成本</li>\n<li>不發生異臭味</li>\n<li>減少使用水</li>\n<li>削減處理能源</li>\n<li>減少二氧化碳</li>\n<li>不使用火源</li>\n<li>減少勞動負荷</li>\n</ul>\n<p>information from cosmotech-jp.</p>\n</div>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": false,
+   "sections": [
+    {
+     "title": "廢液排出量大幅消減",
+     "html": "<p>以前，生產工廠所產生的廢液直接委托給廢液處理公司進行處理。</p>\n<p>此狀態下如果采用FRIENDLY，就可以大幅減少需要處理的廢液量，從而達到降低經費的目的。</p>\n<p><img alt=\"廢液排出量大幅消減\" decoding=\"async\" loading=\"lazy\" src=\"img/m/78fd622761.jpg\" width=\"730\"/></p>\n<h3>高效處理能力</h3>\n<ul>\n<li>實現了高濃縮倍率，大幅削減了廢液處理成本<br/>\n實績值：水溶性廢液最大可以濃縮到1/20(根據具體廢液實機測試值為準)</li>\n<li>各種水溶性廢液都可以對應<br/>\n處理實績：PS版用顯影液、水性光油洗淨廢液、潤版水廢液、FLEXO廢液、切削油（水溶性）、水性塗料廢液、食品廢液等</li>\n</ul>\n<h3>便利性和經濟性</h3>\n<ul>\n<li>只需要少量的電費和消泡劑。</li>\n<li>24小時連續自動運轉使勞動負荷減輕</li>\n<li>配載濃縮鍋的自動洗淨機能</li>\n<li>手觸屏提高了操作性能</li>\n<li>小型設計不用考慮設置場所</li>\n</ul>\n<h3>FRIENDLY的構造</h3>\n<img alt=\"選配\" decoding=\"async\" loading=\"lazy\" src=\"img/m/12705c95e1.jpg\" width=\"120\"/>\n<p><img alt=\"FRIENDLY的構造\" decoding=\"async\" height=\"552\" loading=\"lazy\" src=\"img/m/50eef84784.jpg\" width=\"730\"/></p>\n<p>①從廢液桶吸引廢液。<br/>\n②濃縮鍋內減壓。<br/>\n③濃縮鍋加熱，低溫沸騰。<br/>\n④添加消泡劑，防止沸騰時發生泡沫。<br/>\n⑤產生的蒸氣流到冷凍機部使其變成再生水。<br/>\n⑥濃縮鍋內將剩余的濃縮廢液反復進行數次濃縮後，儲存到濃縮桶。<br/>\n⑦再生水暫時儲存在機器內的冷水槽，然後再儲存到外部的再生水桶。<br/>\n⑧機器外部的再生水自動洗淨時再次吸引到濃縮鍋。</p>\n<h4>選配</h4>\n<p>a) 廢液中間箱<br/>\nｂ）再生水中間箱<br/>\nｃ）濃縮廢液中間箱<br/>\nｄ）再生水ｐｈ表示<br/>\ne) 再生水ｐｈ控制</p>\n<h3>為了取得更好的效果　―　安裝布置圖</h3>\n<img alt=\"FRIENDLY標準規格\" decoding=\"async\" loading=\"lazy\" src=\"img/m/a8f3777be5.jpg\" width=\"730\"/>\n<h4>設置導入例</h4>\n<p><b>自動化示意圖</b><br/> 自動化的構造減輕了現場作業人員的勞動負荷，更發揮了削減成本的效果。</p>\n<img alt=\"設置導入例\" decoding=\"async\" height=\"307\" loading=\"lazy\" src=\"img/m/5fe311fb6e.jpg\" width=\"730\"/>"
+    },
+    {
+     "title": "規格",
+     "html": "<table class=\"tbl\">\n<tbody>\n<tr>\n<th>FRIENDLY</th>\n<th>加熱器型</th>\n<th>熱力泵型</th>\n<th>加熱器型</th>\n<th>熱力泵型</th>\n</tr>\n<tr>\n<td>形式</td>\n<td><strong>CT-AQ5</strong></td>\n<td><strong>CT-AQ5H</strong></td>\n<td><strong>CT-AQ10</strong></td>\n<td><strong>CT-AQ10H</strong></td>\n</tr>\n<tr>\n<td>處理能力</td>\n<td colspan=\"2\">5L/h</td>\n<td colspan=\"2\">10L/h</td>\n</tr>\n<tr>\n<td>電源</td>\n<td colspan=\"4\">3相 (3phase) 200V 50/60Hz</td>\n</tr>\n<tr>\n<td>電氣容量/電流</td>\n<td>約7.2KVA/<br/> 約20.7A</td>\n<td>約4.4KVA/<br/> 約12.7Ａ</td>\n<td>約10.6KVA/<br/> 約30Ａ</td>\n<td>約5.2KVA/<br/> 約14.9Ａ</td>\n</tr>\n<tr>\n<td>處理方式</td>\n<td colspan=\"4\">減壓蒸餾方式</td>\n</tr>\n<tr>\n<td>對像廢液</td>\n<td colspan=\"4\">水溶性廢液</td>\n</tr>\n<tr>\n<td>主機尺寸<br/>（W×D×H）mm</td>\n<td colspan=\"2\">700×900×1400mm</td>\n<td colspan=\"2\">800×1000×1400mm</td>\n</tr>\n<tr>\n<td>制品重量</td>\n<td colspan=\"2\">約240kg（運轉時：約280kg）</td>\n<td colspan=\"2\">約260kg（運轉時：約320kg）</td>\n</tr>\n<tr>\n<td>運轉條件</td>\n<td colspan=\"4\">周圍溫度：5 ～ 35℃、濕度：0 ～ 60％（無結露）</td>\n</tr>\n<tr>\n<td rowspan=\"3\">標准附屬品</td>\n<td colspan=\"4\">廢液桶(200ℓ)×1個、消泡劑桶(20ℓ)×1個</td>\n</tr>\n<tr>\n<td colspan=\"4\">濃縮液桶(18ℓ)×2個、再生水桶(35.7ℓ)×1個</td>\n</tr>\n<tr>\n<td colspan=\"4\">廢液中間箱×1台</td>\n</tr>\n<tr>\n<td>其他消耗品</td>\n<td colspan=\"4\">消泡劑（請使用我司推薦的消泡劑。）</td>\n</tr>\n</tbody></table>\n<h3>選配</h3>\n<ul>\n<li>廢液中間箱（追加用）</li>\n<li>再生水中間箱</li>\n<li>濃縮液中間箱</li>\n<li>再生水pH表示</li>\n<li>再生水pH控制（利用曝氣的pH調整機能）<br/>\n※需要和再生水pH表示一起選擇。</li>\n</ul>\n<h3>實現省電力的熱力泵型</h3>\n<p>實現了比舊型產品節省一半電力</p>\n<h3>加熱器型</h3>\n<p>CT-AQ5</p>\n<img alt=\"設置導入例\" decoding=\"async\" loading=\"lazy\" src=\"img/m/3a41ea3ba7.gif\" width=\"50\"/><br/>約40%<br/>DOWN\n<h3>熱力泵型</h3>\n<p>CT-AQ5H</p>\n<h3>加熱器型</h3>\n<p>CT-AQ10</p>\n<img alt=\"\" decoding=\"async\" height=\"50\" loading=\"lazy\" src=\"img/m/3a41ea3ba7.gif\" width=\"50\"/><br/>約63%<br/>DOWN\n<h3>熱力泵型</h3>\n<p>CT-AQ10H</p>\n<h3>外觀尺寸圖</h3>\n<p><img alt=\"外觀尺寸圖\" decoding=\"async\" height=\"196\" loading=\"lazy\" src=\"img/m/20a55261ef.jpg\" width=\"680\"/></p>"
+    }
+   ],
+   "jumps": [],
+   "slug": "equipment-1",
+   "menu": ""
+  },
+  "equipment-2": {
+   "old": "cosmotech-product-index-2.html",
+   "title": "水溶性廢液(水)處理裝置（FRIENDLY CT-AQ25H系列）",
+   "hero": {
+    "src": "img/m/54f309f5bb.jpg",
+    "w": 1000,
+    "h": 1325
+   },
+   "overview": [
+    {
+     "label": "",
+     "html": "<p>為響應廣大客戶的建議和需求，將受到好評的FRIENDLY的處理能力增強到25L/h的新機型登場。兼備環境保護・安全性·經濟性的FRIENDLY處理能力的提升，滿足了排廢量多的客戶的要求。<br/>\n通過減壓蒸餾方式可以安全・有效地處理廢液，處理過程中所產生的異臭味以及因加熱而產生的有害物質極少的裝置。熱泵方式更為節省能源做出了貢獻。</p>"
+    },
+    {
+     "label": "",
+     "html": "<ul>\n<li>處理能力25Ｌ/h</li>\n<li>實現高濃縮倍率</li>\n<li>新系統設計</li>\n<li>24小時連續自動運轉</li>\n<li>追求操作簡易</li>\n</ul>"
+    },
+    {
+     "label": "",
+     "html": "<p>information from cosmotech-jp.</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": false,
+   "sections": [
+    {
+     "title": "大幅度減少廢液的排出量",
+     "html": "<p>以前，生產工廠所產生的廢液直接委托給廢液處理公司進行處理。<br/>\n此狀態下如果采用<strong>FRIENDLY</strong>，可以大幅度減少廢液量，進而達到降低經費的目的。</p>\n<p><img alt=\"大幅度減少廢液的排出量\" decoding=\"async\" loading=\"lazy\" src=\"img/m/78fd622761.jpg\" width=\"730\"/></p>"
+    },
+    {
+     "title": "水溶性廢液的濃縮能力",
+     "html": "<p><img alt=\"水溶性廢液的濃縮能力\" decoding=\"async\" loading=\"lazy\" src=\"img/m/56d2c86a43.gif\" width=\"730\"/></p>\n<p>※水溶性廢液的濃縮倍率因混合成分的比例而改變。</p>"
+    },
+    {
+     "title": "系統構成（標准規格）",
+     "html": "<p><img alt=\"系統構成（標准規格）\" decoding=\"async\" loading=\"lazy\" src=\"img/m/a07b916706.gif\" width=\"730\"/></p>"
+    },
+    {
+     "title": "規格",
+     "html": "<table class=\"tbl\">\n<tbody>\n<tr>\n<td>名稱</td>\n<th>FRIENDLY</th>\n</tr>\n<tr>\n<td>型號</td>\n<td><strong>CT-AQ25H</strong></td>\n</tr>\n<tr>\n<td>處理能力</td>\n<td>25L/h</td>\n</tr>\n<tr>\n<td>濃縮方式</td>\n<td>減壓蒸餾方式</td>\n</tr>\n<tr>\n<td>供熱方式</td>\n<td>熱泵方式</td>\n</tr>\n<tr>\n<td>對像廢液</td>\n<td>水溶性廢液</td>\n</tr>\n<tr>\n<td>電源</td>\n<td>3相200V 50/60Hz</td>\n</tr>\n<tr>\n<td>電氣容量/電流</td>\n<td>約13.7KVA / 約40A</td>\n</tr>\n<tr>\n<td>運轉時容量</td>\n<td>約7.83KVA[50Hz] / 約8.87KVA[60Hz]</td>\n</tr>\n<tr>\n<td>運轉時電流</td>\n<td>約23A[50Hz] / 約26A[60Hz]</td>\n</tr>\n<tr>\n<td>運轉條件</td>\n<td>周圍溫度：5～35℃、濕度：0～60% 無結露</td>\n</tr>\n<tr>\n<td>產品重量</td>\n<td>約585kg（運轉時：約825kg）</td>\n</tr>\n<tr>\n<td>主機尺寸（W×D×H）</td>\n<td>1500×1052×1900mm</td>\n</tr>\n<tr>\n<td>標准附屬品</td>\n<td>廢液桶（200L）×1個、廢液中間箱×1台<br/>\n廢液吸引用管子 內徑φ12（喉箍2個）×1套<br/>\n再生水用管子 內徑φ12（喉箍2個）×1套<br/>\n濃縮液用管子 內徑φ25（喉箍2個）×1套<br/>\n使用說明書×1本</td>\n</tr>\n<tr>\n<td>其他消耗品</td>\n<td>消泡劑（消泡劑請使用我司推薦的產品。）</td>\n</tr>\n</tbody></table>\n<h3>選配</h3>\n<ul>\n<li>廢液中間箱（追加用）</li>\n<li>再生水中間箱</li>\n<li>濃縮液中間箱</li>\n<li>300L廢液桶（攪拌泵規格）</li>\n<li>500L廢液桶（攪拌泵規格）</li>\n<li>200L廢液桶（浮油回收裝置規格）</li>\n<li>300L廢液桶（浮油回收裝置規格）</li>\n<li>500L廢液桶（浮油回收裝置規格）</li>\n<li>再生水ph表示</li>\n<li>再生水電導率表示</li>\n<li>再生水著色檢測</li>\n<li>自動供水</li>\n</ul>\n<h3>外形尺寸圖</h3>\n<p><img alt=\"外形尺寸圖\" decoding=\"async\" loading=\"lazy\" src=\"img/m/a37c9a2947.gif\" width=\"644\"/></p>"
+    }
+   ],
+   "jumps": [],
+   "slug": "equipment-2",
+   "menu": ""
+  },
+  "equipment-3": {
+   "old": "cosmotech-product-index-3.html",
+   "title": "水溶性廢液處理裝置（FRIENDLY CT-AQ100H）",
+   "hero": {
+    "src": "img/m/a5bed35ab5.jpg",
+    "w": 1000,
+    "h": 808
+   },
+   "overview": [
+    {
+     "label": "",
+     "html": "<ul>\n<li>處理能力提升到100L/h，滿足大處理量客戶的需求。 </li>\n<li>實現高濃縮倍率，大幅減少廢液處理成本。</li>\n<li>新系統設計可以處理各種水溶性廢液。</li>\n<li>可24小時無人操作，連續自動運行。</li>\n<li>自動洗淨功能，觸摸屏等使操作簡單化。</li>\n</ul>"
+    },
+    {
+     "label": "",
+     "html": "<p>information from cosmotech-jp.</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": false,
+   "sections": [
+    {
+     "title": "大幅度減少廢液的排出量",
+     "html": "<p>以前，生產工廠所產生的廢液直接委托給廢液處理公司進行處理。<br/>\n此狀態下如果采用<strong>FRIENDLY</strong>，可以大幅度減少廢液量，進而達到降低經費的目的。</p>\n<p><img alt=\"大幅度減少廢液的排出量\" decoding=\"async\" loading=\"lazy\" src=\"img/m/78fd622761.jpg\" width=\"730\"/></p>"
+    },
+    {
+     "title": "水溶性廢液的濃縮能力",
+     "html": "<p><img alt=\"水溶性廢液的濃縮能力\" decoding=\"async\" loading=\"lazy\" src=\"img/m/4e33dec142.jpg\" width=\"730\"/></p>\n<p>※水溶性廢液的濃縮倍率因混合成分的比例而改變。</p>"
+    },
+    {
+     "title": "系統構成（標准規格）",
+     "html": "<p><img alt=\"安全有效的處理系統\" decoding=\"async\" loading=\"lazy\" src=\"img/m/9466e3a476.jpg\" width=\"800\"/></p>\n<p><img alt=\"系統構成（標准規格）\" decoding=\"async\" height=\"384\" loading=\"lazy\" src=\"img/m/9dbb164481.jpg\" width=\"730\"/></p>"
+    },
+    {
+     "title": "規格",
+     "html": "<table class=\"tbl\">\n<tbody>\n<tr>\n<td>名稱</td>\n<th>水溶性廢液處理裝置　FRIENDLY</th>\n</tr>\n<tr>\n<td>型號</td>\n<td><strong>CT-AQ100H</strong></td>\n</tr>\n<tr>\n<td>處理能力</td>\n<td>100L/h</td>\n</tr>\n<tr>\n<td>濃縮方式</td>\n<td>減壓蒸餾方式</td>\n</tr>\n<tr>\n<td>供熱方式</td>\n<td>熱泵方式</td>\n</tr>\n<tr>\n<td>對像廢液</td>\n<td>水溶性廢液</td>\n</tr>\n<tr>\n<td>電源</td>\n<td>3相 200V 50／60Hz</td>\n</tr>\n<tr>\n<td>電氣容量/電流</td>\n<td>約 34.7KVA ／ 約 100A</td>\n</tr>\n<tr>\n<td>輸入電流斷路器</td>\n<td>125A</td>\n</tr>\n<tr>\n<td>運轉條件</td>\n<td>周圍溫度： 5～35℃、濕度： 0～60％ 無結露</td>\n</tr>\n<tr>\n<td>產品重量</td>\n<td>約1400Kg（運轉時：約1730Kg）</td>\n</tr>\n<tr>\n<td>主機尺寸（W×D×H）</td>\n<td>3100×1600×1900 mm （2組 W1800/W1300）</td>\n</tr>\n<tr>\n<td>標准附屬品</td>\n<td>廢液桶（500ℓ）×1個<br/>\n消泡劑桶（100ℓ）×1個<br/>\n廢液中間箱×1台<br/>\n使用說明書×1本</td>\n</tr>\n<tr>\n<td>其他消耗品</td>\n<td>消泡劑 （必要時）※</td>\n</tr>\n</tbody></table>\n<p>※消泡劑 （若使用消泡劑，建議使用我司推薦的產品。）</p>\n<h3>選配</h3>\n<ul>\n<li>廢液中間箱（追加用）</li>\n<li>再生水中間箱</li>\n<li>濃縮液中間箱</li>\n<li>再生水ph顯示功能</li>\n<li>再生水ph控制功能<br/>※ph控制功能和pH顯示是配套的。</li>\n<li>再生水著色檢測傳感器</li>\n<li>電導率檢測傳感器</li>\n<li>自動供水功能</li>\n<li>廢液桶（追加用）200Ｌ/300Ｌ/500Ｌ（含浮球式水位傳感器、SUS過濾網筒）</li>\n<li>廢液桶（攪拌泵規格）300Ｌ/500Ｌ（含導向脈衝傳感器、SUS過濾網筒）</li>\n<li>廢液桶（浮油回收裝置規格）200Ｌ/300Ｌ/500Ｌ（含導向脈衝傳感器、SUS過濾網筒）<br/>※根據主機的規格有不能追加的功能，詳細請另外相談。</li>\n</ul>\n<p>※上述處理能力的數值為清水時的能力，實際情況根據廢液的種類處理能力可能會發生變動。</p>\n<h3>外形尺寸</h3>\n<p><img alt=\"外観寸法図\" decoding=\"async\" loading=\"lazy\" src=\"img/m/5a522e2bbd.jpg\" width=\"730\"/></p>"
+    }
+   ],
+   "jumps": [],
+   "slug": "equipment-3",
+   "menu": ""
+  },
+  "equipment-4": {
+   "old": "cosmotech-product-index-4.html",
+   "title": "複合型水溶性廢液處理裝置（FRIENDLY PLUS）",
+   "hero": {
+    "src": "img/m/2ceb5f3f06.jpg",
+    "w": 1000,
+    "h": 1087
+   },
+   "overview": [
+    {
+     "label": "",
+     "html": "<p>以[環境保護]為根本，對能處理各種各樣廢液的減壓蒸餾式的水溶性廢液處理裝置FRIENDLY進行了進一步的完善。獨自的分離膜技術和減壓蒸餾方式的組合，使以前難以處理的乳化液系含油廢液可以處理到能直接排放到下水道的程度。<br/> 通過使用<strong>FRIENDLY–Plus</strong>，進一步實現了環境保護，為您提供更經濟，安全的解決方案。</p>"
+    },
+    {
+     "label": "",
+     "html": "<ul>\n<li>削減環境負荷</li>\n<li>削減成本</li>\n<li>不發生異臭味</li>\n<li>減少使用水</li>\n<li>削減處理能源</li>\n<li>不使用火源</li>\n<li>減少勞動負荷</li>\n</ul>"
+    },
+    {
+     "label": "",
+     "html": "<p>information from cosmotech-jp.</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": false,
+   "sections": [
+    {
+     "title": "大幅度減少廢液的排出量",
+     "html": "<p>以前，在生產工廠產生的廢液都是直接委托給工業廢物處理公司進行處理。如此現狀下如果采用<strong>FRIENDLY–Plus</strong>，不需要發生大筆費用就可以大幅度削減廢液量，從而可以大幅度節省廢液處理費用。</p>\n<p>乳化液系的含油廢液可以處理到能直接排放到下水道的程度。</p>\n<p><img alt=\"大幅度削減廢液的排出量\" decoding=\"async\" loading=\"lazy\" src=\"img/m/6127a24a89.jpg\" width=\"730\"/></p>"
+    },
+    {
+     "title": "分離膜技術和減壓蒸餾技術的融合",
+     "html": "<h3>采用獨自的分離膜技術使油廢液有效分離</h3>\n<p>讓含油廢液通過緊貼在多孔纖維內部的分離膜，只讓水（包括低分子・離子）透過，和油分（包括高分子・混濁物）分離。分離膜內變為高湍流狀態，維持高效透過率的同時不堵塞網眼可以進行安定的處理。另外，通過海綿球定期進行自動洗淨，或者根據情況用藥品洗淨，使分離膜經常保持清潔的狀態。此分離膜具有耐熱性・耐藥性的優點</p>\n<h3>乳化液分離部</h3>\n<p><img alt=\"乳化液分離部\" decoding=\"async\" loading=\"lazy\" src=\"img/m/7587e4cbaa.jpg\" width=\"730\"/></p>\n<h3>通過高效地減壓蒸餾方式進行安全的處理</h3>\n<p>不使用火源，用減壓蒸餾的方式，利用低於常壓的壓力降低沸點，讓廢液在低溫下沸騰。水溫保持低溫狀態，因此不易發生因加熱引起成分的化學反應或者分解，處理過程中產生的異味以及有害物質的極少的安全方式。</p>\n<h3>減壓蒸餾分離部</h3>\n<p><img alt=\"減壓蒸餾分離部\" decoding=\"async\" loading=\"lazy\" src=\"img/m/db5cb895c6.jpg\" width=\"730\"/></p>\n<p>1. 從廢液桶吸引廢液。<br/> 2. 濃縮鍋內減壓。<br/> 3. 濃縮鍋加熱，低溫沸騰。<br/> 4. 添加消泡劑，防止沸騰時發生泡沫。<br/> 5. 產生的蒸氣流到冷凍機部使其變成再生水。<br/> 6. 濃縮鍋內將剩余的濃縮廢液反復進行數次濃縮後，儲存到濃縮桶。<br/> 7. 再生水暫時儲存在機器內的冷水槽，然後再儲存到外部的再生水桶。<br/> 8. 機器外部的再生水自動洗淨時再次吸引到濃縮鍋。</p>"
+    },
+    {
+     "title": "流程圖",
+     "html": "<h3>流程圖　左</h3>\n<p><img alt=\"FRIENDLY–Plus　流程圖　左\" decoding=\"async\" loading=\"lazy\" src=\"img/m/076bb0077e.jpg\" width=\"410\"/></p>\n<h3>流程圖　右</h3>\n<p><img alt=\"FRIENDLY–Plus　流程圖　右\" decoding=\"async\" height=\"464\" loading=\"lazy\" src=\"img/m/3c353be316.jpg\" width=\"730\"/></p>\n<p>1. 廢液在廢液中間箱內積存到一定量時送水泵運轉，廢液被轉運到廢液一次桶內。<br/> 2. 根據乳化液分離部的供給信號，廢液一次桶的送水泵運轉，一定量的廢液被轉運到裝置內的原液循環桶內。<br/> 3. 乳化液分離部被分離出來的透過水在洗淨桶內積存到一定量後，通過自由落差的方式被排放到廢液二次桶內<br/> 4. 在乳化液分離部分離出來的濃縮液通過自由落差的方式被排放到濃縮液桶。→「作為工業廢物處理」<br/> 5. 減壓蒸餾分離部的加熱槽內達到系統設定的真空值後，廢液二次桶內的透過水一部分被吸引到加熱槽。<br/> 6. 減壓蒸餾部分離出來的再生水在再生水桶內積存到一定量後，通過自由落差的方式被排放到裝置外部。<br/> 7. 減壓蒸餾部分離出來的濃縮液被排放到裝置內的濃縮液中間箱，濃縮液中間箱內的濃縮液積存到一定量時送液泵運轉，被返回到廢液一次桶。</p>"
+    },
+    {
+     "title": "安全有效的處理系統",
+     "html": "<h3>高處理能力</h3>\n<ul>\n<li>實現了高濃縮倍率，大幅度削減了廢液處理費用。<br/> 實績值：水溶性廢液最大可以濃縮到1/20</li>\n<li>可以對應各種水溶性廢液。<br/> 處理實績：PS版用顯影液、潤版液廢液、柔版印刷廢液、切削廢液（水溶性）、水性塗料廢液、食品廢液等</li>\n</ul>\n<h3>便利性和經濟性</h3>\n<ul>\n<li>只需要少量的電和消泡劑</li>\n<li>因進行24小時連續自動運轉，從而減輕勞動負荷。</li>\n<li>分離膜和濃縮鍋具有自動洗淨機能。</li>\n<li>觸摸屏使操作簡單便捷</li>\n</ul>"
+    },
+    {
+     "title": "規格一覽",
+     "html": "<table class=\"tbl\">\n<tbody>\n<tr>\n<th>形式</th>\n<td>FRIENDLY–Plus</td>\n</tr>\n<tr>\n<th>機器構成</th>\n<td>乳化液分離部<br/> 減壓蒸餾分離部<br/> 廢液1次桶（容量 ：約200 l）帶送液泵・攪拌泵<br/> 廢液2次桶（容量 ：約200 l）</td>\n</tr>\n<tr>\n<th>電源</th>\n<td>3相　200V　50/60Hz</td>\n</tr>\n<tr>\n<th>電氣容量／電流</th>\n<td>約8.0KVA／約23.0A</td>\n</tr>\n<tr>\n<th>處理方式</th>\n<td>UF膜(超濾膜)方式＋減壓蒸餾(熱泵)方式</td>\n</tr>\n<tr>\n<th>處理能力</th>\n<td>乳化液分離部　約15～25 l／h<br/> 減壓蒸餾部　約10 l／h</td>\n</tr>\n<tr>\n<th>對像廢液</th>\n<td>水溶性廢液（包括水溶性含油廢液）</td>\n</tr>\n<tr>\n<th>主機尺寸(W×D×H)</th>\n<td>1800×1000×1968</td>\n</tr>\n<tr>\n<th>制品重量</th>\n<td>約240Kg（運轉時 ：約280Kg）</td>\n</tr>\n<tr>\n<th>運轉條件</th>\n<td>周圍溫度5～35℃、濕度0～60％(無結露)<br/> 在不存在氣壓、粉塵、腐蝕性氣體、揮發性氣體的環境</td>\n</tr>\n<tr>\n<th>標准附屬品</th>\n<td>廢液1次桶(200 l)、<br/> 廢液2次桶(200 l)、<br/> 濃縮液桶(20 l×2個)、廢液中間箱(20 l)、<br/> 消泡劑桶(約20 l) 、<br/> 濃縮液中間箱(20 l)</td>\n</tr>\n<tr>\n<th>消耗品</th>\n<td>消泡劑（請使用弊司推薦產品。）</td>\n</tr>\n</tbody></table>\n<h3>選配</h3>\n<ul>\n<li>廢液中間箱(追加用)、再生水中間箱</li>\n<li>濃縮液中間箱(追加用)</li>\n</ul>\n<h3>外形尺寸圖</h3>\n<p><img alt=\"外形尺寸圖\" decoding=\"async\" loading=\"lazy\" src=\"img/m/5dc5925bcc.jpg\" width=\"300\"/>　<img alt=\"正面\" decoding=\"async\" height=\"317\" loading=\"lazy\" src=\"img/m/614e6cf40b.jpg\" width=\"300\"/></p>\n<p><img alt=\"側面\" decoding=\"async\" height=\"299\" loading=\"lazy\" src=\"img/m/f50113bb60.jpg\" width=\"300\"/>　<img alt=\"背面\" decoding=\"async\" height=\"252\" loading=\"lazy\" src=\"img/m/2c33f6af09.jpg\" width=\"300\"/></p>"
+    }
+   ],
+   "jumps": [],
+   "slug": "equipment-4",
+   "menu": ""
+  },
+  "equipment-5": {
+   "old": "cosmotech-product-index-5.html",
+   "title": "水溶性含油廢液膜處理裝置（FRIENDLY UF）",
+   "hero": {
+    "src": "img/m/d3772bc111.jpg",
+    "w": 1000,
+    "h": 1355
+   },
+   "overview": [
+    {
+     "label": "",
+     "html": "<p>近幾年，在機械加工等各種各樣的現場從安全性・冷卻效果・作業環境的改善考慮而使用水溶性油劑。<br/> 這些水溶性油劑通常用水稀釋5～10倍的程度，據說現在使用的加工油劑90%是水溶性油劑。但是，使用後的含油廢液處理難度高，現狀是其中大半直接變為工業廢物，在其燃燒處理時會排出大量的二氧化碳。</p>"
+    },
+    {
+     "label": "",
+     "html": "<p><strong>FRIENDLY-UF</strong>采用其獨自的分離膜技術，使水溶性含油廢液有效地濃縮分離從而達到大幅度的減量減容，為「環境保護」「降低成本」提供支援。</p>"
+    },
+    {
+     "label": "",
+     "html": "<p>information from cosmotech-jp.</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": false,
+   "sections": [
+    {
+     "title": "大幅度減少廢液的排出量",
+     "html": "<h3>特長</h3>\n<ul>\n<li>不使用吸附劑・凝聚劑等，使乳化的油分能有效地濃縮分離。（99％除去）</li>\n<li>廢液量能濃縮減容到１／１０～１／２０。 ※根據廢液的種類・濃度而不同。</li>\n<li>因廢液的濃縮分離大幅度減少了工業廢物的處理費用。</li>\n<li>干淨的透過液可以回收再利用，即經濟又環保。</li>\n<li>分離膜可以清洗，因此能長期使用。</li>\n<li>進行了特殊分離膜處理，因此不會產生淤渣。</li>\n<li>全自動運轉，任何人都可以簡單操作。</li>\n</ul>\n<h3>分離膜的原理</h3>\n<h4>采用獨自的分離膜技術使油廢液有效分離</h4>\n<p>讓含油廢液通過緊貼在多孔纖維內部的分離膜，只讓水（包括低分子・離子）透過，和油分（包括高分子・混濁物）分離。分離膜內變為高湍流狀態，維持高效透過率的同時不堵塞網眼可以進行安定的處理。另外，通過海綿球定期進行自動洗淨，或者根據情況用藥品洗淨，使分離膜經常保持干淨的狀態。此分離膜具有耐熱性・耐藥性的優點，適用於多種多樣的用途。</p>\n<p><img alt=\"分離膜的原理\" decoding=\"async\" loading=\"lazy\" src=\"img/m/9230b430dd.jpg\" width=\"500\"/></p>\n<h3>系統流程圖</h3>\n<img alt=\"系統流程圖\" decoding=\"async\" height=\"284\" loading=\"lazy\" src=\"img/m/143c410100.jpg\" width=\"450\"/>\n<h4>洗淨廢液</h4>\n<p><img alt=\"洗淨廢液\" decoding=\"async\" height=\"123\" loading=\"lazy\" src=\"img/m/ee6a7a1f1d.jpg\" width=\"209\"/></p>\n<h4>切削廢液</h4>\n<p><img alt=\"切削廢液\" decoding=\"async\" height=\"123\" loading=\"lazy\" src=\"img/m/56899e3eb0.jpg\" width=\"250\"/></p>\n<p>1. 原液<br/> 2. 濃縮液<br/> 3. 透過液<br/> 4. 最終處理</p>\n<p>原液通過分離膜只有水（包括低分子・離子）透過，濃縮液再次返回到原液槽。<br/> 通過連續循環原液只讓透過液透過，原液濃縮減容到1/10～1/20。 <sup>※</sup><br/> 隨著透過液的排出原液槽的水位降低，直到到達目標水位時運轉結束。</p>\n<p>※ 根據廢液的種類・濃度而不同。</p>\n<h3>設置例</h3>\n<h4>容易選擇安放場地，根據使用目的能進行最適宜的處理。</h4>\n<h4>連續處理</h4>\n<p><img alt=\"連續處理\" decoding=\"async\" loading=\"lazy\" src=\"img/m/25b4078b5f.jpg\" width=\"439\"/></p>\n<h4>分批處理</h4>\n<p><img alt=\"分批處理\" decoding=\"async\" height=\"239\" loading=\"lazy\" src=\"img/m/63ca0bda53.jpg\" width=\"600\"/></p>\n<p>再利用或者通過最終處理（FRIENDLY<sup>※</sup>或者機油淨化槽）排放到下水道。</p>\n<p>※ FRIENDLY・・・減壓蒸餾方式的水溶性處理裝置</p>\n<h3>用途</h3>\n<h4>對在各種各樣的加工成形過程中排出的廢液可有效進行處理。</h4>\n<p>洗淨廢液・切削廢液・研磨廢液・壓縮機排放廢液・洗車廢液・鑄造廢液・高頻率冷卻液廢水・壓延冷卻液廢水等</p>\n<h3>規格一覽</h3>\n<table class=\"tbl\">\n<tbody>\n<tr>\n<th>機型</th>\n<td>FRIENDLY-UF</td>\n</tr>\n<tr>\n<th>膜面積</th>\n<td>0.65m<sup>2</sup>（長750mm）</td>\n</tr>\n<tr>\n<th>重量</th>\n<td>80kg（無水時）</td>\n</tr>\n<tr>\n<th>電源／容量</th>\n<td>三相200V / 1.5KW</td>\n</tr>\n<tr>\n<th>運轉壓力／流量</th>\n<td>0.5~0.6MPa / 20~30L/min</td>\n</tr>\n<tr>\n<th>處理能力</th>\n<td>15L/h ~ 25L/h</td>\n</tr>\n<tr>\n<th>耐熱</th>\n<td>60℃</td>\n</tr>\n<tr>\n<th>主機尺寸（W×D×H）</th>\n<td>730 x 995 x 1617 mm</td>\n</tr>\n<tr>\n<th>外部輸入</th>\n<td>裝置停止信號</td>\n</tr>\n<tr>\n<th>外部輸出</th>\n<td>統一異常表示<br/> 原液供給信號<br/> 濃縮液排出中信號</td>\n</tr>\n</tbody></table>\n<h3>系列規格</h3>\n<table class=\"tbl\">\n<tbody>\n<tr>\n<th>機型</th>\n<td colspan=\"6\">FRIENDLY-UF 系列</td>\n</tr>\n<tr>\n<th>膜面積(m<sup>2</sup>)</th>\n<td>0.9</td>\n<td>1.8</td>\n<td>2.7</td>\n<td>3.6</td>\n<td>4.5</td>\n<td>5.4</td>\n</tr>\n<tr>\n<th>重量(無水時)(Kg)</th>\n<td>180</td>\n<td>220</td>\n<td>280</td>\n<td>320</td>\n<td>380</td>\n<td>420</td>\n</tr>\n<tr>\n<th>電源／電壓</th>\n<td colspan=\"6\">三相　200Ｖ　50／60Hz</td>\n</tr>\n<tr>\n<th>電容量 (KW)</th>\n<td>3.5</td>\n<td>3.5</td>\n<td>4.5</td>\n<td>4.5</td>\n<td>8.0</td>\n<td>8.0</td>\n</tr>\n<tr>\n<th>運轉壓力 (MPa)</th>\n<td>0.5～0.7</td>\n<td>0.5～0.7</td>\n<td>0.5～0.7</td>\n<td>0.5～0.7</td>\n<td>0.5～0.7</td>\n<td>0.5～0.7</td>\n</tr>\n<tr>\n<th>流量 (L/min)</th>\n<td>20～30</td>\n<td>40～60</td>\n<td>60～90</td>\n<td>80～120</td>\n<td>100～150</td>\n<td>120～180</td>\n</tr>\n<tr>\n<th>處理能力(L/h)</th>\n<td>25</td>\n<td>50</td>\n<td>75</td>\n<td>100</td>\n<td>125</td>\n<td>150</td>\n</tr>\n<tr>\n<th>耐熱(℃)</th>\n<td>60</td>\n<td>60</td>\n<td>60</td>\n<td>60</td>\n<td>60</td>\n<td>60</td>\n</tr>\n</tbody></table>"
+    }
+   ],
+   "jumps": [],
+   "slug": "equipment-5",
+   "menu": ""
+  },
+  "equipment-6": {
+   "old": "cosmotech-product-index-6.html",
+   "title": "COSMOTECH LE",
+   "hero": {
+    "src": "img/m/4186365661.jpg",
+    "w": 500,
+    "h": 699
+   },
+   "overview": [
+    {
+     "label": "",
+     "html": "<p>KMU LOFT是一家總部位於德國的廢液處理設備制造商。我們在世界各地引進了多台大型廢液處理設備。LOFT產品是對環境和人類都友好的環保產品。\n在這種蒸發器設備中，液體通過真空（減壓）蒸發進行處理。非揮發性殘留物保留為濃縮物。產生的閃蒸氣再冷凝，然後作為純餾出物從設備中排出。\nDESTIMAT LE是一種多管式換熱器，采用自然循環原理，充分利用熱量和循環。水汽相分離是用旋風分離器進行的，最後是多級蒸汽洗滌，以增加蒸汽流量，獲得盡可能好的蒸汽和餾分。供給設備的廢液經預熱換熱器與排出的餾出液逆流預熱，進入立式換熱器。</p>"
+    },
+    {
+     "label": "",
+     "html": "<p>information from cosmotech-jp.</p>"
+    }
+   ],
+   "apps": [],
+   "apps_generic": false,
+   "sections": [
+    {
+     "title": "大幅度減少廢液的排出量",
+     "html": "<h3>影片介紹</h3>\n<div class=\"vid\"><iframe allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" loading=\"lazy\" src=\"https://www.youtube.com/embed/iLwythbC3N4\" title=\"影片\"></iframe></div>\n<h3>適用於以下工藝用水</h3>\n<ul>\n<li>表面處理工藝產生的沖洗水和活性槽液</li>\n<li>乳化液（冷卻劑和潤滑劑）</li>\n<li>清洗廢水</li>\n<li>含有脫模劑的廢水</li>\n<li>裂紋檢測系統產生的沖洗水</li>\n<li>探傷檢測用滲透劑</li>\n</ul>\n<p><img alt=\"可凈化多少廢水量\" decoding=\"async\" loading=\"lazy\" src=\"img/m/57a9ae15ba.jpg\" width=\"960\"/></p>\n<p><img alt=\"可凈化多少廢水量\" decoding=\"async\" height=\"560\" loading=\"lazy\" src=\"img/m/37f196c3b7.jpg\" width=\"957\"/></p>\n<h3>可凈化多少廢水量？</h3>\n<h4>DESTIMAT® LE 系列实现了设备每年的性能高达 264 m³ 至 23.000 m³ 废水。</h4>\n<p><img alt=\"可凈化多少廢水量\" decoding=\"async\" height=\"520\" loading=\"lazy\" src=\"img/m/018c0488a9.jpg\" width=\"892\"/></p>\n<h3>DESTIMAT® 特點:</h3>\n<ul>\n<li>非常適用於含有乳化液/油的工藝廢水</li>\n<li>通過最大化的熱回收降低能耗</li>\n<li>緊湊的結構設計及最佳的可操作性</li>\n<li>小容量的反應罐保證了快速加熱 </li>\n<li>無需使用額外的水泵就可將蒸餾水和濃縮液排出 </li>\n<li>高效的自動清潔系統 </li>\n<li>可選的\"BestDest\"技術能確保最佳的蒸餾水質量</li>\n<li>最新的控制系統，直觀的操作方式以及簡易的設備可視化</li>\n</ul>\n<h3>DESTIMAT® 配件</h3>\n<h4>我們同時為您提供合適的預處理和後處理工序，用於處理工序用水和進一步處理蒸餾物。例如中和、除油、消毒、分離淤泥等工序。這將根據您的要求和設備進行調整。其內置於設備中，或在蒸發器的外圍設備中作為全自動的系統解決方案投入運行。\n您是否需要相應的運行設備和材料？我們竭誠為您提供咨詢建議或者您可直接瀏覽運行設備頁面。</h4>\n<p><img alt=\"DESTIMAT® 配件\" decoding=\"async\" loading=\"lazy\" src=\"img/m/2c80f92664.jpg\" width=\"1225\"/></p>\n<p><img alt=\"DESTIMAT® 配件\" decoding=\"async\" height=\"588\" loading=\"lazy\" src=\"img/m/067dd32395.jpg\" width=\"1229\"/></p>\n<p><img alt=\"DESTIMAT® 配件\" decoding=\"async\" height=\"635\" loading=\"lazy\" src=\"img/m/7f371d1f5f.jpg\" width=\"1226\"/></p>\n<p><img alt=\"DESTIMAT® 配件\" decoding=\"async\" height=\"606\" loading=\"lazy\" src=\"img/m/07c7241bdf.jpg\" width=\"1266\"/></p>\n<p><img alt=\"DESTIMAT® 配件\" decoding=\"async\" height=\"543\" loading=\"lazy\" src=\"img/m/9517da01ed.jpg\" width=\"1233\"/></p>\n<p><img alt=\"DESTIMAT® 配件\" decoding=\"async\" height=\"326\" loading=\"lazy\" src=\"img/m/034712c37c.jpg\" width=\"1421\"/></p>\n<h3>系統規格</h3>\n<p><img alt=\"可凈化多少廢水量\" decoding=\"async\" height=\"722\" loading=\"lazy\" src=\"img/m/ab1a7bfff9.jpg\" width=\"678\"/></p>\n<h3>Toyota豐田發動機產品</h3>\n<p><img alt=\"Toyota豐田發動機產品\" decoding=\"async\" height=\"722\" loading=\"lazy\" src=\"img/m/b5670995b3.jpg\" width=\"532\"/></p>"
+    }
+   ],
+   "jumps": [],
+   "slug": "equipment-6",
+   "menu": ""
+  }
+ },
+ "series_html": {
+  "battor-product-main.html": "<p><img alt=\"\" decoding=\"async\" loading=\"lazy\" src=\"img/m/e9761aba21.jpg\" width=\"980\"/></p>\n<h3>感謝業界肯定讓圓華經歷四十多年粹煉，提供各類切削油/切削液/金屬機械加工油，我們更懂得謙卑與感恩，未來圓華朝向成為您最信賴企業目標而努力不懈。</h3>\n<p>圓華油品創立於民國66年，當時前身是永泰礦油行，至今已逾36年之久，秉持專業、服務、誠信的經營理念，提供客戶最正確的金屬機械加工油知識，圓華成立至今有幸獲得業界肯定並成功總經銷日本 SAN-I YUSHIRO 化學工業株式會社之金屬加工油，將最新技術與優良產品給顧客。 除了致力於金屬加工本業領域以外，同時成立新事業部，經銷義大利最大潤滑油公司之一IP潤滑油及最大德國機油製造商SRS車用機油，以多角化經營來滿足市場多元需求。\n</p>\n<p><img alt=\"\" decoding=\"async\" loading=\"lazy\" src=\"img/m/fe2aba5786.jpg\" width=\"650\"/></p>\n<p><img alt=\"\" decoding=\"async\" height=\"487\" loading=\"lazy\" src=\"img/m/25b32622d7.jpg\" width=\"650\"/></p>\n<p><img alt=\"\" decoding=\"async\" height=\"487\" loading=\"lazy\" src=\"img/m/fb1bd79bf4.jpg\" width=\"650\"/></p>\n<p><img alt=\"\" decoding=\"async\" height=\"487\" loading=\"lazy\" src=\"img/m/9a7a1876c3.jpg\" width=\"650\"/></p>\n<p><img alt=\"\" decoding=\"async\" height=\"487\" loading=\"lazy\" src=\"img/m/c8d3efa4ad.jpg\" width=\"650\"/></p>\n<p><img alt=\"\" decoding=\"async\" height=\"487\" loading=\"lazy\" src=\"img/m/f10fab32d9.jpg\" width=\"650\"/></p>\n<p><img alt=\"\" decoding=\"async\" height=\"487\" loading=\"lazy\" src=\"img/m/7f36f07d2f.jpg\" width=\"650\"/></p>\n<p><img alt=\"\" decoding=\"async\" height=\"487\" loading=\"lazy\" src=\"img/m/44c925d15c.jpg\" width=\"650\"/></p>\n<h2> 品牌金屬機械加工油品系列 :</h2>\n<a href=\"battor-01.html\"></a>\n<a href=\"battor-01.html\">省能源液壓油</a>\n經二次加氫處理，超高黏度指數，含磨差調整劑耐高溫，抗磨耗，可避免封皮產生牽滑 (Stick-slip) 產生膠黏沉積物及腐蝕，高低溫變化極大的機械操作符合 : DIN:51524-3 ， X 為全天候操作環境 。\n<a href=\"battor-01.html\"> </a>\n<a href=\"battor-02.html\"></a>\n<a href=\"battor-02.html\">耐磨耗液壓油 HIVIS AW HLPSO:32-680</a>\n耐磨耗液壓油 含抗磨損，抗乳化和熱穩定等優良防銹及抗腐蝕特性，不傷封皮 (seal) ，可應用在工業及重型車輛高低壓的液壓系統齒輪、軸承潤滑，等合 DIN 51524-2 HLP 高性能要求者， R 一般循環系統 。\n<a href=\"battor-02.html\"> </a>\n<a href=\"battor-03.html\"></a>\n<a href=\"battor-03.html\">HIVIS Fluid DU 系列\n防火液壓油</a>\n本產品為抗燃液壓油，具高的化學穩定性，極好的耐腐蝕性及潤滑性，即使在高剪力及高壓力下，亦能維持良好的穩定超作 FC 為水乙二醇型， DU 為合成性防火液壓油，可耐極嚴苛之操作，為目前防火液壓油中，性能最佳之產品，符合 :DIN 51502 。\n<a href=\"battor-03.html\"> </a>\n<a href=\"battor-04.html\"></a>\n<a href=\"battor-04.html\">HIVIS HV\nISO:5 10 22\n高速主軸油</a>\n用於高速轉軸潤滑，尤其適各種高轉速之工具機紡織機械，具極佳氧化安定性，防止黏滯垢及變色防銹防水性良好不侵蝕油封符合 :SKF LANDIS 精密主軸製造廠要求規格 。\n<a href=\"battor-04.html\"> </a>\n<a href=\"battor-05.html\"></a>\n<a href=\"battor-05.html\">SIDEWAY BW\nISO:32 68 220\n滑道油</a>\n油水分離佳，不會造成滑道黏糊沉積物，特別適於垂直式和水平式滑道的精密工具機及軸承抗磨道油和工具機齒輪箱， WAY 為加強特重負載， B 可兼液壓系統 ZJ 符合 :CINCINNATI MILACRON P47 ， P50 ， P53 標準。\n<a href=\"battor-05.html\"> </a>\n<a href=\"battor-06.html\"></a>\n<a href=\"battor-06.html\">ISO: 32-680\n齒輪油</a>\n不含鉛極壓齒輪油，具防水止泡抗磨損抗腐蝕特性，對降低磨擦力，防噪音功能顯著，適用於減速齒輪，重型齒輪及一般平面滾珠軸等用途油工業齒輪油溫達 100 ﾟ C 以上， MG 含二硫化鉬等符合 :FZG 規格 12 級要求 DINN 51517 CFLP 。\nSCREW RA.HS空壓機油 高度精煉，具超卓之氧化穩定性.適用於操作環境 -10 ﾟ C 至 220 ﾟ C ，往螺旋壓縮機油復式及螺旋式空氣壓縮機， AS 為合成系，? 8000 小時換機油 。\n<a href=\"battor-06.html\"> </a>\n<a href=\"battor-07.html\"></a>\n<a href=\"battor-07.html\">GIREX SW NG\nISO: 32-680\n齒輪油</a>\n不含鉛極壓齒輪油，具防水止泡抗磨損抗腐蝕特性，對降低磨擦力，防噪音功能顯著，適用於減速齒輪，重型齒輪及一般平面滾珠軸等用途油工業齒輪油溫達 100 ﾟ C 以上， MG 含二硫化鉬等符合 :FZG 規格 12 級要求 DINN 51517 CFLP 。\nSCREW RA.HS空壓機油 高度精煉，具超卓之氧化穩定性.適用於操作環境 -10 ﾟ C 至 220 ﾟ C ，往螺旋壓縮機油復式及螺旋式空氣壓縮機， AS 為合成系， 8000 小時換機油 。\n<a href=\"battor-07.html\"> </a>\n<a href=\"battor-08.html\"></a>\n<a href=\"battor-08.html\">HEAT BRANFER\nISO: 32 46 68\n熱煤油</a>\n由高黏度指數之石蠟基配製，具有優良的高熱穩定性，在配備有膨槽的封閉循環系統中， S 為合成型，溫度達 370 ﾟ C 條件 。\n<a href=\"battor-08.html\"> </a>\n<a href=\"battor-09.html\"></a>\n<a href=\"battor-09.html\">Refigerator\nKM SP 系列\n冷凍機油</a>\n冷凍壓縮機油，此油採精選之環烷基油， SP 為合成系，其化學性穩定，且不含臘質，能與一般冷媒和氨相容，在低溫操作時亦不生臘質，不阻塞冷凍系統符合 :DIN 51503 或 LDR LDS 。\n<a href=\"battor-09.html\"> </a>\n<a href=\"battor-10.html\"></a>\n<a href=\"battor-10.html\">EMD Fluid E.S 系列\n放電加工油</a>\n以碳氫化合物為基礎油，低粘度，高精煉無色透明放電加工油，氧化安定性高，不含芳香氫 ，故無臭無味不傷皮膚，超低的電極損耗，沖洗性極佳， S 為合成型永久不換油，瑞士 Agie ， Charmille EDM 製造廠推使用 。\n<a href=\"battor-10.html\"> </a>\n<a href=\"battor-11.html\"></a>\n<a href=\"battor-11.html\">Quench oils\nX.Y.Z 系列\n高溫淬火油</a>\n適用於高速淬火時提供最大硬度及最少變形 ，高閃點低粘度，故可減少淬火油隨工件帶走，此淬火油含特殊添加劑，即使油槽溫度達 (X-40-95 ﾟ C ； Y120 ﾟ C ； A100~180 ﾟ C) 亦可長久使用 。\n<a href=\"battor-11.html\"> </a>\n<a href=\"battor-12.html\"></a>\n<a href=\"battor-12.html\">Moly GREASE EP-2\n二硫化鉬油脂\n</a>\n果獨特的耐震油脂，優異抗磨損性，適機械設備，建設機械提供最佳耐磨保護。\n<a href=\"battor-12.html\"> </a>",
+  "formosa-product-main.html": "<p><img alt=\"潤滑油\" decoding=\"async\" loading=\"lazy\" src=\"img/m/babd8fa9c7.png\" width=\"980\"/></p>\n<h3>潤滑油品專家(工業潤滑油)，圓華油品為提供給國內的消費者更多元的潤滑油選擇，台塑石油自民國八十八年正式跨入國內市場，並於民國九○年推出潤滑油產品，以發展更全面的潤滑油服務及工業潤滑油。台塑潤滑油初期僅在企業內部使用及加油站銷售，經過十年的技術及經驗累積，終於在民國一○○年開始全面進軍國內外市場。\n</h3>\n<p>\n身為目前國內唯一生產基礎油的潤滑油供應商，我們具備穩定且優質的基礎油供應來源，並結合先進的配方技術與卓越的製造能力，研發符合廣大工業設備與運輸車輛需求的高品質潤滑油。為深耕台灣市場，我們多年來不斷地開發新品項及強化產品性能，以滿足越趨嚴苛且多樣化的市場需求，並搭配完整且綿密的經銷商網絡，提供給消費者更即時的服務\n</p>\n<p>目前台塑潤滑油產品線已囊括工業、重車、船舶、小客車等方面。以台灣在地精神，生產出符合國際品質的台塑潤滑油來服務這塊美麗土地上的大眾，讓各行各業，大至企業小至個人，都能找到符合自己需要的台塑潤滑油，期待未來能更進一步推向世界，成為潤滑油業界的台灣之光！</p>\n<p><img alt=\"台塑潤滑油\" decoding=\"async\" loading=\"lazy\" src=\"img/m/7c0e354211.jpg\" width=\"780\"/></p>\n<p><img alt=\"工業潤滑油\" decoding=\"async\" height=\"319\" loading=\"lazy\" src=\"img/m/312b5f0902.jpg\" width=\"780\"/></p>\n<h2> 品牌油品系列 :</h2>\n<a href=\"formosa-01.html\"></a>\n<a href=\"formosa-01.html\">極壓鋰基潤滑脂</a>\n台塑極壓鋰基潤滑脂特別添加極壓添加劑，可針對重載、高負荷的軸承潤滑使用，本產品由高品質礦物基礎油與鋰皂基增稠劑，同時含有抗氧化、防鏽以及抗腐蝕等添加劑配方組合而成，可推薦用於鋼鐵廠、建設機械、砂石水泥採礦行業等重型機具，亦適用於一般輕負載工業機械設備。\n<a href=\"formosa-01.html\"> </a>\n<a href=\"formosa-02.html\"></a>\n<a href=\"formosa-02.html\">高溫極壓複合鋰基潤滑脂</a>\n台塑高溫極壓複合鋰基潤滑脂是一款專為高溫操作環境所研發而成的高品質潤滑脂，採用高黏度指數礦物基礎油與複合鋰基增稠劑，另含有抗氧化、抗磨損、耐極壓、抗腐蝕等添加劑，提供比一般鋰基潤滑脂更優異的性能，尤其應用在高溫環境，例如鋼鐵廠內用的連鑄機軸承潤滑、砂石廠內碎料機和滾筒運輸軸承潤滑等。\n<a href=\"formosa-02.html\"> </a>\n<a href=\"formosa-03.html\"></a>\n<a href=\"formosa-03.html\">多效鋰基潤滑脂</a>\n台塑多效鋰基潤滑脂是由高品質礦物基礎油與鋰皂基增稠劑，調配抗氧化、防鏽以及抗腐蝕等添加劑組合而成，適用於一般工業機械、軸承、馬達以及低轉速齒輪之應用，是一款性能優越、品質穩定之多效潤滑脂。\n<a href=\"formosa-03.html\"> </a>\n<a href=\"formosa-04.html\"></a>\n<a href=\"formosa-04.html\">\n螺旋式空壓機油 SC GII</a>\n台塑螺旋式空壓油SC GII 系列是專為螺旋式及葉片式空壓機所研發而成的高品質潤滑油，本產品採用符 合API Group II 標準之高精煉基礎油以及特選無灰份添加劑配方，比一般礦物油等級之空壓機油產品具 備更優異的抗氧化及熱穩定性能，可延長油品的使用壽命；台塑螺旋式空壓油SC GII 系列同時具備優異 的耐磨耗、抗水解乳化性以及空氣釋放性能，提供最優質的潤滑保護。\n<a href=\"formosa-04.html\"> </a>\n<a href=\"formosa-05.html\"></a>\n<a href=\"formosa-05.html\">往復式空壓機油 RC GII</a>\n台塑往復式空壓油RC GII 系列採用符合API Group II 標準之高精煉基礎油以及特選無灰份抗磨耗、抗乳 化等添加劑調製而成，品質與性能皆超越一般礦物油等級之空壓機油產品；是一款適用於往復式空壓機 應用的高品質潤滑油。\n<a href=\"formosa-05.html\"> </a>\n<a href=\"formosa-06.html\"></a>\n<a href=\"formosa-06.html\">渦輪機油 TB GII</a>\n台塑渦輪機油TB GII 系列由高品質符合API Group II 標準之基礎油和低灰份添加劑等配方調製而成，具 有高度抗氧化及防止酸質物形成之效能，同時防止金屬表面腐蝕，是一款專為現代化渦輪機組所研發而 成的高效能渦輪機油。\n<a href=\"formosa-06.html\"> </a>\n<a href=\"formosa-07.html\"></a>\n<a href=\"formosa-07.html\">台塑齒輪油 GII</a>\n台塑齒輪油Group II 系列是專為工業重載齒輪系統所研發的高效能齒輪油，由符合API Group II 標準之高精煉基礎油，比一般礦物油等級之齒輪油產品具備更優異的抗氧化及熱穩定性能，加上特別挑選耐極壓與抗磨耗添加劑，可有效保護齒輪降低磨損，為齒輪帶來更優異的性能表現。\n<a href=\"formosa-07.html\"> </a>\n<a href=\"formosa-08.html\"></a>\n<a href=\"formosa-08.html\">台塑錠子油 GII</a>\n台塑錠子油Group II 系列是由符合API Group II 標準之高精煉基礎油配方，比一般礦物油等級之產品具備更優異潤滑保護性能，同時搭配精選抗磨耗、消泡、耐腐蝕等添加劑，主要推薦用於紡織機或其他工業高轉速低負載的(主軸)軸承潤滑使用。\n<a href=\"formosa-08.html\"> </a>\n<a href=\"formosa-09.html\"></a>\n<a href=\"formosa-09.html\">台塑熱媒油 GII</a>\n台塑熱媒油GII 系列採用符合API GII 標準之高精煉基礎油，尤其針對熱傳導系統的高溫應用環境下，更能顯現出比一般礦物油等級之熱媒油產品的高抗氧化及熱穩定性能，因而油品不易裂解、不易碳化、不易產生油泥，。本產品同時具備低揮發性、高傳熱效率以及高閃火點，可提昇熱傳導系統的安全穩定性與效能。\n<a href=\"formosa-09.html\"> </a>\n<a href=\"formosa-10.html\"></a>\n<a href=\"formosa-10.html\">台塑滑道油 GII</a>\n台塑滑道油 GII 系列是專為工具機、CNC 車床、銑床等機械設備滑道所研發的高品質潤滑油，具有絕佳的低摩擦、抗乳化以及滑道黏附特性，滿足現代自動化且高精密的金屬加工機械操作。本產品採用符合API GII 標準之高精煉基礎油，比一般礦物油等級之滑道油產品具備更優異的抗氧化及熱穩定性能，可使延長此潤滑油的使用壽命。\n<a href=\"formosa-10.html\"> </a>\n<a href=\"formosa-11.html\"></a>\n<a href=\"formosa-11.html\">台塑液壓油 AW GII</a>\n台塑液壓油AW Group II 系列採用符合API Group II 標準之高精煉基礎油，比一般礦物油等級之液壓油產品具備更優異的抗氧化及熱穩定性能，可使延長液壓油的使用壽命；同時搭配精選添加劑配方，使台塑液壓油AW Group II 系列擁有完整的潤滑及保護性能，包括耐磨耗、抗乳化與防腐蝕等性能，適用於一般工業液壓系統或戶外移動式液壓系統。\n<a href=\"formosa-11.html\"> </a>\n<a href=\"formosa-12.html\"></a>\n<a href=\"formosa-12.html\">台塑循環油Group II</a>\n台塑循環油Group II 系列是由符合API Group II 標準之高精煉基礎油配方，比一般礦物油等級之產品具備更優異潤滑保護性能，同時搭配精選抗磨耗、消泡、耐腐蝕等添加劑，可廣泛推薦用於工業軸承循環系統使用。\n<a href=\"formosa-12.html\"> </a>",
+  "yushiro-product-main.html": "<h2> 切削加工油品/切削液/金屬加工切削油系列 :</h2>\n<p>SAN-I YUSHIRO 化學工業株式會社之金屬加工油以及切削液的專業提供者，提供各類CNC或機械產業的金屬切削加工用途的油品，並不斷創新以及研發新金屬切削油品，通常切削油也稱之為切削液，運用於金屬加工切削用途，將最新技術與優良油品給顧客。圓華配合各工業產業的金屬加工部份，提供完整的機械產業的完美油品解決方案。</p>\n<a href=\"yushiro-water.html\">水溶性切削油(金屬切削液)</a>\n<ul>\n<li> 合成與半合成型切削油</li>\n<li> 乳化型金屬切削液</li>\n<li> 化學型切削液</li>\n</ul>\n<a href=\"yushiro-water.html\"> </a>\n<a href=\"yushiro-cutting-oil.html\">油性切削油(金屬切削液)</a>\n<ul>\n<li>油性型系金屬切削油</li>\n<li>氯系切削液</li>\n<li>氯硫不活性系切削油</li>\n<li>氯硫活性系金屬切削液</li>\n<li>硫系切削液</li>\n<li>氯磷系切削液</li>\n<li>氯硫磷系金屬切削液</li>\n</ul>\n<a href=\"yushiro-cutting-oil.html\"> </a>\n<a href=\"yushiro-rust.html\">防鏽油</a>\n<ul>\n<li>溶劑稀釋型</li>\n<li>礦油型</li>\n<li>防鏽添加劑</li>\n<li>樹脂型</li>\n<li>水溶性防鏽型</li>\n</ul>\n<a href=\"yushiro-rust.html\"> </a>\n<a href=\"yushiro-tempering.html\">調質油</a>\n<ul>\n<li>水溶性乳化型</li>\n<li>水溶性分散型</li>\n<li>水溶性Mill clean type</li>\n<li>水溶性預塗油</li>\n<li>不水溶性</li>\n</ul>\n<a href=\"yushiro-tempering.html\"> </a>\n<a href=\"yushiro-cleaner.html\">清洗劑</a>\n<ul>\n<li>水溶性</li>\n<li>不水溶性</li>\n</ul>\n<a href=\"yushiro-cleaner.html\"> </a>\n<a href=\"yushiro-additive.html\">添加劑</a>\n<ul>\n<li>不水溶性</li>\n<li>水溶性</li>\n</ul>\n<a href=\"yushiro-additive.html\"> </a>",
+  "cosmotech-product-main.html": "<video poster=\"https://www.cosmotech-jp.com/wp-content/themes/cosmotech/images/zh-hans/common/main_img0outsidezh.jpg\">\n<source src=\"videos/COSMOTECH-Friendly-廢水處理設備影片.mp4\"/>\n</video>\n<h2> 日本 COSMO TECH 廢水(廢液)處理設備系列 /熱泵廢水處理機:</h2>\n<p>廢液處理設備/廢水設備處理機/為解決目前產業界在廢水處理及蒸餾廢水減量的問題，我們的廢水設備導入了日本最新技術！\n結合24小時自動化系統設備《減壓熱泵廢水處理機》\n創造環保經濟效益、實現綠色環保製程的宗旨，蒸餾廢水減量。\n設備可大幅降低廢液的需氧量可降至COD值60。可達到零污染排放，蒸餾減量，廢水減量的效果。\n適用於：切削廢液(油)、印刷廠廢液、烤漆廢液等各種不同行業別的工業廢液以及廢水減量！！</p>\n<a href=\"equipment-6.html\"><img alt=\"水溶性廢液處理裝置（FRIENDLY系列）\" decoding=\"async\" loading=\"lazy\" src=\"img/m/4186365661.jpg\" width=\"500\"/></a>\n<a href=\"equipment-6.html\">COSMOTECH LE</a>\n<p>KMU LOFT是一家總部位於德國的廢液處理設備制造商。我們在世界各地引進了多台大型廢液處理設備。LOFT產品是對環境和人類都友好的環保產品。\n在這種蒸發器設備中，液體通過真空（減壓）蒸發進行處理。非揮發性殘留物保留為濃縮物。產生的閃蒸氣再冷凝，然後作為純餾出物從設備中排出。\nDESTIMAT LE是一種多管式換熱器，采用自然循環原理，充分利用熱量和循環。水汽相分離是用旋風分離器進行的，最後是多級蒸汽洗滌，以增加蒸汽流量，獲得盡可能好的蒸汽和餾分。供給設備的廢液經預熱換熱器與排出的餾出液逆流預熱，進入立式換熱器。</p>\n<a href=\"equipment-6.html\"> </a>\n<a href=\"equipment-1.html\"><img alt=\"水溶性廢液處理裝置（FRIENDLY系列）\" decoding=\"async\" loading=\"lazy\" src=\"img/m/b2955f79e6.jpg\" width=\"1000\"/></a>\n<a href=\"equipment-1.html\">水溶性廢液處理裝置（FRIENDLY系列）</a>\n<p>說到「環境保護」這個詞，不論對未來的社會還是地球來說都是一個沉重的話題。廢水處理設備雖然會使人有一種美好的印像，但是對於制造類企業來說，首先是責任感，然後是沉重的經濟負擔。</p>\n<p>在生產中產生的廢液及廢液的回收、蒸餾廢水減量、處理費用更是其中最重要的一環。COSMOTECH公司通過FRIENDLY裝置，從環保，安全和經濟三個方面以實際行動支援那些有志於廢水減量環保事業的企業。</p>\n<a href=\"equipment-1.html\"> </a>\n<a href=\"equipment-2.html\"><img alt=\"水溶性廢液處理裝置（FRIENDLY CT-AQ25H）\" decoding=\"async\" loading=\"lazy\" src=\"img/m/54f309f5bb.jpg\" width=\"1000\"/></a>\n<a href=\"equipment-2.html\">水溶性廢液處理裝置（FRIENDLY CT-AQ25H）</a>\n<p>為響應廣大客戶的建議和需求，將受到好評的FRIENDLY的處理能力增強到25L/h的新機型登場。兼備環境保護・安全性·經濟性的FRIENDLY處理能力的提升，滿足了排廢量多的客戶的要求。\n通過減壓蒸餾方式可以安全・有效地處理廢液，處理過程中所產生的異臭味以及因加熱而產生的有害物質極少的裝置。熱泵方式更為節省能源廢水減量做出了貢獻。</p>\n<a href=\"equipment-2.html\"> </a>\n<a href=\"equipment-3.html\"><img alt=\"水溶性廢液(水)處理裝置（FRIENDLY CT-AQ100H）\" decoding=\"async\" loading=\"lazy\" src=\"img/m/a5bed35ab5.jpg\" width=\"1000\"/></a>\n<a href=\"equipment-3.html\">水溶性廢液(水)處理裝置（FRIENDLY CT-AQ100H）</a>\n<ul>\n<li>處理能力提升到100L/h，滿足大處理量廢水客戶的需求。 </li>\n<li>實現高濃縮倍率，大幅減少廢液處理成本。</li>\n<li>新系統設計可以處理各種水溶性廢液。</li>\n<li>可24小時無人操作，連續自動運行設備。</li>\n<li>自動洗淨功能，觸摸屏等使操作簡單化。</li>\n</ul>\n<a href=\"equipment-3.html\"> </a>\n<a href=\"equipment-4.html\"><img alt=\"複合型水溶性廢液(水)處理裝置（FRIENDLY-Plus）\" decoding=\"async\" loading=\"lazy\" src=\"img/m/2ceb5f3f06.jpg\" width=\"1000\"/></a>\n<a href=\"equipment-4.html\">複合型水溶性廢液(水)處理裝置（FRIENDLY-Plus）</a>\n<p>\n以[環境保護]為根本，對能處理各種各樣廢液廢水設備處理機的減壓蒸餾式的水溶性廢液處理裝置FRIENDLY進行了進一步的完善。獨自的分離膜技術和減壓蒸餾方式的組合，使以前難以處理的乳化液系含油廢液可以處理到能直接排放到下水道的程度。\n通過使用FRIENDLY–Plus，進一步實現了環境保護，為您提供更經濟，安全的解決方案。\n</p>\n<a href=\"equipment-4.html\"> </a>\n<a href=\"equipment-5.html\"><img alt=\"水溶性含油廢液膜處理裝置（FRIENDLY-UF系列）\" decoding=\"async\" loading=\"lazy\" src=\"img/m/d3772bc111.jpg\" width=\"1000\"/></a>\n<a href=\"equipment-5.html\">水溶性含油廢液膜處理裝置（FRIENDLY-UF系列）</a>\n<p>\n近幾年，在機械加工等各種各樣的現場從安全性・冷卻效果・作業環境的改善考慮而使用水溶性油劑。\n這些水溶性油劑通常用水稀釋5～10倍的程度，據說現在使用的加工油劑90%是水溶性油劑。但是，使用後的含油廢液處理難度高，現狀是其中大半直接變為工業廢物，在其燃燒處理時會排出大量的二氧化碳。\nFRIENDLY-UF采用其獨自的分離膜技術，使水溶性含油廢液有效地濃縮分離從而達到大幅度的減量減容，為「環境保護」「降低成本」提供支援。\n</p>\n<a href=\"equipment-5.html\"> </a>",
+  "yushiro-product-oil.html": "<h2> SAN-I Yushiro 植物性油品:植物性切削油/植物性切削液/植物之金屬加工油以及植物性金屬切削液 :</h2>\n<p>植物性切削油(液)是由SAN-I YUSHIRO 化學工業株式會社之的專業製造生產，植物酯切削液(油)是由植物油中萃取，天然潤滑劑，植物酯的油膜層，不易破裂，潤滑比礦物油高出許多，不需添加氯化石蠟極壓劑，也能滿足高精度及嚴苛條件下的加工。\n</p>\n<a href=\"yushiro-plant-oil.html\">植物性切削油(植物性金屬切削液)</a>\n<ul>\n<li> 減少廢液產出，使用壽命延長3-5倍</li>\n<li> 低蒸發，低COD與VOC</li>\n<li> 解決生物降解性，環境與人類</li>\n<li> 無甲醛釋放劑</li>\n<li> 無硼，無二級胺</li>\n</ul>\n<a href=\"yushiro-plant-oil.html\"> </a>"
+ },
+ "news_list": [
+  {
+   "old": "news-detail17.html",
+   "title": "【2021年 台灣國際五金工具展】圓華油品展出工業用切削液/廢水處理設備",
+   "date": "2020-11-15",
+   "thumb": "images/news/2021年-台灣國際五金工具展.jpg",
+   "excerpt": "圓華油品將參與「2021台灣國際五金工具展」將由台灣手工具工業同業公會主導，與經濟日報聯手合作，展期預定於2021年7月15~17 日，主要展出: 廢水處理設備及相關工業用金屬切削油/液, 孢含水溶性及油性，地點在台中國際展覽館舉行。「2021台灣國際五金工具展」展區將規畫為，包括：工具暨配件、鎖類、緊固件暨扣件、建材、園藝暨戶外休閒用品、汽車修護用品暨車用配件、五金機械暨廠房設備、安全防護等八大專區,預計將爲台灣媒合不少商機！近期早鳥價截止日於2020.11/16，有計劃參展的廠商，請把握商機！！"
+  },
+  {
+   "old": "news-detail16.html",
+   "title": "【2020年 TIAE 2020 台中工具機展】圓華油品金屬加工油-展後花絮",
+   "date": "2020-11-13",
+   "thumb": "images/exhibition/2020-taichung01/封面.jpg",
+   "excerpt": "11月12日(四)至16日(一) 在「大台中國際會展中心」圓華油品參與工業切削油及水溶性切削液的各項展出，深貨客戶信賴，同時展出廢油廢水處理設備相關工業用機械， 中部地區為台灣機械產業大本營，隨著台灣機械工藝的不斷精進、競爭力大幅提升，為協助業者拓展行銷與國際貿易，促使相關產業升級發展，政府單位也積極成立「中台灣產業4.0產官學研聯盟」，藉由生產力4.0技術提升台灣工具機產業，更邁向智慧機械製造。"
+  },
+  {
+   "old": "news-detail15.html",
+   "title": "【2020年 台中工具機展】圓華油品展出工業用切削液/廢水處理設備",
+   "date": "2020-08-10",
+   "thumb": "images/news/2020-工具機展.jpg",
+   "excerpt": "11月12日(四)至16日(一) 在「大台中國際會展中心」盛大展出 ， 中部地區為台灣機械產業大本營，隨著台灣機械工藝的不斷精進、競爭力大幅提升，為協助業者拓展行銷與國際貿易，促使相關產業升級發展，政府單位也積極成立「中台灣產業4.0產官學研聯盟」，藉由生產力4.0技術提升台灣工具機產業，更邁向智慧機械製造。"
+  },
+  {
+   "old": "news-detail14.html",
+   "title": "《ISO認證》圓華油品通過 ISO 9001:2015-國際品質管理系統認證",
+   "date": "2020-05-12",
+   "thumb": "images/news/ISO-9001-2015.jpg",
+   "excerpt": "圓華油品更以團隊合作、產品創新及顧客第一的信念，提供高品質、高性能、穩定性佳且通過驗證的產品，同時產品皆檢附有國內檢驗SGS認證資料，歐盟認證Reach、 RoHs、COA認證資料表。"
+  },
+  {
+   "old": "news-detail13.html",
+   "title": "TMTS 2020第六屆台灣國際工具機展～|圓華油品廢水處理設備-切削油",
+   "date": "2019-11-15",
+   "thumb": "images/exhibition/2020tms.png",
+   "excerpt": "展覽名稱 TMTS 2020 第六屆台灣國際工具機展 展覽日期 2020年11月10日(星期二) 至 14日(星期六) 展覽時間 09:00 a.m. ‐ 05:00 p.m 主辦單位 台灣區工具機暨零組件工業同業公會（TMBA） 合辦單位 臺中市政府 贊助及支持單位 經濟部國際貿易局 本展覽榮獲經濟部國際貿易局「推動國際會議及展覽在臺辦理計畫」補助 展覽地點 台中烏日高鐵特區 展示總面積 預計 91,000 m2 展出規模 預計 720家廠商 4,300個攤位 (38,700 m2) 預計參觀人數 86,000人（國內 82,500, 國外 3,500） 展出內容 ● 金屬切削工具機、金屬成型工具機 ● 工具機零件、組件、配件、流體傳動、電控系統及周邊設備 ● 刀具、夾治具、工具、量測與檢驗設備 ● 智慧製造系統、工業機器人、控制設備及及相關軟體(CAD、CAM等) ● 其他與工具機相關設備、材料、技術以及資訊"
+  },
+  {
+   "old": "news-detail12.html",
+   "title": "2020高雄自動化工業展～|圓華油品廢水處理設備-切削油",
+   "date": "2019-11-15",
+   "thumb": "images/exhibition/2020-exh-kh.jpg",
+   "excerpt": "一年一次，南臺灣最大工業展 南台灣最大規模自動化工業展，高雄展覽館兩館900多個攤位，2020年將於 3 月 25 日(三)至 28 日(六)在高雄展覽館盛大展出。 產業交流，前進高雄工業聚落 經濟日報常年深耕地方產業，每年的高雄自動化工業展， 為一場提供高度密集技術和新知的展覽，提供業者一個高質量的展示平台， 吸引上萬精準買主群聚高雄，前進高雄產業聚落。"
+  },
+  {
+   "old": "news-detail11.html",
+   "title": "2019台中工具機展|圓華油品金屬加工油-展後花絮",
+   "date": "2019-11-13",
+   "thumb": "images/exhibition/2019-taichung01/00x.jpg",
+   "excerpt": "11月7日(四)至11日(一) 在「大台中國際會展中心」盛大展出 經濟日報為促進機械產業發展，2079台中工具機展將完整呈現國內機械業、工業4.0及智慧機械能量與產業鏈，精銳盡出，人氣爆棚，盛況空前；「2019台中工具機展」將延續上屆熱潮並擴大整合上、中、下游及周邊產業，完整展現機械產業鏈，進而帶動整體產業發產，促進資本市場更加活絡，歡迎各界共襄盛舉。"
+  },
+  {
+   "old": "news-detail5.html",
+   "title": "2019中國國際工業博覽會|圓華油品金屬加工油-展後花絮",
+   "date": "2019-10-01",
+   "thumb": "images/exhibition/2019-china/00x.jpg",
+   "excerpt": ""
+  },
+  {
+   "old": "news-detail9.html",
+   "title": "2019台中工具機展～|圓華油品廢水處理設備",
+   "date": "2019-04-22",
+   "thumb": "images/news/2019-automation.jpg",
+   "excerpt": "11月7日(四)至11日(一) 在「大台中國際會展中心」盛大展出 經濟日報為促進機械產業發展，2079台中工具機展將完整呈現國內機械業、工業4.0及智慧機械能量與產業鏈，精銳盡出，人氣爆棚，盛況空前；「2019台中工具機展」將延續上屆熱潮並擴大整合上、中、下游及周邊產業，完整展現機械產業鏈，進而帶動整體產業發產，促進資本市場更加活絡，歡迎各界共襄盛舉。"
+  },
+  {
+   "old": "news-detail8.html",
+   "title": "2019台北自動化工業展|圓華油品自動化機械加工油",
+   "date": "2019-04-15",
+   "thumb": "images/news/107239.jpg",
+   "excerpt": "展覽日期 日期：2019/8/21(三) - 8/24(六) 時間：AM9:00 ~ PM5:00 (最後一日參觀至4:00PM) ※基於安全考量，本展恕不開放12歲以下兒童入場參觀。 「台北國際自動化工業大展」為亞洲最具代表性之工業自動化/機器人展會之一。 2018年有超過800家廠商、2500攤位參展，比2017年成長近一倍，為歷年之最。 2018年參觀人次已達近13萬人次，也較2017年大幅成長45%。 作為本展會「唯一指定」的大會專刊，我們期許成為展會行銷的最佳利器。在展覽期 間廣大發行，成為人手一本之展會最佳工具書。 刊登本專刊廣告，將有助於提昇展品曝光率，延續展後效益。而未來的一年也能跟著 我們的發行腳步至國內外相關展會，掌握產品曝光機會持續一整年！"
+  },
+  {
+   "old": "news-detail7.html",
+   "title": "2019台南自動化機械暨智慧製造展 |圓華油品廢水處理設備",
+   "date": "2019-04-01",
+   "thumb": "images/news/2019-tainan.jpg",
+   "excerpt": "展覽緣起：本集團舉辦「工商時報自動化機械展」今年已三十多年的歷史，每檔次一推出即受到機械業者的熱烈迴響。工商時報秉專業媒體之責，對機械業發展努力不遺餘力，不斷地自我要求「質」與「量」的提升，來回饋業者對本報的認同與信任，此次更另闢智慧製造產業展，積極推動產業4.0，望透過展會平台，使產業界及民眾更加瞭解產業4.0，促進地方產業升級及帶動機械商機交流。工商時報不論是專業品質與規模皆為台灣領導指標，歷屆展示期間都湧入數萬人潮參觀，現場交易熱絡，對促進台灣地方產業升級及帶動機械商機交流，長期扮演著重要推手，為產業交易媒體情報互動之領導平台，躍升為國內無可取代的最佳服務團隊。"
+  },
+  {
+   "old": "news-detail5.html",
+   "title": "感謝工商時報報導-綠色時代來臨～經濟趨勢、環保意識～|圓華油品廢水處理設備",
+   "date": "2018-12-01",
+   "thumb": "images/news/timeline_20181130_184720.jpg",
+   "excerpt": "由工具機暨零組件公會（TMBA）主辦的第五屆「台灣國際工具機展（TMTS 2018）」，已於本月11日閉幕。屹立台灣油品市場逾40年的圓華油品，為了響應政府環保政策，協助台灣工業廢水減量，在本屆展會中推出最新的COSMO TECH水溶性廢液處理裝置，透過減壓蒸餾方式可將廢液濃縮為原本的1/20，不僅可協助企業符合環保規範，還可大幅降低廢液處理成本。"
+  },
+  {
+   "old": "news-detail5.html",
+   "title": "2019台中工具機展|圓華油品金屬加工油",
+   "date": "2018-10-01",
+   "thumb": "images/exhibition/2019-11.jpg",
+   "excerpt": "11月7日(四)至11日(一) 在「大台中國際會展中心」盛大展出 經濟日報為促進機械產業發展，2079台中工具機展將完整呈現國內機械業、工業4.0及智慧機械能量與產業鏈，精銳盡出，人氣爆棚，盛況空前；「2019台中工具機展」將延續上屆熱潮並擴大整合上、中、下游及周邊產業，完整展現機械產業鏈，進而帶動整體產業發產，促進資本市場更加活絡，歡迎各界共襄盛舉。"
+  },
+  {
+   "old": "news-detail4.html",
+   "title": "2019年台南工具機大展|圓華油品廢水處理設備",
+   "date": "2018-09-26",
+   "thumb": "images/exhibition/2019-banner7-24.jpg",
+   "excerpt": "展覽日期：2019年4月11日(四)至4月15日(一)，每日上午9點30分至下午5點30分。。本集團舉辦「工商時報自動化機械展」今年已三十多年的歷史，每檔次一推出即受到機械業者的熱烈迴響。工商時報秉專業媒體之責，對機械業發展努力不遺餘力，不斷地自我要求「質」與「量」的提升，來回饋業者對本報的認同與信任，此次更另闢智慧製造產業展，積極推動產業4.0，望透過展會平台，使產業界及民眾更加瞭解產業4.0，促進地方產業升級及帶動機械商機交流。工商時報不論是專業品質與規模皆為台灣領導指標，歷屆展示期間都湧入數萬人潮參觀，現場交易熱絡，對促進台灣地方產業升級及帶動機械商機交流，長期扮演著重要推手，為產業交易媒體情報互動之領導平台，躍升為國內無可取代的最佳服務團隊。"
+  },
+  {
+   "old": "news-detail3.html",
+   "title": "TMTS 2018 台灣國際工具機展|圓華油品",
+   "date": "2018-09-14",
+   "thumb": "images/exhibition/2018tmts.jpg",
+   "excerpt": "展覽日期: 2018年11月7日(星期三) 至 11日(星期日)。 本展展場規劃為下列六個專區： 金屬切削工具機 金屬成型工具機 工具機零件、組件、配件、流體傳動、電控系統及周邊設備 刀具、夾治具、工具、量具 智慧製造系統 媒體、服務業及公協會"
+  },
+  {
+   "old": "news-detail2.html",
+   "title": "2013 台中工具機展|圓華油品切削油液",
+   "date": "2013-04-01",
+   "thumb": "images/exhibition/2013banner-01.jpg",
+   "excerpt": "展示時間 2013年11月7日(四) ～11日(一)，每日10：00～18：00，最後一天至17:00 展示地點 大台中國際會展中心(地址：台中市烏日區高鐵五路161號) 展示分區 自動車床區 自控檢測區 五金暨配組件區 產業機械區 工具機區 產學推廣服務區 展示規模 1700個攤位，( 南 / 北 ) 兩館盛大展出。 入場費用 憑名片免費入場，可索取會刊一份。 * 兒童入場，需家長簽屬安全切結書"
+  },
+  {
+   "old": "news-detail1.html",
+   "title": "2013 台中自動化機械展",
+   "date": "2013-04-01",
+   "thumb": "images/exhibition/2013_1017_TC_B.jpg",
+   "excerpt": "展區：自動化控制與傳動暨檢測設備區 日期：2013年10月17日至21日 展覽名稱：2013年台中自動化機械展 一、展出日期及參觀時間： 2013年10月17日(星期四至20日(星期日) 上午9時30分至下午5時30分 2013年10月21日(星期五) 上午9時30分至下午4時30分 二、展出地點： 朝馬工商展覽中心(台中市西屯區朝馬路‧安和東路口) 三、入場方式： 免費入場"
+  },
+  {
+   "old": "news-detail.html",
+   "title": "2012台灣國際工具機展 TMTS 2012 Taiwan International Machine Tool Show",
+   "date": "2012-04-01",
+   "thumb": "images/exhibition/2012-11-07-11.jpg",
+   "excerpt": "本展展場規劃為下列五個專區，實際展出將由主辦單位依展品類別分配：金屬切削工具機區、金屬成型工具機區、零組件、配件、刀具、夾治具、工具、量具及軟體應用區自動控制、流體傳動、工業機器人及週邊設備區國際公協會及媒體區"
+  }
+ ],
+ "news": {
+  "news-detail.html": {
+   "old": "news-detail.html",
+   "title": "2012台灣國際工具機展 TMTS 2012 Taiwan International Machine Tool Show",
+   "date": "2012-04-01",
+   "cover": {
+    "src": "img/m/e7656aebe0.jpg",
+    "w": 721,
+    "h": 268
+   },
+   "html": "<p>本展展場規劃為下列五個專區，實際展出將由主辦單位依展品類別分配：\n金屬切削工具機區\n金屬成型工具機區\n零組件、配件、刀具、夾治具、工具、量具及軟體應用區\n自動控制、流體傳動、工業機器人及週邊設備區\n國際公協會及媒體區</p>\n<h3>公司參展花絮:</h3>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>\n<p>2012台灣國際工具機展</p>",
+   "gallery": [
+    {
+     "src": "img/m/9c1f7ae2dc.jpg",
+     "w": 800,
+     "h": 598
+    },
+    {
+     "src": "img/m/d6a9946727.jpg",
+     "w": 500,
+     "h": 375
+    },
+    {
+     "src": "img/m/17c179dc83.jpg",
+     "w": 800,
+     "h": 1202
+    },
+    {
+     "src": "img/m/91a093faed.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/0c2453c74f.jpg",
+     "w": 800,
+     "h": 1202
+    },
+    {
+     "src": "img/m/33c8c66bc8.jpg",
+     "w": 800,
+     "h": 1202
+    },
+    {
+     "src": "img/m/f8d69e7054.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/42a71b3840.jpg",
+     "w": 800,
+     "h": 1202
+    },
+    {
+     "src": "img/m/4b20b13cb7.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/babaff4cee.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/2b63fda604.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/b8466d6fc3.jpg",
+     "w": 532,
+     "h": 800
+    },
+    {
+     "src": "img/m/30caf67cf8.jpg",
+     "w": 800,
+     "h": 1202
+    },
+    {
+     "src": "img/m/611d54df86.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/38bbc9602c.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/b1f53760b4.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/fe3046cf9b.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/ff5092a8f6.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/a9c03ca5de.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/78d2906524.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/8cd218664b.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/5e07b9d87c.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/bf0a0a2ffa.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/b426baea17.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/8f7659f86d.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/91d58bd1e2.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/3234a5fca2.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/4937e16727.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/bf19bbfa16.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/426199c8cd.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/32e217ca7d.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/ef662822ed.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/4f308b6ba3.jpg",
+     "w": 800,
+     "h": 1202
+    }
+   ],
+   "thumb": {
+    "src": "img/m/e7656aebe0.jpg",
+    "w": 721,
+    "h": 268
+   },
+   "excerpt": "本展展場規劃為下列五個專區，實際展出將由主辦單位依展品類別分配：金屬切削工具機區、金屬成型工具機區、零組件、配件、刀具、夾治具、工具、量具及軟體應用區自動控制、流體傳動、工業機器人及週邊設備區國際公協會及媒體區"
+  },
+  "news-detail1.html": {
+   "old": "news-detail1.html",
+   "title": "2013 台中自動化機械展",
+   "date": "2013-04-01",
+   "cover": {
+    "src": "img/m/80b451e91b.jpg",
+    "w": 775,
+    "h": 255
+   },
+   "html": "<p>展區：自動化控制與傳動暨檢測設備區\n日期：2013年10月17日至21日\n展覽名稱：2013年台中自動化機械展\n一、展出日期及參觀時間：\n2013年10月17日(星期四至20日(星期日) 上午9時30分至下午5時30分\n2013年10月21日(星期五) 上午9時30分至下午4時30分\n二、展出地點：\n朝馬工商展覽中心(台中市西屯區朝馬路‧安和東路口)\n三、入場方式：\n免費入場</p>\n<h3>公司參展花絮:</h3>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>\n<p>2013 台中自動化機械展</p>",
+   "gallery": [
+    {
+     "src": "img/m/f7e6804aed.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/6e3248f904.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/b67d44be97.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/2b0e63df70.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/edcf5c05d5.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/84d5e19616.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/b6fc37c296.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/8711f5c31d.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/2d5be3b046.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/b608d62a65.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/58b940a1ba.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/c5167bf827.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/53af1b9a76.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/258785c9c5.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/eed7460be0.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/946b5621ac.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/61a9219547.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/c4ec3b625b.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/df7a90db14.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/1387eaf4ef.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/8837581dcd.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/10a24e7ef8.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/531a5999a3.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/6c6546cf41.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/1978f24d57.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/9cba2b9570.jpg",
+     "w": 800,
+     "h": 181
+    },
+    {
+     "src": "img/m/2d6baede4c.jpg",
+     "w": 800,
+     "h": 1202
+    }
+   ],
+   "thumb": {
+    "src": "img/m/80b451e91b.jpg",
+    "w": 775,
+    "h": 255
+   },
+   "excerpt": "展區：自動化控制與傳動暨檢測設備區 日期：2013年10月17日至21日 展覽名稱：2013年台中自動化機械展 一、展出日期及參觀時間： 2013年10月17日(星期四至20日(星期日) 上午9時30分至下午5時30分 2013年10月21日(星期五) 上午9時30分至下午4時30分 二、展出地點： 朝馬工商展覽中心(台中市西屯區朝馬路‧安和東路口) 三、入場方式： 免費入場"
+  },
+  "news-detail2.html": {
+   "old": "news-detail2.html",
+   "title": "2013 台中工具機展",
+   "date": "2013-04-01",
+   "cover": {
+    "src": "img/m/5f85f3bcf5.jpg",
+    "w": 1600,
+    "h": 376
+   },
+   "html": "<p>展示時間 2013年11月7日(四) ～11日(一)，每日10：00～18：00，最後一天至17:00\n展示地點 大台中國際會展中心(地址：台中市烏日區高鐵五路161號)\n展示分區 自動車床區 自控檢測區 五金暨配組件區\n產業機械區 工具機區 產學推廣服務區\n展示規模 1700個攤位，( 南 / 北 ) 兩館盛大展出。\n入場費用 憑名片免費入場，可索取會刊一份。 * 兒童入場，需家長簽屬安全切結書</p>\n<h3>公司參展花絮:</h3>\n<p>2013年12月 機械展</p>\n<p>2013年12月 機械展</p>\n<p>2013年12月 機械展</p>\n<p>2013年12月 機械展</p>\n<p>2013年12月 機械展</p>\n<p>2013年12月 機械展</p>\n<p>2013年12月 機械展</p>\n<p>2013年12月 機械展</p>\n<p>2013年12月 機械展</p>\n<p>2013年12月 機械展</p>\n<p>2013年12月 機械展</p>\n<p>2013年12月 機械展</p>\n<p>2013年12月 機械展</p>\n<p>2013年12月 機械展</p>\n<p>2013年12月 機械展</p>\n<p>2013年12月 機械展</p>\n<p>2013年12月 機械展</p>",
+   "gallery": [
+    {
+     "src": "img/m/67aa081231.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/00ebf8acc4.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/dc60972037.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/3bc4d9d733.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/4e636916e0.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/91c06b524e.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/9c20d6f93f.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/810e262aea.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/79d91214a9.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/d46ce961dd.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/50dd1fb10a.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/67175aab11.jpg",
+     "w": 800,
+     "h": 1202
+    },
+    {
+     "src": "img/m/2911094d2b.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/e9254122b2.jpg",
+     "w": 800,
+     "h": 532
+    },
+    {
+     "src": "img/m/babe353ce1.jpg",
+     "w": 800,
+     "h": 1202
+    },
+    {
+     "src": "img/m/3e0fb2e320.jpg",
+     "w": 800,
+     "h": 1202
+    },
+    {
+     "src": "img/m/3be7cb311d.jpg",
+     "w": 800,
+     "h": 532
+    }
+   ],
+   "thumb": {
+    "src": "img/m/5f85f3bcf5.jpg",
+    "w": 1600,
+    "h": 376
+   },
+   "excerpt": "展示時間 2013年11月7日(四) ～11日(一)，每日10：00～18：00，最後一天至17:00 展示地點 大台中國際會展中心(地址：台中市烏日區高鐵五路161號) 展示分區 自動車床區 自控檢測區 五金暨配組件區 產業機械區 工具機區 產學推廣服務區 展示規模 1700個攤位，( 南 / 北 ) 兩館盛大展出。 入場費用 憑名片免費入場，可索取會刊一份。 * 兒童入場，需家長簽屬安全切結書"
+  },
+  "news-detail3.html": {
+   "old": "news-detail3.html",
+   "title": "TMTS 2018 台灣國際工具機展",
+   "date": "2018-09-11",
+   "cover": {
+    "src": "img/m/cb4da37267.jpg",
+    "w": 600,
+    "h": 249
+   },
+   "html": "<p>\n展覽日期: 2018年11月7日(星期三) 至 11日(星期日)。\n本展展場規劃為下列六個專區：\n金屬切削工具機\n金屬成型工具機\n工具機零件、組件、配件、流體傳動、電控系統及周邊設備\n刀具、夾治具、工具、量具\n智慧製造系統\n媒體、服務業及公協會</p>",
+   "gallery": [],
+   "thumb": {
+    "src": "img/m/cb4da37267.jpg",
+    "w": 600,
+    "h": 249
+   },
+   "excerpt": "展覽日期: 2018年11月7日(星期三) 至 11日(星期日)。 本展展場規劃為下列六個專區： 金屬切削工具機 金屬成型工具機 工具機零件、組件、配件、流體傳動、電控系統及周邊設備 刀具、夾治具、工具、量具 智慧製造系統 媒體、服務業及公協會"
+  },
+  "news-detail4.html": {
+   "old": "news-detail4.html",
+   "title": "2019年台南工具機大展",
+   "date": "2018-09-11",
+   "cover": {
+    "src": "img/m/a1e707cace.jpg",
+    "w": 1200,
+    "h": 350
+   },
+   "html": "<p>展覽日期：2019年4月11日(四)至4月15日(一)，每日上午9點30分至下午5點30分。。本集團舉辦「工商時報自動化機械展」今年已三十多年的歷史，每檔次一推出即受到機械業者的熱烈迴響。工商時報秉專業媒體之責，對機械業發展努力不遺餘力，不斷地自我要求「質」與「量」的提升，來回饋業者對本報的認同與信任，此次更另闢智慧製造產業展，積極推動產業4.0，望透過展會平台，使產業界及民眾更加瞭解產業4.0，促進地方產業升級及帶動機械商機交流。工商時報不論是專業品質與規模皆為台灣領導指標，歷屆展示期間都湧入數萬人潮參觀，現場交易熱絡，對促進台灣地方產業升級及帶動機械商機交流，長期扮演著重要推手，為產業交易媒體情報互動之領導平台，躍升為國內無可取代的最佳服務團隊。</p>",
+   "gallery": [],
+   "thumb": {
+    "src": "img/m/a1e707cace.jpg",
+    "w": 1200,
+    "h": 350
+   },
+   "excerpt": "展覽日期：2019年4月11日(四)至4月15日(一)，每日上午9點30分至下午5點30分。。本集團舉辦「工商時報自動化機械展」今年已三十多年的歷史，每檔次一推出即受到機械業者的熱烈迴響。工商時報秉專業媒體之責，對機械業發展努力不遺餘力，不斷地自我要求「質」與「量」的提升，來回饋業者對本報的認同與信任，此次更另闢智慧製造產業展，積極推動產業4.0，望透過展會平台，使產業界及民眾更加瞭解產業4.0，促進地方產業升級及帶動機械商機交流。工商時報不論是專業品質與規模皆為台灣領導指標，歷屆展示期間都湧入數萬人潮參觀，現場交易熱絡，對促進台灣地方產業升級及帶動機械商機交流，長期扮演著重要推手，為產業交易媒體情報互動之領導平台，躍升為國內無可取代的最佳服務團隊。"
+  },
+  "news-detail5.html": {
+   "old": "news-detail5.html",
+   "title": "2019年台南工具機大展",
+   "date": "2018-09-11",
+   "cover": {
+    "src": "img/m/8a01f8ce55.jpg",
+    "w": 791,
+    "h": 286
+   },
+   "html": "<p>展覽日期：2019年4月11日(四)至4月15日(一)，每日上午9點30分至下午5點30分。。本集團舉辦「工商時報自動化機械展」今年已三十多年的歷史，每檔次一推出即受到機械業者的熱烈迴響。工商時報秉專業媒體之責，對機械業發展努力不遺餘力，不斷地自我要求「質」與「量」的提升，來回饋業者對本報的認同與信任，此次更另闢智慧製造產業展，積極推動產業4.0，望透過展會平台，使產業界及民眾更加瞭解產業4.0，促進地方產業升級及帶動機械商機交流。工商時報不論是專業品質與規模皆為台灣領導指標，歷屆展示期間都湧入數萬人潮參觀，現場交易熱絡，對促進台灣地方產業升級及帶動機械商機交流，長期扮演著重要推手，為產業交易媒體情報互動之領導平台，躍升為國內無可取代的最佳服務團隊。</p>",
+   "gallery": [],
+   "thumb": {
+    "src": "img/m/8a01f8ce55.jpg",
+    "w": 791,
+    "h": 286
+   },
+   "excerpt": ""
+  },
+  "news-detail6.html": {
+   "old": "news-detail6.html",
+   "title": "圓華本屆TMTS展展出的COSMO TECH廢液處理裝置",
+   "date": "2018-12-01",
+   "cover": {
+    "src": "img/m/af3f6e688c.jpg",
+    "w": 1318,
+    "h": 802
+   },
+   "html": "<p>\n工商時報【文╱王妙琴】</p>\n<p>由工具機暨零組件公會（TMBA）主辦的第五屆「台灣國際工具機展（TMTS 2018）」，已於本月11日閉幕。屹立台灣油品市場逾40年的圓華油品，為了響應政府環保政策，協助台灣工業廢水減量，在本屆展會中推出最新的COSMO TECH水溶性廢液處理裝置，透過減壓蒸餾方式可將廢液濃縮為原本的1/20，不僅可協助企業符合環保規範，還可大幅降低廢液處理成本。</p>\n<p>圓華油品創立於民國66年，前身是永泰礦油行，成立至今已超過40年。長期以來提供產業界最正確的油品知識，獲得各界肯定，目前除了是日本SAN-I Yushiro金屬加工油總經銷商之外，同時也代理台塑潤滑油品、經銷義大利最大潤滑油公司IP潤滑油以及德國最大機油製造商SRS車用機油，以多角化經營來滿足市場多元需求。</p>\n<p>為了解決產業界在水溶性廢液處理上的問題，圓華油品特別建置環保水溶性廢液處理機展示中心，並接下日本COSMO TECH台灣區總代理，銷售各種機型廢液處理設備。在本屆台灣國際工具機展，圓華油品也特別展出最新的FRIENDLY系列CT-AQ25H水溶性廢液處理裝置。</p>\n<p>台灣的中小企業受限生產規模，無法在廠內建置大型廢水處理設備，所以生產過程所產生的廢液，大多委託給廢水處理公司處理，可是龐大的處理費用，卻常常讓企業主傷透腦筋。但是如果透過COSMO TECH水溶性廢液處理裝置，可以運用減壓蒸餾方式，先將廢液進行濃縮到原本的1/20，這時處理費用可以大幅降低，而且處理後的再生水還可以再利用，可以達到循環經濟的目的。目前已廣泛使用在水溶性切削廢液、PS版用顯影液、印刷廢液、水性塗料廢液、食品廢液等廢水處理。\n</p>\n<p>文字資料來源: <a href=\"https://www.chinatimes.com/newspapers/20181126000493-260210\" rel=\"noopener\" target=\"_blank\">https://www.chinatimes.com/newspapers/20181126000493-260210</a></p>",
+   "gallery": [],
+   "thumb": {
+    "src": "img/m/af3f6e688c.jpg",
+    "w": 1318,
+    "h": 802
+   },
+   "excerpt": ""
+  },
+  "news-detail7.html": {
+   "old": "news-detail7.html",
+   "title": "2019台南自動化機械暨智慧製造展 |圓華油品廢水處理設備",
+   "date": "2019-04-01",
+   "cover": {
+    "src": "img/m/cfe294449d.jpg",
+    "w": 768,
+    "h": 292
+   },
+   "html": "<p> 展覽緣起：本集團舉辦「工商時報自動化機械展」今年已三十多年的歷史，每檔次一推出即受到機械業者的熱烈迴響。工商時報秉專業媒體之責，對機械業發展努力不遺餘力，不斷地自我要求「質」與「量」的提升，來回饋業者對本報的認同與信任，此次更另闢智慧製造產業展，積極推動產業4.0，望透過展會平台，使產業界及民眾更加瞭解產業4.0，促進地方產業升級及帶動機械商機交流。工商時報不論是專業品質與規模皆為台灣領導指標，歷屆展示期間都湧入數萬人潮參觀，現場交易熱絡，對促進台灣地方產業升級及帶動機械商機交流，長期扮演著重要推手，為產業交易媒體情報互動之領導平台，躍升為國內無可取代的最佳服務團隊。</p>\n資料來源: <a href=\"https://cec.ctee.com.tw/ctms/\" rel=\"noopener\" target=\"_blank\">2019台南自動化機械暨智慧製造展</a>",
+   "gallery": [],
+   "thumb": {
+    "src": "img/m/cfe294449d.jpg",
+    "w": 768,
+    "h": 292
+   },
+   "excerpt": "展覽緣起：本集團舉辦「工商時報自動化機械展」今年已三十多年的歷史，每檔次一推出即受到機械業者的熱烈迴響。工商時報秉專業媒體之責，對機械業發展努力不遺餘力，不斷地自我要求「質」與「量」的提升，來回饋業者對本報的認同與信任，此次更另闢智慧製造產業展，積極推動產業4.0，望透過展會平台，使產業界及民眾更加瞭解產業4.0，促進地方產業升級及帶動機械商機交流。工商時報不論是專業品質與規模皆為台灣領導指標，歷屆展示期間都湧入數萬人潮參觀，現場交易熱絡，對促進台灣地方產業升級及帶動機械商機交流，長期扮演著重要推手，為產業交易媒體情報互動之領導平台，躍升為國內無可取代的最佳服務團隊。"
+  },
+  "news-detail8.html": {
+   "old": "news-detail8.html",
+   "title": "2019台北自動化工業展|圓華油品自動化機械加工油",
+   "date": "2019-04-15",
+   "cover": {
+    "src": "img/m/6379ca977d.jpg",
+    "w": 850,
+    "h": 281
+   },
+   "html": "<p>展覽日期\n日期：2019/8/21(三) - 8/24(六)\n時間：AM9:00 ~ PM5:00 (最後一日參觀至4:00PM)\n※基於安全考量，本展恕不開放12歲以下兒童入場參觀。\n「台北國際自動化工業大展」為亞洲最具代表性之工業自動化/機器人展會之一。\n2018年有超過800家廠商、2500攤位參展，比2017年成長近一倍，為歷年之最。\n2018年參觀人次已達近13萬人次，也較2017年大幅成長45%。\n作為本展會「唯一指定」的大會專刊，我們期許成為展會行銷的最佳利器。在展覽期\n間廣大發行，成為人手一本之展會最佳工具書。\n刊登本專刊廣告，將有助於提昇展品曝光率，延續展後效益。而未來的一年也能跟著\n我們的發行腳步至國內外相關展會，掌握產品曝光機會持續一整年！</p>\n資料來源: <a href=\"https://www.chanchao.com.tw/AutomationTaipei/\" rel=\"noopener\" target=\"_blank\">2019 台北國際自動化工業大展</a>",
+   "gallery": [],
+   "thumb": {
+    "src": "img/m/6379ca977d.jpg",
+    "w": 850,
+    "h": 281
+   },
+   "excerpt": "展覽日期 日期：2019/8/21(三) - 8/24(六) 時間：AM9:00 ~ PM5:00 (最後一日參觀至4:00PM) ※基於安全考量，本展恕不開放12歲以下兒童入場參觀。 「台北國際自動化工業大展」為亞洲最具代表性之工業自動化/機器人展會之一。 2018年有超過800家廠商、2500攤位參展，比2017年成長近一倍，為歷年之最。 2018年參觀人次已達近13萬人次，也較2017年大幅成長45%。 作為本展會「唯一指定」的大會專刊，我們期許成為展會行銷的最佳利器。在展覽期 間廣大發行，成為人手一本之展會最佳工具書。 刊登本專刊廣告，將有助於提昇展品曝光率，延續展後效益。而未來的一年也能跟著 我們的發行腳步至國內外相關展會，掌握產品曝光機會持續一整年！"
+  },
+  "news-detail9.html": {
+   "old": "news-detail9.html",
+   "title": "2019台中工具機展～|圓華油品廢水處理設備",
+   "date": "2019-04-22",
+   "cover": {
+    "src": "img/m/f0281e0c5e.jpg",
+    "w": 1600,
+    "h": 582
+   },
+   "html": "<p>11月7日(四)至11日(一) 在「大台中國際會展中心」盛大展出\n經濟日報為促進機械產業發展，2079台中工具機展將完整呈現國內機械業、工業4.0及智慧機械能量與產業鏈，精銳盡出，人氣爆棚，盛況空前；「2019台中工具機展」將延續上屆熱潮並擴大整合上、中、下游及周邊產業，完整展現機械產業鏈，進而帶動整體產業發產，促進資本市場更加活絡，歡迎各界共襄盛舉。</p>\n資料來源: <a href=\"http://www.edn-mcshow.com/ntp/about.php\" rel=\"noopener\" target=\"_blank\">2019台中工具機展</a>",
+   "gallery": [],
+   "thumb": {
+    "src": "img/m/f0281e0c5e.jpg",
+    "w": 1600,
+    "h": 582
+   },
+   "excerpt": "11月7日(四)至11日(一) 在「大台中國際會展中心」盛大展出 經濟日報為促進機械產業發展，2079台中工具機展將完整呈現國內機械業、工業4.0及智慧機械能量與產業鏈，精銳盡出，人氣爆棚，盛況空前；「2019台中工具機展」將延續上屆熱潮並擴大整合上、中、下游及周邊產業，完整展現機械產業鏈，進而帶動整體產業發產，促進資本市場更加活絡，歡迎各界共襄盛舉。"
+  },
+  "news-detail10.html": {
+   "old": "news-detail10.html",
+   "title": "2019中國國際工業博覽會|圓華油品金屬加工油-展後花絮",
+   "date": "2019-10-01",
+   "cover": {
+    "src": "img/m/d71cabcea4.jpg",
+    "w": 1108,
+    "h": 572
+   },
+   "html": "<h3>公司參展花絮:</h3>\n<p>2019中國國際工業博覽會</p>\n<p>2019中國國際工業博覽會</p>\n<p>2019中國國際工業博覽會</p>\n<p>2019中國國際工業博覽會</p>\n<p>2019中國國際工業博覽會</p>\n<p>2019中國國際工業博覽會</p>\n<p>2019中國國際工業博覽會</p>\n<p>2019中國國際工業博覽會</p>\n<p>2019中國國際工業博覽會</p>\n<p>2019中國國際工業博覽會</p>\n<p>2019中國國際工業博覽會</p>\n<p>2019中國國際工業博覽會</p>\n<p>2019中國國際工業博覽會</p>",
+   "gallery": [
+    {
+     "src": "img/m/b95e29c906.jpg",
+     "w": 1188,
+     "h": 890
+    },
+    {
+     "src": "img/m/fa3ab76567.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/33c746e770.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/3e33bd924c.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/841c4b4dae.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/71a6f3d2ca.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/b4491c525e.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/c99976c240.jpg",
+     "w": 1600,
+     "h": 1198
+    },
+    {
+     "src": "img/m/307c6ad369.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/255af66aa5.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/95458d2fe9.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/86be8210f1.jpg",
+     "w": 1600,
+     "h": 1198
+    },
+    {
+     "src": "img/m/59ff121fdf.jpg",
+     "w": 1600,
+     "h": 900
+    }
+   ],
+   "thumb": {
+    "src": "img/m/d71cabcea4.jpg",
+    "w": 1108,
+    "h": 572
+   },
+   "excerpt": ""
+  },
+  "news-detail11.html": {
+   "old": "news-detail11.html",
+   "title": "2019台中工具機展|圓華油品金屬加工油-展後花絮",
+   "date": "2019-11-13",
+   "cover": {
+    "src": "img/m/801d8a1dcf.jpg",
+    "w": 1108,
+    "h": 572
+   },
+   "html": "<h3>公司參展花絮:</h3>\n<p>2019台中工具機展</p>\n<p>2019台中工具機展</p>\n<p>2019台中工具機展</p>\n<p>2019台中工具機展</p>\n<p>2019台中工具機展</p>\n<p>2019台中工具機展</p>\n<p>2019台中工具機展</p>\n<p>2019台中工具機展</p>\n<p>2019台中工具機展</p>\n<p>2019台中工具機展</p>",
+   "gallery": [
+    {
+     "src": "img/m/487e1d3e6c.jpg",
+     "w": 1108,
+     "h": 1478
+    },
+    {
+     "src": "img/m/7b5fc131fd.jpg",
+     "w": 720,
+     "h": 960
+    },
+    {
+     "src": "img/m/cefb46314a.jpg",
+     "w": 720,
+     "h": 960
+    },
+    {
+     "src": "img/m/af9ff01626.jpg",
+     "w": 1068,
+     "h": 1532
+    },
+    {
+     "src": "img/m/45e4ee3636.jpg",
+     "w": 1108,
+     "h": 1478
+    },
+    {
+     "src": "img/m/ca9c158e6b.jpg",
+     "w": 1108,
+     "h": 1478
+    },
+    {
+     "src": "img/m/476478b13f.jpg",
+     "w": 1108,
+     "h": 1478
+    },
+    {
+     "src": "img/m/c1967be704.jpg",
+     "w": 1108,
+     "h": 1478
+    },
+    {
+     "src": "img/m/df41918d04.jpg",
+     "w": 960,
+     "h": 720
+    },
+    {
+     "src": "img/m/940e8eb041.jpg",
+     "w": 1478,
+     "h": 1108
+    }
+   ],
+   "thumb": {
+    "src": "img/m/801d8a1dcf.jpg",
+    "w": 1108,
+    "h": 572
+   },
+   "excerpt": "11月7日(四)至11日(一) 在「大台中國際會展中心」盛大展出 經濟日報為促進機械產業發展，2079台中工具機展將完整呈現國內機械業、工業4.0及智慧機械能量與產業鏈，精銳盡出，人氣爆棚，盛況空前；「2019台中工具機展」將延續上屆熱潮並擴大整合上、中、下游及周邊產業，完整展現機械產業鏈，進而帶動整體產業發產，促進資本市場更加活絡，歡迎各界共襄盛舉。"
+  },
+  "news-detail12.html": {
+   "old": "news-detail12.html",
+   "title": "2020高雄自動化工業展～|圓華油品廢水處理設備-切削油",
+   "date": "2019-11-15",
+   "cover": {
+    "src": "img/m/2385f8f05e.jpg",
+    "w": 1600,
+    "h": 610
+   },
+   "html": "<p>一年一次，南臺灣最大工業展\n南台灣最大規模自動化工業展，高雄展覽館兩館900多個攤位，2020年將於 3 月 25 日(三)至 28 日(六)在高雄展覽館盛大展出。\n產業交流，前進高雄工業聚落\n經濟日報常年深耕地方產業，每年的高雄自動化工業展， 為一場提供高度密集技術和新知的展覽，提供業者一個高質量的展示平台， 吸引上萬精準買主群聚高雄，前進高雄產業聚落。</p>",
+   "gallery": [],
+   "thumb": {
+    "src": "img/m/2385f8f05e.jpg",
+    "w": 1600,
+    "h": 610
+   },
+   "excerpt": "一年一次，南臺灣最大工業展 南台灣最大規模自動化工業展，高雄展覽館兩館900多個攤位，2020年將於 3 月 25 日(三)至 28 日(六)在高雄展覽館盛大展出。 產業交流，前進高雄工業聚落 經濟日報常年深耕地方產業，每年的高雄自動化工業展， 為一場提供高度密集技術和新知的展覽，提供業者一個高質量的展示平台， 吸引上萬精準買主群聚高雄，前進高雄產業聚落。"
+  },
+  "news-detail13.html": {
+   "old": "news-detail13.html",
+   "title": "TMTS 2020第六屆台灣國際工具機展～|圓華油品廢水處理設備-切削油",
+   "date": "2019-11-15",
+   "cover": {
+    "src": "img/m/813a76d049.png",
+    "w": 680,
+    "h": 250
+   },
+   "html": "<p>展覽名稱\nTMTS 2020\n第六屆台灣國際工具機展\n展覽日期 2020年11月10日(星期二) 至 14日(星期六) 展覽時間 09:00 a.m. ‐ 05:00 p.m 主辦單位 台灣區工具機暨零組件工業同業公會（TMBA） 合辦單位 臺中市政府 贊助及支持單位\n經濟部國際貿易局\n本展覽榮獲經濟部國際貿易局「推動國際會議及展覽在臺辦理計畫」補助\n展覽地點 台中烏日高鐵特區 展示總面積\n預計 91,000 m2\n展出規模\n預計 720家廠商 4,300個攤位 (38,700 m2)\n預計參觀人數\n86,000人（國內 82,500, 國外 3,500）\n展出內容\n● 金屬切削工具機、金屬成型工具機\n● 工具機零件、組件、配件、流體傳動、電控系統及周邊設備\n● 刀具、夾治具、工具、量測與檢驗設備\n● 智慧製造系統、工業機器人、控制設備及及相關軟體(CAD、CAM等)\n● 其他與工具機相關設備、材料、技術以及資訊</p>",
+   "gallery": [],
+   "thumb": {
+    "src": "img/m/813a76d049.png",
+    "w": 680,
+    "h": 250
+   },
+   "excerpt": "展覽名稱 TMTS 2020 第六屆台灣國際工具機展 展覽日期 2020年11月10日(星期二) 至 14日(星期六) 展覽時間 09:00 a.m. ‐ 05:00 p.m 主辦單位 台灣區工具機暨零組件工業同業公會（TMBA） 合辦單位 臺中市政府 贊助及支持單位 經濟部國際貿易局 本展覽榮獲經濟部國際貿易局「推動國際會議及展覽在臺辦理計畫」補助 展覽地點 台中烏日高鐵特區 展示總面積 預計 91,000 m2 展出規模 預計 720家廠商 4,300個攤位 (38,700 m2) 預計參觀人數 86,000人（國內 82,500, 國外 3,500） 展出內容 ● 金屬切削工具機、金屬成型工具機 ● 工具機零件、組件、配件、流體傳動、電控系統及周邊設備 ● 刀具、夾治具、工具、量測與檢驗設備 ● 智慧製造系統、工業機器人、控制設備及及相關軟體(CAD、CAM等) ● 其他與工具機相關設備、材料、技術以及資訊"
+  },
+  "news-detail14.html": {
+   "old": "news-detail14.html",
+   "title": "《ISO認證》圓華油品通過 ISO 9001:2015-國際品質管理系統認證",
+   "date": "2020-05-12",
+   "cover": {
+    "src": "img/m/89ad4559f3.jpg",
+    "w": 775,
+    "h": 255
+   },
+   "html": "<p>\n<a href=\"files/iso-9001-2015-zh.pdf\" rel=\"noopener\" target=\"_blank\"><img alt=\"圓華油品通過 ISO-9001-2015-國際品質管理系統認證-圓華油品-中文版\" decoding=\"async\" loading=\"lazy\" src=\"img/m/0431943c29.jpg\" width=\"350\"/></a>\n<a href=\"files/iso-9001-2015-en.pdf\" rel=\"noopener\" target=\"_blank\"><img alt=\"圓華油品通過 ISO-9001-2015-國際品質管理系統認證-圓華油品-英文版\" decoding=\"async\" height=\"495\" loading=\"lazy\" src=\"img/m/3e5ce83218.jpg\" width=\"350\"/></a>\n</p>\n<p>圓華油品創立於1977年，主要生產製造及銷售工業潤滑油、切削油等產品；成為日本第一品牌SAN-I yushiro金屬加工油品台灣區總經銷，同時經銷各大品牌工業潤滑油。\n圓華油品為了在此行業持續精進，並於2019年取得新版ISO 9001:2015國際品質管理系統認證，將有助於確保所有客戶均能獲得一致的優質產品和服務。 </p>\n<p>\n圓華油品更以團隊合作、產品創新及顧客第一的信念，提供高品質、高性能、穩定性佳且通過驗證的產品，同時產品皆檢附有國內檢驗SGS認證資料，歐盟認證Reach、 RoHs、COA認證資料表。 </p>\n<p>\n圓華油品無論在研發，製造，甚至服務，皆以綠色概念為主軸，期許對地球的汙染降至最低，共創優質的環境與經濟!\n我們相信唯有提供優質的品質與服務，才能夠確保客戶持續增進利潤與事業穩健發展。\n</p> <p>\n<img alt=\"圓華油品通過 SGS 認證\" decoding=\"async\" loading=\"lazy\" src=\"img/m/1a12e97a2f.jpg\" width=\"254\"/>\n<img alt=\"圓華油品通過 reach 認證\" decoding=\"async\" height=\"227\" loading=\"lazy\" src=\"img/m/abffc5b60c.jpg\" width=\"254\"/>\n<img alt=\"圓華油品通過 rohs 認證\" decoding=\"async\" height=\"227\" loading=\"lazy\" src=\"img/m/6a0c9aa31c.jpg\" width=\"254\"/> </p>",
+   "gallery": [],
+   "thumb": {
+    "src": "img/m/89ad4559f3.jpg",
+    "w": 775,
+    "h": 255
+   },
+   "excerpt": "圓華油品更以團隊合作、產品創新及顧客第一的信念，提供高品質、高性能、穩定性佳且通過驗證的產品，同時產品皆檢附有國內檢驗SGS認證資料，歐盟認證Reach、 RoHs、COA認證資料表。"
+  },
+  "news-detail15.html": {
+   "old": "news-detail15.html",
+   "title": "【2020年 台中工具機展】圓華油品展出工業用切削液/廢水處理設備",
+   "date": "2020-08-10",
+   "cover": {
+    "src": "img/m/1afedf92e9.jpg",
+    "w": 793,
+    "h": 385
+   },
+   "html": "<h2>\n展覽日期11 / 12 - 11 / 16 四 一 9 : 30 - 17 : 00 ( 最後一天至16 : 00 )\n</h2>\n<p>中部地區為台灣機械產業大本營，隨著台灣機械工藝的不斷精進、競爭力大幅提\n升，為協助業者拓展行銷與國際貿易，促使相關產業升級發展，政府單位也積極成立\n「中台灣產業4.0產官學研聯盟」，藉由生產力4.0技術提升台灣工具機產業，更邁向\n智慧機械製造。\n<p>經濟日報憑藉於自動化工業展的豐富經驗，除了扮演專業報導的媒體角色，善盡\n媒體職責，更提供製造產業一個設備完善且質量豐富的展覽平台。為因應產業發展及\n資源整合，「2020台中工具機展」將在11月12日至16日登場，齊心協助台灣機械製\n造相關業者，發揚品質優良的產品技術，提昇產品競爭力，促進產業交流，促進技術\n交流及拓展市場創造商機。</p>\n<img alt=\"【2020年 台中工具機展】圓華油品展出工業用切削液/廢水處理設備\" decoding=\"async\" loading=\"lazy\" src=\"img/m/ba05756db2.jpg\" width=\"800\"/>\n<img alt=\"【2020年 台中工具機展】圓華油品展出工業用切削液/廢水處理設備\" decoding=\"async\" height=\"1067\" loading=\"lazy\" src=\"img/m/851b901795.jpg\" width=\"800\"/>\n<img alt=\"【2020年 台中工具機展】圓華油品展出工業用切削液/廢水處理設備\" decoding=\"async\" height=\"1131\" loading=\"lazy\" src=\"img/m/c823e3f2ef.jpg\" width=\"800\"/>\n<img alt=\"【2020年 台中工具機展】圓華油品展出工業用切削液/廢水處理設備\" decoding=\"async\" height=\"1142\" loading=\"lazy\" src=\"img/m/96f7c85023.jpg\" width=\"800\"/>\n<img alt=\"【2020年 台中工具機展】圓華油品展出工業用切削液/廢水處理設備\" decoding=\"async\" height=\"1131\" loading=\"lazy\" src=\"img/m/faf6d62405.jpg\" width=\"800\"/>\n</p>",
+   "gallery": [],
+   "thumb": {
+    "src": "img/m/1afedf92e9.jpg",
+    "w": 793,
+    "h": 385
+   },
+   "excerpt": "11月12日(四)至16日(一) 在「大台中國際會展中心」盛大展出 ， 中部地區為台灣機械產業大本營，隨著台灣機械工藝的不斷精進、競爭力大幅提升，為協助業者拓展行銷與國際貿易，促使相關產業升級發展，政府單位也積極成立「中台灣產業4.0產官學研聯盟」，藉由生產力4.0技術提升台灣工具機產業，更邁向智慧機械製造。"
+  },
+  "news-detail16.html": {
+   "old": "news-detail16.html",
+   "title": "【2020年 TIAE 2020 台中工具機展】圓華油品金屬加工油-展後花絮",
+   "date": "2020-11-13",
+   "cover": {
+    "src": "img/m/f50aea604b.jpg",
+    "w": 1478,
+    "h": 1108
+   },
+   "html": "<h3>公司參展花絮:</h3>\n<p>【2020年 TIAE 2020 台中工具機展】圓華油品金屬加工油-展後花絮</p>\n<p>【2020年 TIAE 2020 台中工具機展】圓華油品金屬加工油-展後花絮</p>\n<p>【2020年 TIAE 2020 台中工具機展】圓華油品金屬加工油-展後花絮</p>\n<p>【2020年 TIAE 2020 台中工具機展】圓華油品金屬加工油-展後花絮</p>\n<p>【2020年 TIAE 2020 台中工具機展】圓華油品金屬加工油-展後花絮</p>\n<p>【2020年 TIAE 2020 台中工具機展】圓華油品金屬加工油-展後花絮</p>\n<p>【2020年 TIAE 2020 台中工具機展】圓華油品金屬加工油-展後花絮</p>\n<p>【2020年 TIAE 2020 台中工具機展】圓華油品金屬加工油-展後花絮</p>\n<p>【2020年 TIAE 2020 台中工具機展】圓華油品金屬加工油-展後花絮</p>",
+   "gallery": [
+    {
+     "src": "img/m/f50aea604b.jpg",
+     "w": 1478,
+     "h": 1108
+    },
+    {
+     "src": "img/m/e9ae61d873.jpg",
+     "w": 1478,
+     "h": 1108
+    },
+    {
+     "src": "img/m/ff4763e3c5.jpg",
+     "w": 1478,
+     "h": 1108
+    },
+    {
+     "src": "img/m/9a3b42fff2.jpg",
+     "w": 1312,
+     "h": 1248
+    },
+    {
+     "src": "img/m/fa9ea989a9.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/bba3c9d80f.jpg",
+     "w": 1478,
+     "h": 1108
+    },
+    {
+     "src": "img/m/d59ea7e0c3.jpg",
+     "w": 1600,
+     "h": 2132
+    },
+    {
+     "src": "img/m/a93ba5dece.jpg",
+     "w": 1600,
+     "h": 2132
+    },
+    {
+     "src": "img/m/c57b7fb708.jpg",
+     "w": 1600,
+     "h": 2132
+    }
+   ],
+   "thumb": {
+    "src": "img/m/f50aea604b.jpg",
+    "w": 1478,
+    "h": 1108
+   },
+   "excerpt": "11月12日(四)至16日(一) 在「大台中國際會展中心」圓華油品參與工業切削油及水溶性切削液的各項展出，深貨客戶信賴，同時展出廢油廢水處理設備相關工業用機械， 中部地區為台灣機械產業大本營，隨著台灣機械工藝的不斷精進、競爭力大幅提升，為協助業者拓展行銷與國際貿易，促使相關產業升級發展，政府單位也積極成立「中台灣產業4.0產官學研聯盟」，藉由生產力4.0技術提升台灣工具機產業，更邁向智慧機械製造。"
+  },
+  "news-detail17.html": {
+   "old": "news-detail17.html",
+   "title": "【2021年 台灣國際五金工具展】圓華油品展出工業用切削液/廢水處理設備",
+   "date": "2020-11-15",
+   "cover": {
+    "src": "img/m/8ad89e4086.jpg",
+    "w": 1024,
+    "h": 468
+   },
+   "html": "<p>圓華油品將參與「2021台灣國際五金工具展」將由台灣手工具工業同業公會主導，與經濟日報聯手合作，展期預定於2021年7月15~17 日，主要展出: 廢水處理設備及相關工業用金屬切削油/液, 孢含水溶性及油性，地點在台中國際展覽館舉行。「2021台灣國際五金工具展」展區將規畫為，包括：工具暨配件、鎖類、緊固件暨扣件、建材、園藝暨戶外休閒用品、汽車修護用品暨車用配件、五金機械暨廠房設備、安全防護等八大專區,預計將爲台灣媒合不少商機！近期早鳥價截止日於2020.11/16，有計劃參展的廠商，請把握商機！！\n</p>",
+   "gallery": [],
+   "thumb": {
+    "src": "img/m/8ad89e4086.jpg",
+    "w": 1024,
+    "h": 468
+   },
+   "excerpt": "圓華油品將參與「2021台灣國際五金工具展」將由台灣手工具工業同業公會主導，與經濟日報聯手合作，展期預定於2021年7月15~17 日，主要展出: 廢水處理設備及相關工業用金屬切削油/液, 孢含水溶性及油性，地點在台中國際展覽館舉行。「2021台灣國際五金工具展」展區將規畫為，包括：工具暨配件、鎖類、緊固件暨扣件、建材、園藝暨戶外休閒用品、汽車修護用品暨車用配件、五金機械暨廠房設備、安全防護等八大專區,預計將爲台灣媒合不少商機！近期早鳥價截止日於2020.11/16，有計劃參展的廠商，請把握商機！！"
+  }
+ },
+ "news_orphans": [
+  {
+   "old": "news-detail5.html",
+   "title": "2019中國國際工業博覽會|圓華油品金屬加工油-展後花絮",
+   "date": "2019-10-01",
+   "thumb": {
+    "src": "img/m/d71cabcea4.jpg",
+    "w": 1108,
+    "h": 572
+   },
+   "excerpt": ""
+  },
+  {
+   "old": "news-detail5.html",
+   "title": "感謝工商時報報導-綠色時代來臨～經濟趨勢、環保意識～|圓華油品廢水處理設備",
+   "date": "2018-12-01",
+   "thumb": {
+    "src": "img/m/af3f6e688c.jpg",
+    "w": 1318,
+    "h": 802
+   },
+   "excerpt": "由工具機暨零組件公會（TMBA）主辦的第五屆「台灣國際工具機展（TMTS 2018）」，已於本月11日閉幕。屹立台灣油品市場逾40年的圓華油品，為了響應政府環保政策，協助台灣工業廢水減量，在本屆展會中推出最新的COSMO TECH水溶性廢液處理裝置，透過減壓蒸餾方式可將廢液濃縮為原本的1/20，不僅可協助企業符合環保規範，還可大幅降低廢液處理成本。"
+  },
+  {
+   "old": "news-detail5.html",
+   "title": "2019台中工具機展|圓華油品金屬加工油",
+   "date": "2018-10-01",
+   "thumb": {
+    "src": "img/m/8a01f8ce55.jpg",
+    "w": 791,
+    "h": 286
+   },
+   "excerpt": "11月7日(四)至11日(一) 在「大台中國際會展中心」盛大展出 經濟日報為促進機械產業發展，2079台中工具機展將完整呈現國內機械業、工業4.0及智慧機械能量與產業鏈，精銳盡出，人氣爆棚，盛況空前；「2019台中工具機展」將延續上屆熱潮並擴大整合上、中、下游及周邊產業，完整展現機械產業鏈，進而帶動整體產業發產，促進資本市場更加活絡，歡迎各界共襄盛舉。"
+  }
+ ],
+ "albums": [
+  {
+   "old": "exhibition-info-01.html",
+   "title": "2018年台灣國際工具機展覽花絮",
+   "images": [
+    {
+     "src": "img/m/084e4d29e5.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/0146e9fcc5.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/9cf2664f28.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/6416f69008.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/f0ba2c1baf.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/8092948543.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/365cc6745f.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/e557696702.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/5811e4ce1f.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/b495c58c02.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/a2e8eeeebc.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/9315074057.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/f275602df5.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/6b2634cf92.jpg",
+     "w": 1000,
+     "h": 1334
+    },
+    {
+     "src": "img/m/77bd5b826a.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/ea205f44ce.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/6b3b74301e.jpg",
+     "w": 1000,
+     "h": 1334
+    },
+    {
+     "src": "img/m/112b9c6129.jpg",
+     "w": 1000,
+     "h": 1334
+    },
+    {
+     "src": "img/m/0d5f7d74ed.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/adfe0be84a.jpg",
+     "w": 1000,
+     "h": 1334
+    },
+    {
+     "src": "img/m/36d54bb765.jpg",
+     "w": 1000,
+     "h": 1334
+    },
+    {
+     "src": "img/m/b7eef3a92f.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/ccf0708b0e.jpg",
+     "w": 1000,
+     "h": 1333
+    },
+    {
+     "src": "img/m/052c9b6503.jpg",
+     "w": 1000,
+     "h": 1334
+    },
+    {
+     "src": "img/m/a56243ae09.jpg",
+     "w": 1000,
+     "h": 1335
+    }
+   ],
+   "cover": {
+    "src": "img/m/9c74ca0595.jpg",
+    "w": 1000,
+    "h": 826
+   }
+  },
+  {
+   "old": "exhibition-info-02.html",
+   "title": "2019年台南工具機大展 展覽花絮",
+   "images": [
+    {
+     "src": "img/m/031344a3fa.jpg",
+     "w": 1000,
+     "h": 1335
+    },
+    {
+     "src": "img/m/11f7ef64b1.jpg",
+     "w": 1000,
+     "h": 1215
+    },
+    {
+     "src": "img/m/d35014ee52.jpg",
+     "w": 1000,
+     "h": 1335
+    },
+    {
+     "src": "img/m/442bedd953.jpg",
+     "w": 1000,
+     "h": 749
+    },
+    {
+     "src": "img/m/8874e2d240.jpg",
+     "w": 1000,
+     "h": 1335
+    },
+    {
+     "src": "img/m/35867c1d8c.jpg",
+     "w": 1000,
+     "h": 749
+    },
+    {
+     "src": "img/m/dbc4294ff6.jpg",
+     "w": 1000,
+     "h": 1335
+    },
+    {
+     "src": "img/m/61161b6d7c.jpg",
+     "w": 1000,
+     "h": 749
+    },
+    {
+     "src": "img/m/d3287ed324.jpg",
+     "w": 1000,
+     "h": 1335
+    },
+    {
+     "src": "img/m/a4291a2b28.jpg",
+     "w": 1000,
+     "h": 749
+    },
+    {
+     "src": "img/m/08193b9143.jpg",
+     "w": 1000,
+     "h": 749
+    },
+    {
+     "src": "img/m/612c9675ed.jpg",
+     "w": 1000,
+     "h": 1335
+    },
+    {
+     "src": "img/m/e8d39fe47c.jpg",
+     "w": 1000,
+     "h": 906
+    },
+    {
+     "src": "img/m/dd7afb8ab1.jpg",
+     "w": 1000,
+     "h": 938
+    },
+    {
+     "src": "img/m/583d170360.jpg",
+     "w": 1000,
+     "h": 1155
+    },
+    {
+     "src": "img/m/04658ec228.jpg",
+     "w": 1000,
+     "h": 1335
+    },
+    {
+     "src": "img/m/80933a80db.jpg",
+     "w": 1000,
+     "h": 749
+    },
+    {
+     "src": "img/m/0e66226a13.jpg",
+     "w": 1000,
+     "h": 1335
+    }
+   ],
+   "cover": {
+    "src": "img/m/e8d39fe47c.jpg",
+    "w": 1000,
+    "h": 906
+   }
+  },
+  {
+   "old": "exhibition-info-03.html",
+   "title": "2019中國國際工業博覽會 展覽花絮",
+   "images": [
+    {
+     "src": "img/m/fa3ab76567.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/33c746e770.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/3e33bd924c.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/841c4b4dae.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/71a6f3d2ca.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/b4491c525e.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/c99976c240.jpg",
+     "w": 1600,
+     "h": 1198
+    },
+    {
+     "src": "img/m/307c6ad369.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/255af66aa5.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/95458d2fe9.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/86be8210f1.jpg",
+     "w": 1600,
+     "h": 1198
+    }
+   ],
+   "cover": {
+    "src": "img/m/b95e29c906.jpg",
+    "w": 1188,
+    "h": 890
+   }
+  },
+  {
+   "old": "exhibition-info-04.html",
+   "title": "2019台中工具機展 展覽花絮",
+   "images": [
+    {
+     "src": "img/m/487e1d3e6c.jpg",
+     "w": 1108,
+     "h": 1478
+    },
+    {
+     "src": "img/m/7b5fc131fd.jpg",
+     "w": 720,
+     "h": 960
+    },
+    {
+     "src": "img/m/cefb46314a.jpg",
+     "w": 720,
+     "h": 960
+    },
+    {
+     "src": "img/m/af9ff01626.jpg",
+     "w": 1068,
+     "h": 1532
+    },
+    {
+     "src": "img/m/45e4ee3636.jpg",
+     "w": 1108,
+     "h": 1478
+    },
+    {
+     "src": "img/m/ca9c158e6b.jpg",
+     "w": 1108,
+     "h": 1478
+    },
+    {
+     "src": "img/m/476478b13f.jpg",
+     "w": 1108,
+     "h": 1478
+    },
+    {
+     "src": "img/m/c1967be704.jpg",
+     "w": 1108,
+     "h": 1478
+    },
+    {
+     "src": "img/m/df41918d04.jpg",
+     "w": 960,
+     "h": 720
+    },
+    {
+     "src": "img/m/940e8eb041.jpg",
+     "w": 1478,
+     "h": 1108
+    }
+   ],
+   "cover": {
+    "src": "img/m/487e1d3e6c.jpg",
+    "w": 1108,
+    "h": 1478
+   }
+  },
+  {
+   "old": "exhibition-info-05.html",
+   "title": "2020-高雄展 展覽花絮",
+   "images": [
+    {
+     "src": "img/m/235618371d.jpg",
+     "w": 1000,
+     "h": 635
+    },
+    {
+     "src": "img/m/455ffb4e28.jpg",
+     "w": 1000,
+     "h": 784
+    },
+    {
+     "src": "img/m/e7fc35d40c.jpg",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/m/7a1331a6dd.jpg",
+     "w": 1000,
+     "h": 1333
+    },
+    {
+     "src": "img/m/ee216f30dc.jpg",
+     "w": 1000,
+     "h": 1333
+    },
+    {
+     "src": "img/m/7b6661b175.jpg",
+     "w": 1000,
+     "h": 1333
+    }
+   ],
+   "cover": {
+    "src": "img/m/750c06200e.jpg",
+    "w": 1000,
+    "h": 635
+   }
+  },
+  {
+   "old": "exhibition-info-06.html",
+   "title": "2020年 TIAE 2020 台中工具機展",
+   "images": [
+    {
+     "src": "img/m/f50aea604b.jpg",
+     "w": 1478,
+     "h": 1108
+    },
+    {
+     "src": "img/m/e9ae61d873.jpg",
+     "w": 1478,
+     "h": 1108
+    },
+    {
+     "src": "img/m/ff4763e3c5.jpg",
+     "w": 1478,
+     "h": 1108
+    },
+    {
+     "src": "img/m/9a3b42fff2.jpg",
+     "w": 1312,
+     "h": 1248
+    },
+    {
+     "src": "img/m/fa9ea989a9.jpg",
+     "w": 1600,
+     "h": 1201
+    },
+    {
+     "src": "img/m/bba3c9d80f.jpg",
+     "w": 1478,
+     "h": 1108
+    },
+    {
+     "src": "img/m/d59ea7e0c3.jpg",
+     "w": 1600,
+     "h": 2132
+    },
+    {
+     "src": "img/m/a93ba5dece.jpg",
+     "w": 1600,
+     "h": 2132
+    },
+    {
+     "src": "img/m/c57b7fb708.jpg",
+     "w": 1600,
+     "h": 2132
+    }
+   ],
+   "cover": {
+    "src": "img/m/f50aea604b.jpg",
+    "w": 1478,
+    "h": 1108
+   }
+  }
+ ],
+ "knowledge": [
+  {
+   "old": "oil-knowledge-info-01.html",
+   "title": "切削油劑之使用管理 Part-1】圓華油品切削油液專業/廢水處理設備",
+   "date": "2020-08-10",
+   "html": "<p>\n<table class=\"tbl\">\n<tr>\n<td></td>\n<td><p>水溶性</p></td>\n<td><p>不水溶性</p></td>\n</tr>\n<tr>\n<td><p>油槽管理 <br/>\n(一般性檢測專案)</p></td>\n<td><p>1.外觀檢查 <br/>\n2.有無臭氣發生 <br/>\n3.測 pH 值 <br/>\n4.量倍率 <br/>\n5.檢驗防銹性 <br/>\n6.化驗生菌數 </p></td>\n<td><p>1.外觀檢查 <br/>\n2.比重 <br/>\n3.黏度 <br/>\n4.引火點 </p></td>\n</tr>\n<tr>\n<td><p>油槽管理 <br/>\n(其他檢測項目)</p></td>\n<td><p>1.化驗它油混入量 <br/>\n2.氯離子含量 <br/>\n3.硬度</p></td>\n<td><p>1.酸價 <br/>\n2.皂化價 <br/>\n3.水份 <br/>\n4.鐵份 <br/>\n5.sludge<br/>\n6.添加劑含有量 </p></td>\n</tr>\n<tr>\n<td><p>補給</p></td>\n<td><p>1.規定倍率 <br/>\n2.實際補給稀釋液 <br/>\n3.作補給記錄</p></td>\n<td><p>1.作補給記錄 </p></td>\n</tr>\n<tr>\n<td><p>它油混入</p></td>\n<td><p>1. 潤滑油 , 液壓油等循環系統 的機械保養 <br/>\n2. 潤滑油 , 液壓油的補給量確 認 <br/>\n3.它油混入,須儘早排除 <br/>\n4.選用抗乳化性良好之潤滑油 及液壓油 </p></td>\n<td><p>同左</p></td>\n</tr>\n<tr>\n<td><p>過濾清淨</p></td>\n<td><p>1.濾布,紙帶過濾機 <br/>\n2.磁性分離機 <br/>\n3.遠心分離機 <br/>\n4.切削輸送帶 <br/>\n5.雜油分離器 </p></td>\n<td><p>1.磁性分離機 <br/>\n2.遠心分離機 <br/>\n3.切削輸送帶 </p></td>\n</tr>\n<tr>\n<td>\n<p>腐敗對策</p></td>\n<td><p>1.提高使用濃度 <br/>\n2.防腐劑,pH 向上劑適量添加 <br/>\n3.更換使用液</p></td>\n<td><p> ─ </p></td>\n</tr>\n</table>\n</p>",
+   "excerpt": "切削油劑之使用管理（Ｐａｒｔ１） 水溶性 不水溶性 油槽管理 (一般性檢測專案) 1.外觀檢查 2.有無臭氣發生 3.測 pH 值 4.量倍率 5.檢驗防銹性 6.化驗生菌數 1.外觀檢查 2.比重 3.黏度 4.引火點 油槽管理 (其他檢測項目) 1.化驗它油混入量 2.氯離子含量 3.硬度 1.酸價 2.皂化價 3.水份 4.鐵份 5.sludge 6.添加劑含有量"
+  },
+  {
+   "old": "oil-knowledge-info-02.html",
+   "title": "水溶性切削液之更液過程-切削油劑之使用管理 Part-2",
+   "date": "2020-07-11",
+   "html": "<h3>洗淨殺菌</h3>\n<p>1.油槽內切削液完全去除。2.槽內切屑去除3.生產機械洗淨殺菌4.油槽管路清洗殺菌</p>\n<h3>稀釋水</h3>\n<p>1.測 PH 值 2.測水硬度 3.測生菌數。</p>\n<h3>稀釋方法</h3>\n<p>1.以原油投入稀釋水中2.充分攪拌混合液3.水槽運轉迴圈。</p>\n<h3>稀釋倍率</h3>\n<p>1.推薦倍率之值型</p>\n<h3>浮上油汙及細粉之除去</h3>\n<h3>更換後一般性狀之檢測</h3>",
+   "excerpt": "洗淨殺菌-1.油槽內切削液完全去除2.槽內切屑去除3.生產機械洗淨殺菌4.油槽管路清洗殺菌。稀釋水-1.測 PH 值 2.測水硬度 3.測生菌數。稀釋方法-1.以原油投入稀釋水中2.充分攪拌混合液3.水槽運轉迴圈。稀釋倍率1.推薦倍率之值型。浮上油汙及細粉之除去。更換後一般性狀之檢測"
+  },
+  {
+   "old": "oil-knowledge-info-03.html",
+   "title": "新切削液添加：五大要項嚴守-切削油劑之使用管理 Part-3",
+   "date": "2020-08-10",
+   "html": "<h3>(a) 先加水，再加原液</h3>\n<h3> (b) 盡量攪拌均勻</h3>\n<p><img alt=\"\" decoding=\"async\" loading=\"lazy\" src=\"img/m/9283358d32.jpg\" width=\"653\"/></p>\n<h3>(c)標準濃度控制</h3>\n<table class=\"tbl\">\n<tr>\n<td><p>濃 度 </p></td>\n<td><p>淡 </p></td>\n<td><p>濃 </p></td>\n</tr>\n<tr>\n<td><p>切削性 </p></td>\n<td><p>不良 </p></td>\n<td><p>良 </p></td>\n</tr>\n<tr>\n<td><p>耐腐性 </p></td>\n<td><p>不良 </p></td>\n<td><p>良 </p></td>\n</tr>\n<tr>\n<td><p>防銹性 </p></td>\n<td><p>不良 </p></td>\n<td><p>良 </p></td>\n</tr>\n<tr>\n<td><p>消泡性 </p></td>\n<td><p>良 </p></td>\n<td><p>不良 </p></td>\n</tr>\n<tr>\n<td><p>刺激性 </p></td>\n<td><p>弱 </p></td>\n<td><p>強 </p></td>\n</tr>\n</table>\n<h3>(d)新切削液以較高濃度添加，因舊油殘留，易造成新油之汙染，顧已較高濃度使用，盡量保持新油之品質。</h3>",
+   "excerpt": "(a) 先加水，再加原液，(b) 盡量攪拌均勻；(c)標準濃度控制, (d)新切削液以較高濃度添加，因舊油殘留，易造成新油之汙染，顧已較高濃度使用，盡量保持新油之品質。"
+  },
+  {
+   "old": "oil-knowledge-info-04.html",
+   "title": "切削液日常管理-切削油劑之使用管理 Part-4",
+   "date": "2020-07-29",
+   "html": "<h3>為延長切削液使用壽命,除上述兩大要項外,平日之管 理是非常重要的,在預防及治療的工作上,必需要確實執行下列各項要點:</h3>\n<h4>切削液補給方法</h4>\n<p>週一~周五每日添加原液20L。週一~週四水400L。週五每日添加源液100L</p>\n<p><img alt=\"\" decoding=\"async\" loading=\"lazy\" src=\"img/m/edf4b29d2a.jpg\" width=\"910\"/></p>\n<h4>雜物雜油之去除</h4>\n<table class=\"tbl\">\n<tr>\n<td><p>影響度／項目 </p></td>\n<td><p>切屑類 </p></td>\n<td><p>切屑大小 </p></td>\n<td><p>切屑多少 </p></td>\n</tr>\n<tr>\n<td><p>大<br/>\n</p>\n<p>上圖為切屑與<strong>切削液</strong>之相對關係，為避免劣化促進，切屑去除是必要工作。 </p>\n影響 小\n</td>\n<td><p>鑄鐵 <br/>\n</p>\n<br/>\n<p>非鋼鐵類 </p></td>\n<td><p>細<br/>\n</p>\n<br/>\n<p>粗</p></td>\n<td><p>多<br/>\n</p>\n<br/>\n<p>少</p></td>\n</tr>\n</table>\n<p>上圖為切屑與切削液之相對關係，為避免劣化促進，切屑去除是必要工作。</p>\n<p><img alt=\"\" decoding=\"async\" loading=\"lazy\" src=\"img/m/34c097d278.jpg\" width=\"910\"/></p>\n<h4>切削液 管理之性狀</h4>\n<table class=\"tbl\">\n<tr>\n<td><p>項 目</p></td>\n<td><p>測 定 目 的</p></td>\n<td><p>管 理 目 標</p></td>\n</tr>\n<tr>\n<td><p>外觀</p></td>\n<td><p>液污濁程度</p></td>\n<td><p>維持新液狀</p></td>\n</tr>\n<tr>\n<td><p>臭氣</p></td>\n<td><p>腐敗判定</p></td>\n<td><p>無腐敗氣</p></td>\n</tr>\n<tr>\n<td><p>濃度</p></td>\n<td><p>性能判定</p></td>\n<td><p>標準倍率 ± 10%</p></td>\n</tr>\n<tr>\n<td><p>pH 值</p></td>\n<td><p>變質判定</p></td>\n<td><p>8 . 5 以上控制</p></td>\n</tr>\n<tr>\n<td><p>他油混入</p></td>\n<td><p>劣化控制</p></td>\n<td><p>10% 以下</p></td>\n</tr>\n<tr>\n<td><p>防銹力</p></td>\n<td><p>防銹判定</p></td>\n<td><p>2 4 h rs</p></td>\n</tr>\n<tr>\n<td><p>生菌數</p></td>\n<td><p>腐敗判定</p></td>\n<td><p>10 3 個以下 </p></td>\n</tr>\n<tr>\n<td><p>原液、水補給</p></td>\n<td><p>濃度控制</p></td>\n<td></td>\n</tr>\n<tr>\n<td><p>其他 油類</p></td>\n<td><p>他油混入</p></td>\n<td></td>\n</tr>\n</table>\n<p><img alt=\"pH值與生菌之相關性\" decoding=\"async\" loading=\"lazy\" src=\"img/m/8e7e3198b2.jpg\" width=\"352\"/></p>\n<p>pH值與生菌之相關性,明顯得知pH值愈高愈可控制菌數之提高</p>\n<h4>連休對策</h4>\n<p>\n機械在長期停機狀況下,因嫌氣菌量快速增加,切削油/液 劣化速度相對提高,而高溫夏季會更為嚴重。\n因此；1) pH向上劑，靜菌劑適量之添加 <br/>\n2) 濃度必須提高 <br/>\n3) 切削油/液迴圈 <br/>\n為最有效之對策 , 避免 切削油/液劣化\n</p>",
+   "excerpt": "為延長切削液使用壽命,除上述兩大要項外,平日之管 理是非常重要的,在預防及治療的工作上,必需要確實執行下列各項要點量"
+  }
+ ],
+ "faq": {
+  "intro": "我們期望能運用我們在切削油界所累積的實務經驗和完善服務，誠懇為您服務。 您的支持將是圓華繼續立基於油品市場的磐石。若您對於切削油類有任何問題，竭誠歡迎您的來電與指教。",
+  "items": [
+   {
+    "q": "切削液為何會變質發臭",
+    "a": "<p>切削液變質發臭原因之一是細菌〈即為厭氧菌〉，是以礦物油脂肪、防腐蝕劑及乳化劑的成分為養分。加工時，工件上的異物油及機台的滑道油都會流入水槽內，並且浮在切削液表面，使其與空氣阻隔，減少了切削液的含氧量。變成厭氧菌生長的有利條件。</p>"
+   },
+   {
+    "q": "切削液起泡問題",
+    "a": "<p>一般切削液容易產生泡沫原因多數為水與切削油比例不佳才容易造成，再者，請注意泡沫是從何處產生，若是由噴嘴噴出就有泡沫，多半是抽水馬達抽進空氣造成，若是噴到工件才產生泡沫，可以把濃度提高至6%~7%試試看。若是泡沫從水槽中溢出，請清理水槽內的鐵削、鋁削或其他金屬削。這方面可像油商反應要求改善。</p>"
+   },
+   {
+    "q": "切削液分離問題",
+    "a": "<p>1. 水質問題：台灣加工廠大多是用地下水跟切削油混合。而地下水質硬度高，容易造成分離。</p>\n<p>2. 加工材質：非鐵金屬之細削浸泡在水槽內，會釋放出化學元素容易使切削使用液變硬導致分離。例：加工鋁件時，鋁削浸泡在水槽內，時間久了會釋放出鋁離子與鎂離子，這些化學元素都會導致切削液變硬。\n</p>"
+   },
+   {
+    "q": "切削液乳化問題",
+    "a": "<p>加工機台在加工時，潤滑軌道用的軌道油或是工件上的異物油會流入水槽內，時間一久，軌道油或異物油會和切削液會互相結合，稱為二次乳化。</p>"
+   },
+   {
+    "q": "切削液顏色產生變化問題",
+    "a": "<p>1. 軌道油或異物油流入切削液中而相互結合</p>\n<p>2. 加工材質：例如：加工材質為銅，銅削浸泡在切削液中會釋放出銅綠，使切削液變色。</p>\n<p>3. 切削液開始腐敗\n</p>"
+   },
+   {
+    "q": "切削液對鐵金屬或非鐵金屬加工產生生鏽氧化問題",
+    "a": "<p>1. 切削使用液的濃度不夠導致生鏽或氧化。</p>\n<p>2. 切削使用液開始腐敗，細菌開始滋生，讓使用液防鏽性下降。</p>\n<p>3. 鐵金屬加工完，可能會因周遭環境的水氣太多或防鏽過程沒做好而導致生鏽。</p>\n<p>4. 非鐵金屬加工時數過長，加上切削液不夠溫和，會導致氧化。</p>\n<p>5. 非鐵金屬材質在鑄造過程中或原料有問題，所以在加工時，會出現氧化問題。\n</p>"
+   },
+   {
+    "q": "切削液對加工機台之清潔性問題",
+    "a": "<p>1. 切削液里所含的礦物油比例高，容易在機台內外殘留油垢。</p>\n<p>2. 切削液成份中的潤滑脂，乾了之後容易讓加工產生細削殘留在機台內。</p>\n<p>3. 切削液乳化程度高，容易在機台內外殘留油垢。</p>"
+   }
+  ]
+ },
+ "oil_table": [
+  {
+   "machine": "6-8軸自動車床",
+   "rows": [
+    [
+     "碳素鋼",
+     "EC-202, NO.3P"
+    ],
+    [
+     "合金鋼",
+     "EC-202, UH-75"
+    ],
+    [
+     "不銹鋼",
+     "EC-202, NO.3P"
+    ],
+    [
+     "可鍛鑄鐵",
+     "EC-202, NO.3P"
+    ],
+    [
+     "鋁合金",
+     "EC-202, NO.3P"
+    ],
+    [
+     "銅合金",
+     "EC-202, NO.3P"
+    ],
+    [
+     "光學鏡片",
+     "N/A"
+    ]
+   ]
+  },
+  {
+   "machine": "精密自動車床",
+   "rows": [
+    [
+     "碳素鋼",
+     "B-7Z UX-11 UX-55"
+    ],
+    [
+     "合金鋼",
+     "UX-11 B-7Z"
+    ],
+    [
+     "不銹鋼",
+     "UX-11 UX-66"
+    ],
+    [
+     "可鍛鑄鐵",
+     "B-7Z UX-11 UX-55"
+    ],
+    [
+     "鋁合金",
+     "B-7Z UX-11 UX-55"
+    ],
+    [
+     "銅合金",
+     "B-7Z UX-11 UX-55"
+    ],
+    [
+     "光學鏡片",
+     "N/A"
+    ]
+   ]
+  },
+  {
+   "machine": "Mach-ining center",
+   "rows": [
+    [
+     "碳素鋼",
+     "EC-50 UH-75"
+    ],
+    [
+     "合金鋼",
+     "EC-202 UB-755"
+    ],
+    [
+     "不銹鋼",
+     "EC-50 UH-75"
+    ],
+    [
+     "可鍛鑄鐵",
+     "EC-50 UH-75"
+    ],
+    [
+     "鋁合金",
+     "EC-50 UH-75"
+    ],
+    [
+     "銅合金",
+     "EC-50 UH-75"
+    ],
+    [
+     "光學鏡片",
+     "N/A"
+    ]
+   ]
+  },
+  {
+   "machine": "轉造",
+   "rows": [
+    [
+     "碳素鋼",
+     "NO.9"
+    ],
+    [
+     "合金鋼",
+     "UX-11"
+    ],
+    [
+     "不銹鋼",
+     "UX-11 UX-66"
+    ],
+    [
+     "可鍛鑄鐵",
+     "UX-11"
+    ],
+    [
+     "鋁合金",
+     "UX-11"
+    ],
+    [
+     "銅合金",
+     "UX-11"
+    ],
+    [
+     "光學鏡片",
+     "N/A"
+    ]
+   ]
+  },
+  {
+   "machine": "外圍研削",
+   "rows": [
+    [
+     "碳素鋼",
+     "SC-100S SC-300"
+    ],
+    [
+     "合金鋼",
+     "SC-100S SC-300"
+    ],
+    [
+     "不銹鋼",
+     "SC-100S SC-300"
+    ],
+    [
+     "可鍛鑄鐵",
+     "SC-100S SC-300"
+    ],
+    [
+     "鋁合金",
+     "SC-100S SC-300"
+    ],
+    [
+     "銅合金",
+     "SC-100S SC-300"
+    ],
+    [
+     "光學鏡片",
+     "N/A"
+    ]
+   ]
+  },
+  {
+   "machine": "平面研削",
+   "rows": [
+    [
+     "碳素鋼",
+     "SC-25 SC-100S SC-300"
+    ],
+    [
+     "合金鋼",
+     "SC-25 SC-100S SC-300"
+    ],
+    [
+     "不銹鋼",
+     "SC-25 SC-100S SC-300"
+    ],
+    [
+     "可鍛鑄鐵",
+     "SC-25 SC-100S SC-300"
+    ],
+    [
+     "鋁合金",
+     "SC-25 SC-100S SC-300"
+    ],
+    [
+     "銅合金",
+     "SC-25 SC-100S SC-300"
+    ],
+    [
+     "光學鏡片",
+     "N/A"
+    ]
+   ]
+  },
+  {
+   "machine": "內面研削",
+   "rows": [
+    [
+     "碳素鋼",
+     "S-83 A-9 NO.500"
+    ],
+    [
+     "合金鋼",
+     "S-83 A-9 NO.500"
+    ],
+    [
+     "不銹鋼",
+     "S-83 A-9 NO.500"
+    ],
+    [
+     "可鍛鑄鐵",
+     "S-83 A-9 NO.500"
+    ],
+    [
+     "鋁合金",
+     "S-83 A-9 NO.500"
+    ],
+    [
+     "銅合金",
+     "S-83 A-9 NO.500"
+    ],
+    [
+     "光學鏡片",
+     "N/A"
+    ]
+   ]
+  },
+  {
+   "machine": "無蕊研削",
+   "rows": [
+    [
+     "碳素鋼",
+     "SC-25 SC-100S SC-300"
+    ],
+    [
+     "合金鋼",
+     "SC-100S SC-150"
+    ],
+    [
+     "不銹鋼",
+     "SC-25 SC-100S SC-300"
+    ],
+    [
+     "可鍛鑄鐵",
+     "SC-25 SC-100S SC-300"
+    ],
+    [
+     "鋁合金",
+     "SC-25 SC-100S SC-300"
+    ],
+    [
+     "銅合金",
+     "SC-25 SC-100S SC-300"
+    ],
+    [
+     "光學鏡片",
+     "N/A"
+    ]
+   ]
+  },
+  {
+   "machine": "雙頭研削",
+   "rows": [
+    [
+     "碳素鋼",
+     "SC-100S SC-300"
+    ],
+    [
+     "合金鋼",
+     "SC-100S SC-300"
+    ],
+    [
+     "不銹鋼",
+     "SC-100S SC-300"
+    ],
+    [
+     "可鍛鑄鐵",
+     "SC-100S SC-300"
+    ],
+    [
+     "鋁合金",
+     "SC-100S SC-300"
+    ],
+    [
+     "銅合金",
+     "SC-100S SC-300"
+    ],
+    [
+     "光學鏡片",
+     "N/A"
+    ]
+   ]
+  },
+  {
+   "machine": "軋滾研磨",
+   "rows": [
+    [
+     "碳素鋼",
+     "SC-100S SC-300"
+    ],
+    [
+     "合金鋼",
+     "SC-100S SC-300"
+    ],
+    [
+     "不銹鋼",
+     "SC-100S SC-300"
+    ],
+    [
+     "可鍛鑄鐵",
+     "SC-100S SC-300"
+    ],
+    [
+     "鋁合金",
+     "SC-100S SC-300"
+    ],
+    [
+     "銅合金",
+     "SC-100S SC-300"
+    ],
+    [
+     "光學鏡片",
+     "N/A"
+    ]
+   ]
+  },
+  {
+   "machine": "齒輪研磨螺紋研磨",
+   "rows": [
+    [
+     "碳素鋼",
+     "G-55 G-85"
+    ],
+    [
+     "合金鋼",
+     "G-55 G-85"
+    ],
+    [
+     "不銹鋼",
+     "G-55 G-85"
+    ],
+    [
+     "可鍛鑄鐵",
+     "G-55 G-85"
+    ],
+    [
+     "鋁合金",
+     "G-55 G-85"
+    ],
+    [
+     "銅合金",
+     "G-55 G-85"
+    ],
+    [
+     "光學鏡片",
+     "N/A"
+    ]
+   ]
+  },
+  {
+   "machine": "搪缸",
+   "rows": [
+    [
+     "碳素鋼",
+     "H-35 H-30"
+    ],
+    [
+     "合金鋼",
+     "H-35 H-30"
+    ],
+    [
+     "不銹鋼",
+     "H-35 H-30"
+    ],
+    [
+     "可鍛鑄鐵",
+     "H-35 H-30"
+    ],
+    [
+     "鋁合金",
+     "H-35 H-30"
+    ],
+    [
+     "銅合金",
+     "H-35 H-30"
+    ],
+    [
+     "光學鏡片",
+     "N/A"
+    ]
+   ]
+  },
+  {
+   "machine": "超精加工",
+   "rows": [
+    [
+     "碳素鋼",
+     "SF-33N"
+    ],
+    [
+     "合金鋼",
+     "SF-33N"
+    ],
+    [
+     "不銹鋼",
+     "SF-33N"
+    ],
+    [
+     "可鍛鑄鐵",
+     "SF-33N"
+    ],
+    [
+     "鋁合金",
+     "SF-33N"
+    ],
+    [
+     "銅合金",
+     "SF-33N"
+    ],
+    [
+     "光學鏡片",
+     "N/A"
+    ]
+   ]
+  },
+  {
+   "machine": "鑽石沙輪研磨",
+   "rows": [
+    [
+     "碳素鋼",
+     "SC-100S SC-300 NO.870L"
+    ],
+    [
+     "合金鋼",
+     "SC-100S SC-300 NO.870L"
+    ],
+    [
+     "不銹鋼",
+     "SC-100S SC-300 NO.870L"
+    ],
+    [
+     "可鍛鑄鐵",
+     "SC-100S SC-300 NO.870L"
+    ],
+    [
+     "鋁合金",
+     "SC-100S SC-300 NO.870L"
+    ],
+    [
+     "銅合金",
+     "SC-100S SC-300 NO.870L"
+    ],
+    [
+     "光學鏡片",
+     "N/A"
+    ]
+   ]
+  },
+  {
+   "machine": "CBN砂輪研磨",
+   "rows": [
+    [
+     "碳素鋼",
+     "S-83 A-9 NO.500 MIC-2000TRT"
+    ],
+    [
+     "合金鋼",
+     "S-83 A-9 NO.500 MIC-2000TRT"
+    ],
+    [
+     "不銹鋼",
+     "S-83 A-9 NO.500 MIC-2000TRT"
+    ],
+    [
+     "可鍛鑄鐵",
+     "S-83 A-9 NO.500 MIC-2000TRT"
+    ],
+    [
+     "鋁合金",
+     "S-83 A-9 NO.500 MIC-2000TRT"
+    ],
+    [
+     "銅合金",
+     "S-83 A-9 NO.500 MIC-2000TRT"
+    ],
+    [
+     "光學鏡片",
+     "N/A"
+    ]
+   ]
+  },
+  {
+   "machine": "取蕊彎曲面研磨",
+   "rows": [
+    [
+     "碳素鋼",
+     "N/A"
+    ],
+    [
+     "合金鋼",
+     "N/A"
+    ],
+    [
+     "不銹鋼",
+     "N/A"
+    ],
+    [
+     "可鍛鑄鐵",
+     "N/A"
+    ],
+    [
+     "鋁合金",
+     "N/A"
+    ],
+    [
+     "銅合金",
+     "N/A"
+    ],
+    [
+     "光學鏡片",
+     "SC-150 SES"
+    ]
+   ]
+  }
+ ],
+ "about_old": {
+  "photos": [
+   {
+    "src": "img/m/ebfd1e2bc2.jpg",
+    "w": 800,
+    "h": 565
+   },
+   {
+    "src": "img/m/008e6e8129.jpg",
+    "w": 800,
+    "h": 600
+   },
+   {
+    "src": "img/m/0cf3c951ff.jpg",
+    "w": 800,
+    "h": 600
+   },
+   {
+    "src": "img/m/b6c3d256c0.jpg",
+    "w": 800,
+    "h": 600
+   },
+   {
+    "src": "img/m/bebc33cf8c.jpg",
+    "w": 800,
+    "h": 600
+   },
+   {
+    "src": "img/m/53206035db.jpg",
+    "w": 800,
+    "h": 600
+   },
+   {
+    "src": "img/m/6cd4dbd106.jpg",
+    "w": 800,
+    "h": 600
+   },
+   {
+    "src": "img/m/5caba62527.jpg",
+    "w": 800,
+    "h": 600
+   }
+  ],
+  "videos": []
+ },
+ "cosmo_video": "files/cosmotech-friendly.mp4",
+ "iso": {
+  "zh": "files/iso-9001-2015-zh.pdf",
+  "en": "files/iso-9001-2015-en.pdf"
+ },
+ "iso_imgs": {
+  "ISO-9001-2015-國際品質管理系統認證-圓華油品-中文版.jpg": {
+   "src": "img/m/0431943c29.jpg",
+   "w": 350,
+   "h": 495
+  },
+  "ISO-9001-2015-國際品質管理系統認證-圓華油品-英文版.jpg": {
+   "src": "img/m/3e5ce83218.jpg",
+   "w": 350,
+   "h": 495
+  },
+  "sgs.jpg": {
+   "src": "img/m/1a12e97a2f.jpg",
+   "w": 254,
+   "h": 227
+  },
+  "reach.jpg": {
+   "src": "img/m/abffc5b60c.jpg",
+   "w": 254,
+   "h": 227
+  },
+  "rohs.jpg": {
+   "src": "img/m/6a0c9aa31c.jpg",
+   "w": 254,
+   "h": 227
+  },
+  "ISO-9001-2015.jpg": {
+   "src": "img/m/89ad4559f3.jpg",
+   "w": 775,
+   "h": 255
+  }
+ },
+ "company_photos": [
+  {
+   "src": "img/m/008e6e8129.jpg",
+   "w": 800,
+   "h": 600
+  },
+  {
+   "src": "img/m/0cf3c951ff.jpg",
+   "w": 800,
+   "h": 600
+  },
+  {
+   "src": "img/m/b6c3d256c0.jpg",
+   "w": 800,
+   "h": 600
+  },
+  {
+   "src": "img/m/ebfd1e2bc2.jpg",
+   "w": 800,
+   "h": 565
+  },
+  {
+   "src": "img/m/bebc33cf8c.jpg",
+   "w": 800,
+   "h": 600
+  },
+  {
+   "src": "img/m/53206035db.jpg",
+   "w": 800,
+   "h": 600
+  },
+  {
+   "src": "img/m/6cd4dbd106.jpg",
+   "w": 800,
+   "h": 600
+  },
+  {
+   "src": "img/m/5caba62527.jpg",
+   "w": 800,
+   "h": 600
+  },
+  {
+   "src": "img/m/fe2aba5786.jpg",
+   "w": 650,
+   "h": 487
+  },
+  {
+   "src": "img/m/44c925d15c.jpg",
+   "w": 650,
+   "h": 487
+  },
+  {
+   "src": "img/m/25b32622d7.jpg",
+   "w": 650,
+   "h": 487
+  },
+  {
+   "src": "img/m/7f36f07d2f.jpg",
+   "w": 650,
+   "h": 487
+  },
+  {
+   "src": "img/m/fb1bd79bf4.jpg",
+   "w": 650,
+   "h": 487
+  },
+  {
+   "src": "img/m/9a7a1876c3.jpg",
+   "w": 650,
+   "h": 487
+  },
+  {
+   "src": "img/m/c8d3efa4ad.jpg",
+   "w": 650,
+   "h": 487
+  },
+  {
+   "src": "img/m/f10fab32d9.jpg",
+   "w": 650,
+   "h": 487
+  }
+ ],
+ "drums": {
+  "battor": {
+   "src": "img/m/9d0267cfc2.jpg",
+   "w": 600,
+   "h": 600
+  },
+  "formosa": {
+   "src": "img/m/7942a17a8c.png",
+   "w": 253,
+   "h": 253
+  },
+  "yushiro": {
+   "src": "img/m/9f620f85ac.png",
+   "w": 600,
+   "h": 600
+  }
+ },
+ "apps_generic": [
+  {
+   "src": "img/m/ae85d2b97b.jpg",
+   "w": 270,
+   "h": 340
+  },
+  {
+   "src": "img/m/0edd4c6ab6.jpg",
+   "w": 270,
+   "h": 340
+  },
+  {
+   "src": "img/m/aa5898656f.jpg",
+   "w": 270,
+   "h": 340
+  },
+  {
+   "src": "img/m/78223413c4.jpg",
+   "w": 270,
+   "h": 340
+  }
+ ],
+ "notes": []
+}
