@@ -974,11 +974,54 @@ def equipment_page(e):
 
 
 # ---------------------------------------------------------------- license
+# certificate scans supplied by Yuan Hua (Drive, Nov 2026); personal data already masked by them
+CERTS = {
+    'permit': [
+        ('waste-permit', '廢棄物清除許可證（丙級）', [
+            ('核發機關', '臺中市政府環境保護局'), ('許可字號', '112臺中市廢丙清字第0011號'), ('機構名稱', '潤華商行'),
+            ('許可清除項目', '一般廢棄物、一般事業廢棄物'), ('有效期限', '2024.09.25 – 2028.01.11')], ''),
+        ('waste-tech', '甲級廢棄物處理專業技術人員合格證書', [
+            ('核發機關', '環境部'), ('證書字號', '(113)環部研證字第 HA380750 號'), ('發證日期', '2024.10.16')],
+         '人員證照，持證人個人資料已遮蔽。'),
+    ],
+    'iso': [
+        ('iso-9001', 'ISO 9001:2015 品質管理系統', [
+            ('驗證機構', 'ARES International Certification'), ('證書編號', 'ARES/TW/I2411060Q'), ('有效期限', '2024.11.14 – 2027.11.13')], ''),
+        ('iso-14001', 'ISO 14001:2015 環境管理系統', [
+            ('驗證機構', 'ARES International Certification'), ('證書編號', 'ARES/TW/I2602002E'), ('有效期限', '2026.02.03 – 2029.02.02')], ''),
+        ('iso-14064-1', 'ISO 14064-1:2018 溫室氣體查證意見聲明書', [
+            ('查證機構', 'ARES International Certification'), ('聲明書編號', 'ARES/TW/I2408049G'), ('查證範圍', '2023 年溫室氣體排放資訊'),
+            ('排放總量', '3,393.615 公噸 CO₂e（直接 106.8754／間接 3,286.7400）'), ('發行日期', '2024.08.13')], ''),
+    ],
+    'pro': [
+        ('ipas-net-zero', '淨零碳規劃管理師（初級）能力鑑定', [
+            ('核發機關', '經濟部（產業人才能力鑑定 iPAS）'), ('證書號', 'A-Q11-5212-2024'), ('發證日期', '2024.12.31')],
+         '人員證照，持證人個人資料已遮蔽。'),
+        ('teba-carbon', '品牌企業減碳永續研習 結訓證書', [
+            ('課程', '種子班：碳盤查及 ISO 14064（18 小時）'), ('主辦／承辦', '經濟部工業局／台灣精品品牌協會'), ('研習期間', '2023.08.29 – 2023.08.31')],
+         '人員結訓證書，持證人個人資料已遮蔽。'),
+        ('legal-counsel', '常年法律顧問證書', [
+            ('事務所', '博胤法律事務所'), ('顧問律師', '陳健律師、洪珮菱律師'), ('發證日期', '2023.11.01')], ''),
+    ],
+}
+
+
+def cert_cards(key):
+    out = []
+    for slug, title, meta, note in CERTS[key]:
+        rows = ''.join(f'<div><dt>{k}</dt><dd>{v}</dd></div>' for k, v in meta)
+        n = f'<p>{note}</p>' if note else ''
+        out.append(f'<li data-rv="up"><div class="cert">'
+                   f'<button class="ph zoom" type="button" data-full="img/certs/{slug}-l.jpg" data-alt="{E(title)}" aria-label="放大檢視：{E(title)}">{im(f"img/certs/{slug}.jpg", title)}</button>'
+                   f'<b>{title}</b><dl class="cmeta">{rows}</dl>{n}'
+                   f'<div class="links"><a href="img/certs/{slug}-l.jpg" target="_blank" rel="noopener">開啟原圖</a></div></div></li>')
+    return '\n      '.join(out)
+
+
 def license_page():
     iso = D['iso_imgs']
-    todo = '<svg viewBox="0 0 48 48" aria-hidden="true"><use href="#i-doc"/></svg>'
     body = hero([(None, '廢油/水清運牌')], 'License ／ 廢油・廢水清運', ['廢油／水清運牌', '證照資訊'],
-                lede='從換油、換水、設備需求到後續廢油／廢水清運，協助客戶減少不同廠商之間的溝通與管理成本。清運相關許可證照將公開於本頁，方便客戶查核。',
+                lede='從換油、換水、設備需求到後續廢油／廢水清運，協助客戶減少不同廠商之間的溝通與管理成本。相關許可與認證證照公開於本頁，點擊證照即可放大查核。',
                 cta='<a class="btn y" href="contact.html?item=廢油・廢水清運&topic=廢油・廢水清運#form">詢問清運服務 <i>→</i></a>',
                 img='img/drums-aisle.jpg', pos='50% 45%')
     body += f'''
@@ -986,35 +1029,44 @@ def license_page():
   <div class="wrap">
     <div class="sec-head">
       <span class="chip g" data-rv="pop">Permits ／ 清運許可</span>
-      {sec_title(['廢油／廢水清運', '許可證照'])}
-      <p class="lede" data-rv="up">清運服務相關之許可文件，將依主管機關核發內容公告。</p>
+      {sec_title(['廢棄物清除', '許可證照'])}
+      <p class="lede" data-rv="up">廢棄物清除許可證持有機構為潤華商行（臺中市政府環境保護局核發，丙級），許可內容依主管機關核發公告；並附甲級廢棄物處理專業技術人員合格證書。</p>
     </div>
-    <ul class="certs">
-      <li data-rv="up"><div class="cert"><div class="ph todo">{todo}證照圖檔<br>待圓華提供</div><b>廢油清運許可</b><p>許可字號、有效期限與核准項目待確認後公告。</p></div></li>
-      <li data-rv="up"><div class="cert"><div class="ph todo">{todo}證照圖檔<br>待圓華提供</div><b>廢水（廢液）清運許可</b><p>許可字號、有效期限與核准項目待確認後公告。</p></div></li>
-      <li data-rv="up"><div class="cert"><div class="ph todo">{todo}證照圖檔<br>待圓華提供</div><b>其他相關證照</b><p>如有車輛、處理機構或其他相關文件，可一併於此呈現。</p></div></li>
+    <ul class="certs two">
+      {cert_cards('permit')}
     </ul>
-    <p class="notice" data-rv="up" style="margin-top:28px">此區為版面示意：清運許可證照目前尚未取得檔案，正式上線前需由圓華提供並確認內容。</p>
   </div>
 </section>
 
 <section class="sec tight band round-r">
   <div class="wrap">
     <div class="sec-head">
-      <span class="chip g" data-rv="pop">Quality ／ 品質管理認證</span>
-      {sec_title(['ISO 9001:2015', '品質管理系統認證'])}
-      <p class="lede" data-rv="up">圓華油品於 2019 年取得 ISO 9001:2015 國際品質管理系統認證；產品並檢附國內檢驗 SGS 認證資料，以及歐盟 REACH、RoHS、COA 認證資料表。（品質管理認證，非清運許可證。）</p>
+      <span class="chip g" data-rv="pop">Certification ／ 管理系統認證</span>
+      {sec_title(['ISO 國際標準', '管理系統認證'])}
+      <p class="lede" data-rv="up">圓華油品通過 ISO 9001:2015 品質管理系統與 ISO 14001:2015 環境管理系統驗證，驗證範圍為「金屬加工、切削油產品」的包裝、儲存、銷售、運送及售後服務；2023 年溫室氣體排放資訊並經 ARES 依 ISO 14064-3:2019 完成查證，符合 ISO 14064-1:2018 要求。產品另檢附國內檢驗 SGS 認證資料，以及歐盟 REACH、RoHS、COA 認證資料表。</p>
+    </div>
+    <ul class="certs four">
+      {cert_cards('iso')}
+      <li data-rv="up"><div class="cert"><div class="ph" style="aspect-ratio:auto;padding:16px;gap:12px;display:grid;grid-template-columns:1fr 1fr 1fr;background:#fff">{im(iso['sgs.jpg']['src'], 'SGS')}{im(iso['reach.jpg']['src'], 'REACH')}{im(iso['rohs.jpg']['src'], 'RoHS')}</div><b>SGS ／ REACH ／ RoHS</b><p>產品檢驗與歐盟相關認證資料，可向圓華索取。</p><div class="links"><a href="news-detail14.html">閱讀認證公告</a></div></div></li>
+    </ul>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="chip g" data-rv="pop">Professional ／ 專業與治理</span>
+      {sec_title(['專業證照', '與企業治理'])}
+      <p class="lede" data-rv="up">持續投入淨零減碳與企業治理：團隊成員取得經濟部淨零碳規劃管理師（初級）能力鑑定、完成品牌企業減碳永續研習（碳盤查及 ISO 14064），公司並聘任常年法律顧問。</p>
     </div>
     <ul class="certs">
-      <li data-rv="up"><div class="cert"><div class="ph">{im(iso['ISO-9001-2015-國際品質管理系統認證-圓華油品-中文版.jpg']['src'], 'ISO 9001:2015 認證證書（中文版）')}</div><b>ISO 9001:2015 證書（中文版）</b><div class="links"><a href="{D['iso']['zh']}" target="_blank" rel="noopener">開啟 PDF</a></div></div></li>
-      <li data-rv="up"><div class="cert"><div class="ph">{im(iso['ISO-9001-2015-國際品質管理系統認證-圓華油品-英文版.jpg']['src'], 'ISO 9001:2015 Certificate (English)')}</div><b>ISO 9001:2015 證書（英文版）</b><div class="links"><a href="{D['iso']['en']}" target="_blank" rel="noopener">開啟 PDF</a></div></div></li>
-      <li data-rv="up"><div class="cert"><div class="ph" style="aspect-ratio:auto;padding:16px;gap:12px;display:grid;grid-template-columns:1fr 1fr 1fr;background:#fff">{im(iso['sgs.jpg']['src'], 'SGS')}{im(iso['reach.jpg']['src'], 'REACH')}{im(iso['rohs.jpg']['src'], 'RoHS')}</div><b>SGS ／ REACH ／ RoHS</b><p>產品檢驗與歐盟相關認證資料，可向圓華索取。</p><div class="links"><a href="news-detail14.html">閱讀認證公告</a></div></div></li>
+      {cert_cards('pro')}
     </ul>
   </div>
 </section>
 ''' + cta_band(title=('需要換油、換水', '或廢油／廢水清運？'), qs=['目前的廢油、廢水量與清運頻率？', '是否同時需要換液或設備評估？'],
                lede='告訴我們現場狀況，圓華團隊會協助串聯換液、設備與後續清運。', item='廢油・廢水清運')
-    page('license.html', '廢油/水清運牌', '圓華油品廢油／廢水清運服務與相關證照資訊，以及 ISO 9001:2015 品質管理系統認證。', 'license', body, 'img/drums-aisle.jpg')
+    page('license.html', '廢油/水清運牌', '圓華油品廢油／廢水清運服務相關證照：潤華商行廢棄物清除許可證（丙級）、ISO 9001 與 ISO 14001 驗證、ISO 14064-1 溫室氣體查證，以及淨零減碳等專業證照。', 'license', body, 'img/drums-aisle.jpg', lightbox=True)
 
 
 # ---------------------------------------------------------------- news

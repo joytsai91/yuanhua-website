@@ -35,6 +35,7 @@ SKIP_ATTR = 'data-i18n-skip'
 # repeated attribute patterns, translated by rule instead of one table entry per number
 PATTERNS = [
     (re.compile(r'^放大第 (\d+) 張照片$'), lambda m, t: f'Enlarge photo {m[1]}'),
+    (re.compile(r'^放大檢視：(.+)$'), lambda m, t: f'Enlarge: {t(m[1])}'),
     (re.compile(r'^第 (\d+) 張$'), lambda m, t: f'Slide {m[1]}'),
     (re.compile(r'^(.+) 照片 (\d+)$'), lambda m, t: f'{t(m[1])} – photo {m[2]}'),
 ]
@@ -208,7 +209,7 @@ def page_units(soup, fn):
                 for pat, _ in PATTERNS:
                     m = pat.match(v)
                     if m:
-                        if pat.pattern.startswith('^(.+)') and not in_skip(el):
+                        if m.groups() and has_cjk(m[1]) and not in_skip(el):
                             units.append(dict(kind='attr', key=norm(m[1]), ctx=f'{a} on <{el.name}>'))
                         break
                 else:

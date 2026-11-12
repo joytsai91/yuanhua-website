@@ -221,21 +221,26 @@
     });
   });
 
-  /* ---- 9. lightbox for photo grids ---- */
+  /* ---- 9. lightbox for photo grids and certificate scans ---- */
   var lb = document.querySelector('.lb');
   if (lb) {
     var lbImg = lb.querySelector('img'), lbCap = lb.querySelector('figcaption');
     var list = [], idx = 0, opener = null;
-    function render(){ var b = list[idx]; lbImg.src = b.getAttribute('data-full'); lbImg.alt = b.getAttribute('data-alt') || ''; lbCap.textContent = (idx + 1) + ' / ' + list.length; }
+    function render(){
+      var b = list[idx], alt = b.getAttribute('data-alt') || '';
+      lbImg.src = b.getAttribute('data-full'); lbImg.alt = alt;
+      lbCap.textContent = (b.closest('.certs') ? alt + '　' : '') + (idx + 1) + ' / ' + list.length;
+    }
     function open(btn){
-      list = Array.prototype.slice.call(btn.closest('.gal').querySelectorAll('button'));
+      // photo grids page within their own album; certificate scans page through every certificate on the page
+      list = Array.prototype.slice.call(btn.closest('.certs') ? document.querySelectorAll('.certs button[data-full]') : btn.closest('.gal').querySelectorAll('button'));
       idx = list.indexOf(btn); opener = btn; render();
       if (lb.showModal) lb.showModal(); else lb.setAttribute('open', '');
       root.style.overflow = 'hidden';
     }
     function close(){ if (lb.close) lb.close(); else lb.removeAttribute('open'); }
     lb.addEventListener('close', function(){ root.style.overflow = ''; if (opener) opener.focus(); });
-    document.addEventListener('click', function(e){ var b = e.target.closest('.gal button'); if (b) open(b); });
+    document.addEventListener('click', function(e){ var b = e.target.closest('.gal button, .certs button[data-full]'); if (b) open(b); });
     lb.querySelector('.x').addEventListener('click', close);
     lb.querySelector('.pv').addEventListener('click', function(){ idx = (idx - 1 + list.length) % list.length; render(); });
     lb.querySelector('.nx').addEventListener('click', function(){ idx = (idx + 1) % list.length; render(); });

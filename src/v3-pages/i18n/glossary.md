@@ -593,3 +593,16 @@ Formosa spec-heading tags `<2>APPLIANCE</2>`, `<2>CLASSIC DATA</2>` etc. are alr
 | 上一張 / 下一張 / 照片檢視 / 關閉 | Previous photo / Next photo / Photo viewer / Close |
 | 播放：X | Play: X |
 | 媒體報導 / 現場紀錄 / 活動照片 | Media coverage / On-site records / Event photos |
+
+## Certificates (license.html)
+| Chinese | English |
+|---|---|
+| 廢棄物清除許可證（丙級） | Waste Collection Permit (Class C) |
+| 甲級廢棄物處理專業技術人員合格證書 | Class A Waste Treatment Technician Certificate |
+| ISO 14064-1:2018 溫室氣體查證意見聲明書 | ISO 14064-1:2018 GHG Verification Opinion Statement |
+| 淨零碳規劃管理師（初級）能力鑑定 | Net-Zero Carbon Emission Planning Administrator – Associate Level (wording printed on the certificate) |
+| 品牌企業減碳永續研習 結訓證書 | Low Carbon Seminar – Certificate of Completion |
+| 常年法律顧問證書 | Legal Consultant Certificate |
+| 臺中市政府環境保護局 / 環境部 / 經濟部工業局 / 台灣精品品牌協會 | Environmental Protection Bureau, Taichung City Government / Ministry of Environment / Industrial Development Bureau, MOEA / Taiwan Excellent Brand Association |
+| 潤華商行 / 博胤法律事務所 / 陳健、洪珮菱 | Run Hua Trading / Bo Yin Law Firm / Chen Chien, Hung Pei-Ling (romanisations, unconfirmed) |
+| 驗證 (ISO 9001/14001) vs 查證 (ISO 14064) | certification vs verification — never call the 14064 opinion statement a certification |
